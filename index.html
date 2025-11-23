@@ -6,12 +6,12 @@
     <title>Screenless in Seattle</title>
     <style>
         body { 
-            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; 
             max-width: 650px; 
             margin: 0 auto; 
             padding: 20px; 
-            background-color: #111; 
-            color: #eee; 
+            background-color: #0f0f0f; 
+            color: #e0e0e0; 
         }
         
         header {
@@ -24,17 +24,15 @@
         h1 { 
             margin: 0;
             text-transform: uppercase;
-            letter-spacing: 3px;
+            letter-spacing: 2px;
             font-size: 1.8rem;
-            background: -webkit-linear-gradient(#eee, #999);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+            color: #fff;
         }
 
         #updated-at {
             margin-top: 5px;
             font-size: 0.8rem;
-            color: #555;
+            color: #666;
             font-family: monospace;
         }
 
@@ -46,16 +44,15 @@
             display: flex; 
             justify-content: space-between; 
             align-items: flex-start; 
-            border-left: 5px solid #555; /* Default border */
-            transition: transform 0.2s;
+            border-left: 5px solid #555; 
+            transition: background 0.2s;
         }
 
         .movie-card:hover {
-            transform: translateY(-2px);
-            background: #222;
+            background: #252525;
         }
 
-        /* Theater Specific Styles */
+        /* Theater Colors */
         .theater-beacon { border-left-color: #e74c3c; } /* Beacon Red */
         .theater-nwff { border-left-color: #9b59b6; }   /* NWFF Purple */
 
@@ -73,29 +70,30 @@
             display: flex;
             align-items: center;
             gap: 10px;
-            margin-top: 5px;
+            margin-top: 8px;
             font-size: 0.85rem;
             color: #aaa;
             font-family: monospace;
+            flex-wrap: wrap;
         }
 
         .badge {
-            padding: 2px 6px;
+            padding: 3px 6px;
             border-radius: 3px;
             font-weight: bold;
             font-size: 0.7rem;
             text-transform: uppercase;
-            color: #111;
+            color: #000;
         }
 
-        .badge-beacon { background-color: #e74c3c; }
-        .badge-nwff { background-color: #9b59b6; }
+        .badge-beacon { background-color: #e74c3c; color: white; }
+        .badge-nwff { background-color: #9b59b6; color: white; }
 
-        .location-text {
+        .location-pin {
+            display: flex;
+            align-items: center;
             color: #666;
             font-size: 0.75rem;
-            display: block;
-            margin-top: 4px;
         }
 
         a.ticket-btn { 
@@ -103,7 +101,7 @@
             text-decoration: none; 
             background: #333; 
             color: white; 
-            padding: 12px 15px; 
+            padding: 10px 16px; 
             border-radius: 4px; 
             font-weight: bold;
             font-size: 0.8rem;
@@ -128,14 +126,12 @@
         async function loadMovies() {
             try {
                 const response = await fetch('listings.json');
-                if (!response.ok) throw new Error("File not found");
                 const data = await response.json();
 
-                document.getElementById('updated-at').innerText = 'Updated: ' + data.updated_at;
+                document.getElementById('updated-at').innerText = 'Last Updated: ' + data.updated_at;
                 renderMovies(data.movies);
             } catch (error) {
-                document.getElementById('movie-list').innerHTML = 
-                    '<p style="text-align:center">Loading...</p>';
+                document.getElementById('movie-list').innerHTML = '<p style="text-align:center">Loading...</p>';
             }
         }
 
@@ -152,9 +148,9 @@
             movies.forEach(movie => {
                 const card = document.createElement('div');
                 
-                // Determine styling based on theater
-                let theaterClass = 'theater-default';
-                let badgeClass = 'badge-default';
+                // Styling logic
+                let theaterClass = '';
+                let badgeClass = 'badge';
                 
                 if (movie.theater === 'The Beacon') {
                     theaterClass = 'theater-beacon';
@@ -172,8 +168,8 @@
                         <div class="meta-row">
                             <span class="badge ${badgeClass}">${movie.theater}</span>
                             <span>${movie.date_display}</span>
+                            <span class="location-pin">📍 ${movie.location}</span>
                         </div>
-                        <span class="location-text">📍 ${movie.location}</span>
                     </div>
                     <a href="${movie.link}" target="_blank" class="ticket-btn">Tickets</a>
                 `;
