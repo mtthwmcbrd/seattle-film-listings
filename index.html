@@ -3,134 +3,177 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Beacon Showtimes</title>
+    <title>Screenless in Seattle</title>
     <style>
-        /* The Beacon Style: Red, Black, White */
         body { 
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
-            max-width: 600px; 
+            max-width: 650px; 
             margin: 0 auto; 
             padding: 20px; 
-            background-color: #111; /* Dark background */
+            background-color: #111; 
             color: #eee; 
         }
         
-        h1 { 
-            text-align: center; 
-            color: #e74c3c; /* Beacon Red */
-            text-transform: uppercase;
-            letter-spacing: 2px;
-            border-bottom: 2px solid #e74c3c;
-            padding-bottom: 15px;
+        header {
+            text-align: center;
+            border-bottom: 1px solid #333;
+            padding-bottom: 20px;
             margin-bottom: 30px;
         }
 
+        h1 { 
+            margin: 0;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-size: 1.8rem;
+            background: -webkit-linear-gradient(#eee, #999);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        #updated-at {
+            margin-top: 5px;
+            font-size: 0.8rem;
+            color: #555;
+            font-family: monospace;
+        }
+
         .movie-card { 
-            background: #222; 
+            background: #1a1a1a; 
             padding: 20px; 
             margin-bottom: 20px; 
-            border-left: 5px solid #e74c3c; /* Red accent border */
-            border-radius: 4px; 
+            border-radius: 6px; 
             display: flex; 
             justify-content: space-between; 
-            align-items: center; 
+            align-items: flex-start; 
+            border-left: 5px solid #555; /* Default border */
+            transition: transform 0.2s;
         }
+
+        .movie-card:hover {
+            transform: translateY(-2px);
+            background: #222;
+        }
+
+        /* Theater Specific Styles */
+        .theater-beacon { border-left-color: #e74c3c; } /* Beacon Red */
+        .theater-nwff { border-left-color: #9b59b6; }   /* NWFF Purple */
+
+        .movie-info { flex-grow: 1; padding-right: 15px; }
 
         .movie-info h2 { 
             margin: 0 0 8px 0; 
-            font-size: 1.1rem; 
+            font-size: 1.2rem; 
             font-weight: 700;
             color: #fff;
+            line-height: 1.3;
         }
 
-        .movie-meta { 
-            font-size: 0.95rem; 
-            color: #aaa; 
+        .meta-row {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-top: 5px;
+            font-size: 0.85rem;
+            color: #aaa;
             font-family: monospace;
+        }
+
+        .badge {
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-weight: bold;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            color: #111;
+        }
+
+        .badge-beacon { background-color: #e74c3c; }
+        .badge-nwff { background-color: #9b59b6; }
+
+        .location-text {
+            color: #666;
+            font-size: 0.75rem;
+            display: block;
+            margin-top: 4px;
         }
 
         a.ticket-btn { 
+            flex-shrink: 0;
             text-decoration: none; 
-            background: #e74c3c; 
+            background: #333; 
             color: white; 
-            padding: 10px 15px; 
-            border-radius: 0; 
+            padding: 12px 15px; 
+            border-radius: 4px; 
             font-weight: bold;
             font-size: 0.8rem;
             text-transform: uppercase;
-            transition: background 0.2s;
+            white-space: nowrap;
         }
         
-        a.ticket-btn:hover { 
-            background: #c0392b; 
-        }
-
-        #updated-at { 
-            text-align: center; 
-            color: #555; 
-            font-size: 0.75rem; 
-            margin-top: 40px; 
-            font-family: monospace;
-        }
-        
-        .loading { text-align: center; color: #777; margin-top: 50px; }
+        a.ticket-btn:hover { background: #555; }
+        .loading { text-align: center; color: #555; margin-top: 50px; }
     </style>
 </head>
 <body>
 
-    <h1>The Beacon Cinema</h1>
+    <header>
+        <h1>Screenless in Seattle</h1>
+        <div id="updated-at"></div>
+    </header>
 
-    <div id="movie-list" class="loading">Loading showtimes...</div>
-    <div id="updated-at"></div>
+    <div id="movie-list" class="loading">Fetching listings...</div>
 
     <script>
         async function loadMovies() {
             try {
-                // 1. Fetch the data
                 const response = await fetch('listings.json');
                 if (!response.ok) throw new Error("File not found");
-                
                 const data = await response.json();
-                
-                // 2. Filter ONLY for The Beacon
-                // We convert everything to lowercase to be safe
-                const beaconMovies = data.movies.filter(movie => 
-                    movie.theater.toLowerCase().includes('beacon')
-                );
 
-                // 3. Update Timestamp
-                document.getElementById('updated-at').innerText = 'Last updated: ' + data.updated_at;
-                
-                // 4. Render
-                renderMovies(beaconMovies);
-
+                document.getElementById('updated-at').innerText = 'Updated: ' + data.updated_at;
+                renderMovies(data.movies);
             } catch (error) {
                 document.getElementById('movie-list').innerHTML = 
-                    '<p style="text-align:center; color:#e74c3c">No listings found or script is running.</p>';
-                console.error('Error:', error);
+                    '<p style="text-align:center">Loading...</p>';
             }
         }
 
         function renderMovies(movies) {
             const container = document.getElementById('movie-list');
             container.innerHTML = '';
-            container.className = ''; // remove loading class
+            container.className = '';
 
-            if (movies.length === 0) {
+            if (!movies || movies.length === 0) {
                 container.innerHTML = '<p style="text-align:center">No upcoming showtimes found.</p>';
                 return;
             }
 
             movies.forEach(movie => {
                 const card = document.createElement('div');
-                card.className = 'movie-card';
+                
+                // Determine styling based on theater
+                let theaterClass = 'theater-default';
+                let badgeClass = 'badge-default';
+                
+                if (movie.theater === 'The Beacon') {
+                    theaterClass = 'theater-beacon';
+                    badgeClass = 'badge-beacon';
+                } else if (movie.theater === 'NWFF') {
+                    theaterClass = 'theater-nwff';
+                    badgeClass = 'badge-nwff';
+                }
+
+                card.className = `movie-card ${theaterClass}`;
                 
                 card.innerHTML = `
                     <div class="movie-info">
                         <h2>${movie.title}</h2>
-                        <div class="movie-meta">
-                            ${movie.date}
+                        <div class="meta-row">
+                            <span class="badge ${badgeClass}">${movie.theater}</span>
+                            <span>${movie.date_display}</span>
                         </div>
+                        <span class="location-text">📍 ${movie.location}</span>
                     </div>
                     <a href="${movie.link}" target="_blank" class="ticket-btn">Tickets</a>
                 `;
