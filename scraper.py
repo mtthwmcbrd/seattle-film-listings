@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import datetime
 import re
-import time
+import html
 
 OUTPUT_FILE = 'listings.json'
 
@@ -12,8 +12,9 @@ HEADERS = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
 }
 
-def get_ordinal_date(n):
-    return n + ("th" if 11 <= n <= 13 else {1: "st", 2: "nd", 3: "rd"}.get(n % 10, "th"))
+def clean_title(title):
+    # Fixes &amp; -> &, and removes extra spaces
+    return html.unescape(title).strip()
 
 def scrape_the_beacon():
     print("--- Scraping The Beacon ---")
@@ -50,7 +51,7 @@ def scrape_the_beacon():
                 listings.append({
                     "theater": "The Beacon",
                     "location": "4405 Rainier Ave S",
-                    "title": title,
+                    "title": clean_title(title),
                     "date_display": date_str,
                     "link": link,
                     "sort_key": raw_date.timestamp() if raw_date else 0
@@ -61,126 +62,82 @@ def scrape_the_beacon():
 
     return listings
 
-def scrape_nwff():
-    print("--- Scraping Northwest Film Forum ---")
+def scrape_nwff_api():
+    print("--- Scraping NWFF (via API) ---")
     listings = []
     
-    # We will scrape the current month AND the next month to ensure we get future listings
-    # NWFF URL structure handles dates like: https://nwfilmforum.org/calendar/?tribe-bar-date=2025-11
-    today = datetime.datetime.now()
-    dates_to_scrape = [today, today + datetime.timedelta(days=32)]
+    # This URL is the direct data feed for their calendar
+    api_url = "https://nwfilmforum.org/wp-json/tribe/events/v1/events"
     
-    scraped_urls = []
-
-    for d in dates_to_scrape:
-        month_str = d.strftime("%Y-%m")
-        url = f"https://nwfilmforum.org/calendar/?tribe-bar-date={month_str}"
+    # We ask for 100 events starting from today
+    params = {
+        "per_page": 100,
+        "start_date": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    }
+    
+    try:
+        response = requests.get(api_url, params=params, headers=HEADERS, timeout=15)
+        data = response.json()
         
-        if url in scraped_urls: continue
-        scraped_urls.append(url)
-        
-        print(f"Checking NWFF month: {month_str}...")
-        
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=15)
-            soup = BeautifulSoup(response.content, 'html.parser')
+        if 'events' not in data:
+            print("API returned no events.")
+            return []
             
-            # Based on your screenshot: <article class="preview-wrap">
-            items = soup.find_all('article', class_='preview-wrap')
-            
-            for item in items:
-                try:
-                    # 1. Title: <h1 class="preview__slide_bottom_title">
-                    title_tag = item.find('h1', class_='preview__slide_bottom_title')
-                    if not title_tag: continue
-                    title = title_tag.get_text(strip=True)
+        print(f"API returned {len(data['events'])} raw events.")
 
-                    # 2. Date/Time: <div class="preview__slide_top_text"> -> " Thu Nov 20 <br> 7.00pm "
-                    date_container = item.find('div', class_='preview__slide_top_text')
-                    if not date_container: continue
-                    
-                    # Get text, replace <br> with space, clean up
-                    raw_text = date_container.get_text(" ", strip=True) # "Thu Nov 20 7.00pm"
-                    
-                    # Normalize formatting (remove extra spaces)
-                    raw_text = re.sub(r'\s+', ' ', raw_text)
-                    
-                    # Parse Date
-                    # Format usually: "Thu Nov 20 7.00pm" or "7.00pm"
-                    # We need to add the Year to make it a real datetime object
-                    current_year = d.year 
-                    
-                    # Handle "Nov 20" vs "Jan 05" (year rollover)
-                    # Simple heuristic: if month is Jan and we are in Dec, add 1 to year.
-                    
-                    # Try to parse: "Thu Nov 20 7.00pm"
-                    # Create a datetime object for sorting
-                    clean_date_str = raw_text.replace(".", ":") # 7.00pm -> 7:00pm
-                    
-                    try:
-                        # Attempt to parse "Thu Nov 20 7:00pm"
-                        # We append the year to parse it correctly
-                        parse_str = f"{clean_date_str} {current_year}"
-                        dt = datetime.datetime.strptime(parse_str, "%a %b %d %I:%M%p %Y")
-                        
-                        # Fix for year boundary (Dec -> Jan)
-                        # If parsed date is more than 11 months in the past, it's probably next year
-                        if (datetime.datetime.now() - dt).days > 330:
-                            dt = dt.replace(year=current_year + 1)
-                        
-                        sort_key = dt.timestamp()
-                        date_display = dt.strftime("%a, %b %d @ %I:%M %p")
-                    except ValueError:
-                        # Fallback if format is weird
-                        sort_key = d.timestamp() # Put it at end of month list
-                        date_display = raw_text
-
-                    # 3. Link
-                    link_tag = item.find('a', class_='preview')
-                    link = link_tag['href'] if link_tag else url
-
-                    listings.append({
-                        "theater": "NWFF",
-                        "location": "1515 12th Ave",
-                        "title": title,
-                        "date_display": date_display,
-                        "link": link,
-                        "sort_key": sort_key
-                    })
-                    
-                except Exception as e:
+        for event in data['events']:
+            try:
+                title = event.get('title', 'Unknown Title')
+                
+                # Filter out Workshops/Camps to keep it to "Films"
+                if any(x in title.lower() for x in ['workshop', 'camp', 'registration']):
                     continue
-            
-            # Be nice to the server
-            time.sleep(1)
-            
-        except Exception as e:
-            print(f"NWFF Error: {e}")
 
+                # Get Date
+                start_date_str = event.get('start_date') # "2025-11-20 19:00:00"
+                dt = datetime.datetime.strptime(start_date_str, "%Y-%m-%d %H:%M:%S")
+                date_display = dt.strftime("%a, %b %d @ %I:%M %p")
+                
+                # Get Link
+                link = event.get('url', 'https://nwfilmforum.org/calendar')
+
+                listings.append({
+                    "theater": "NWFF",
+                    "location": "1515 12th Ave",
+                    "title": clean_title(title),
+                    "date_display": date_display,
+                    "link": link,
+                    "sort_key": dt.timestamp()
+                })
+            except Exception as e:
+                print(f"Skipping NWFF item: {e}")
+                
+    except Exception as e:
+        print(f"NWFF API Error: {e}")
+        
     return listings
 
 def main():
     all_listings = []
     
     all_listings.extend(scrape_the_beacon())
-    all_listings.extend(scrape_nwff())
+    all_listings.extend(scrape_nwff_api())
     
-    # Global Sort by Date
+    # Sort everything by date
     all_listings.sort(key=lambda x: x['sort_key'])
     
-    # Cleanup keys not needed for JSON
-    for item in listings:
-        if 'sort_key' in item: del item['sort_key']
-
-    # Deduplicate (NWFF sometimes lists same event on month overlap)
+    # Remove duplicates (sometimes API returns same movie twice if scraped oddly)
     unique_listings = []
     seen = set()
     for item in all_listings:
-        # Create a unique ID string
+        # Create a unique signature
         uid = f"{item['theater']}{item['title']}{item['date_display']}"
         if uid not in seen:
             unique_listings.append(item)
             seen.add(uid)
+            
+        # Clean up the sort key before saving
+        if 'sort_key' in item: del item['sort_key']
 
     data = {
         "updated_at": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
@@ -192,6 +149,4 @@ def main():
     print(f"Successfully saved {len(unique_listings)} listings.")
 
 if __name__ == "__main__":
-    # Fix 'listings' reference error in main
-    listings = [] # temp holder
     main()
