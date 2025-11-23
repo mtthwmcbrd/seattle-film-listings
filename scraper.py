@@ -4,6 +4,7 @@ import json
 import datetime
 import re
 import html
+import time
 
 OUTPUT_FILE = 'listings.json'
 
@@ -61,76 +62,98 @@ def scrape_the_beacon():
 
     return listings
 
-def scrape_nwff_rss():
-    print("--- Scraping NWFF (RSS Feed) ---")
+def scrape_nwff_deep():
+    print("--- Scraping NWFF (Films RSS + Deep Search) ---")
     listings = []
     
-    # Try the main events feed
-    # We use 'html.parser' which is built-in, avoiding the XML error
-    rss_url = "https://nwfilmforum.org/feed/?post_type=tribe_events"
+    # CORRECT FEED: 'post_type=film' gets the movies, not the news
+    rss_url = "https://nwfilmforum.org/feed/?post_type=film"
     
     try:
         response = requests.get(rss_url, headers=HEADERS, timeout=15)
-        # FIX: Use 'html.parser' instead of 'xml'
-        soup = BeautifulSoup(response.content, 'html.parser')
+        soup = BeautifulSoup(response.content, 'html.parser') # Use html.parser to avoid XML errors
         
         items = soup.find_all('item')
-        print(f"RSS Feed returned {len(items)} items.")
+        print(f"Found {len(items)} films in RSS feed. Checking showtimes...")
 
-        for item in items:
+        # Limit to first 15 items to keep script fast (movies usually stay in feed for a while)
+        for item in items[:15]:
             try:
                 title = item.title.get_text(strip=True)
-                link = item.link.get_text(strip=True) if item.link else "https://nwfilmforum.org"
+                link = item.link.get_text(strip=True)
                 
-                # RSS descriptions often contain the date like "November 23 @ 7:00 pm"
-                desc = item.description.get_text(strip=True) if item.description else ""
+                # Cleanup Title (Remove " - Nov 20" etc)
+                title = title.split(" &#8211; ")[0]
+                title = clean_title(title)
                 
-                # 1. Clean Title
-                # Sometimes title is "Movie Name - November 22". We want just "Movie Name"
-                clean_title_str = title.split(" &#8211; ")[0] # Remove dash and date if present
-                clean_title_str = clean_title(clean_title_str)
-
-                # Filter out Workshops
-                if any(x in clean_title_str.lower() for x in ['workshop', 'camp', 'class', 'registration']):
+                # Filter junk
+                if any(x in title.lower() for x in ['workshop', 'camp', 'call for', 'registration']):
                     continue
 
-                # 2. Extract Date
-                # Look for patterns like "Nov 23 @ 7:00 pm" or "November 23 @ 7:00 pm"
-                date_display = "Check Website"
-                sort_key = datetime.datetime.now().timestamp() + 86400 * 60 # Default to far future
-                
-                # Regex to find date in description
-                # Matches: Month Name DD @ HH:MM am/pm
-                date_match = re.search(r'([A-Z][a-z]+ \d{1,2} @ \d{1,2}:\d{2} [ap]m)', desc)
-                
-                if date_match:
-                    date_str = date_match.group(1) # e.g. "November 23 @ 7:00 pm"
-                    date_display = date_str
+                # DEEP SCRAPE: Visit the movie page to find the specific dates
+                # We look for the class from your screenshot: 'preview__slide_top_text'
+                # or standard time formats.
+                try:
+                    movie_page = requests.get(link, headers=HEADERS, timeout=10)
+                    page_soup = BeautifulSoup(movie_page.content, 'html.parser')
                     
-                    # Try to parse into a real date object for sorting
-                    try:
-                        # We need to guess the year (RSS doesn't always have it)
-                        current_year = datetime.datetime.now().year
-                        dt = datetime.datetime.strptime(f"{date_str} {current_year}", "%B %d @ %I:%M %p %Y")
-                        
-                        # If date is way in the past (e.g. scraped a Jan movie in Dec), add a year
-                        if dt < datetime.datetime.now() - datetime.timedelta(days=30):
-                            dt = dt.replace(year=current_year + 1)
+                    # 1. Look for the exact structure from your screenshot
+                    # Your screenshot showed dates inside <div class="preview__slide_top_text">
+                    date_tags = page_soup.find_all(class_='preview__slide_top_text')
+                    
+                    found_dates = []
+                    
+                    if date_tags:
+                        for tag in date_tags:
+                            # Text is like: "Thu Nov 20 <br> 7.00pm"
+                            # We replace <br> with space
+                            for br in tag.find_all("br"): br.replace_with(" ")
+                            date_text = tag.get_text(" ", strip=True)
                             
-                        sort_key = dt.timestamp()
-                        # Reformat nicely: "Sat, Nov 23 @ 7:00 PM"
-                        date_display = dt.strftime("%a, %b %d @ %I:%M %p")
-                    except:
-                        pass # Keep raw string if parsing fails
-                
-                listings.append({
-                    "theater": "NWFF",
-                    "location": "1515 12th Ave",
-                    "title": clean_title_str,
-                    "date_display": date_display,
-                    "link": link,
-                    "sort_key": sort_key
-                })
+                            # Clean it up: "Thu Nov 20 7.00pm" -> "Thu, Nov 20 @ 7:00 PM"
+                            # Basic regex to catch "Nov 20" part
+                            if re.search(r'\w{3}\s\d{1,2}', date_text):
+                                found_dates.append(date_text)
+                    
+                    # 2. Fallback: Search for any text that looks like a date on the page
+                    if not found_dates:
+                        # Regex for "Month DD @ HH:MM" or similar
+                        page_text = page_soup.get_text()
+                        matches = re.findall(r'([A-Z][a-z]{2})\s(\d{1,2})\s@\s(\d{1,2}:\d{2}\s?[ap]m)', page_text, re.I)
+                        for m in matches:
+                            found_dates.append(f"{m[0]} {m[1]} @ {m[2]}")
+
+                    # If we found dates, add a listing for EACH showtime
+                    if found_dates:
+                        for d_str in found_dates:
+                             # Clean up string
+                            d_str = d_str.replace(" .", ":").replace(".", ":")
+                            
+                            listings.append({
+                                "theater": "NWFF",
+                                "location": "1515 12th Ave",
+                                "title": title,
+                                "date_display": d_str, # Keep raw string if parsing is hard, usually readable enough
+                                "link": link,
+                                "sort_key": datetime.datetime.now().timestamp() # Default sort
+                            })
+                    else:
+                        # If no specific dates found, just list "Check Website"
+                        listings.append({
+                            "theater": "NWFF",
+                            "location": "1515 12th Ave",
+                            "title": title,
+                            "date_display": "Check Website for Showtimes",
+                            "link": link,
+                            "sort_key": datetime.datetime.now().timestamp() + 99999
+                        })
+                        
+                    # Be nice to server
+                    time.sleep(0.5)
+
+                except Exception as e:
+                    print(f"Failed to deep scrape {title}: {e}")
+                    continue
                 
             except Exception as e:
                 print(f"Skipping RSS item: {e}")
@@ -147,25 +170,28 @@ def main():
     # 1. Beacon
     all_listings.extend(scrape_the_beacon())
     
-    # 2. NWFF
-    nwff_data = scrape_nwff_rss()
+    # 2. NWFF Deep Scrape
+    nwff_data = scrape_nwff_deep()
     all_listings.extend(nwff_data)
     
-    # Sort by date
+    # Sort
+    # Since deep scrape dates are hard to convert to timestamps perfectly without year,
+    # we sort mostly by the Beacon timestamps, and append NWFF. 
+    # A true sort would require complex date parsing logic.
     all_listings.sort(key=lambda x: x['sort_key'])
     
+    # Remove Sort Key
+    for item in all_listings:
+        if 'sort_key' in item: del item['sort_key']
+
     # Deduplicate
     unique_listings = []
     seen = set()
     for item in all_listings:
-        # Create a unique signature
         uid = f"{item['theater']}{item['title']}{item['date_display']}"
         if uid not in seen:
             unique_listings.append(item)
             seen.add(uid)
-        
-        # Cleanup
-        if 'sort_key' in item: del item['sort_key']
 
     data = {
         "updated_at": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
