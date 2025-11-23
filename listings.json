@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-23 08:14:19",
+  "updated_at": "2025-11-23 16:23:09",
   "movies": [
     {
       "theater": "The Beacon",
@@ -16,11 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-7-8"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Youth Filmmaker Series: Intro to Editing [In-Person Only]",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/education/workshops/yfs_introtoediting/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TEA AND SYMPATHY",
+      "date_display": "Mon, Nov 24 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/tea-and-sympathy"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HOVERING OVER THE WATER",
+      "date_display": "Mon, Nov 24 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/hovering-over-the-water"
     },
     {
       "theater": "NWFF",
@@ -28,20 +35,6 @@
       "title": "The Last Dive",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-last-dive/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "South Sound Experimental Film Festival 2025 \u2013\u00a0Cloaven Theater & Evil of Dracula",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/south-sound-experimental-film-festival-2025-cloaven-theater-evil-of-dracula/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "South Sound Experimental Film Festival 2025 - Shorts Block A",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/south-sound-experimental-film-festival-2025-shorts-block-a/"
     },
     {
       "theater": "NWFF",
@@ -65,18 +58,25 @@
       "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-7-8/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TEA AND SYMPATHY",
-      "date_display": "Mon, Nov 24 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/tea-and-sympathy"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "All That Heaven Allows",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/all-that-heaven-allows/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HOVERING OVER THE WATER",
-      "date_display": "Mon, Nov 24 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/hovering-over-the-water"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "DOUBLE FEATURE: All That Heaven Allows & Ali: Fear Eats The Soul",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/double-feature-all-that-heaven-allows-ali-fear-eats-the-soul/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Ali: Fear Eats The Soul",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/ali-fear-eats-the-soul/"
     },
     {
       "theater": "The Beacon",
