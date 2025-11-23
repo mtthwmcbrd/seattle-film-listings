@@ -63,87 +63,86 @@ def scrape_the_beacon():
 
     return listings
 
-def scrape_nwff_list_view():
-    print("--- Scraping NWFF (List View) ---")
+def scrape_nwff_visual():
+    print("--- Scraping NWFF (Visual Calendar) ---")
     listings = []
     
-    # The "List View" is the secret weapon. It renders as a standard HTML list.
-    # We scrape the current month list.
-    url = "https://nwfilmforum.org/calendar/list/"
+    # We scrape the main calendar page directly
+    url = "https://nwfilmforum.org/calendar/"
     
     try:
         response = requests.get(url, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(response.content, 'html.parser')
         
-        # Tribe Events List View Structure
-        # Usually <div class="type-tribe_events"> or <div class="tribe-events-calendar-list__event-details">
-        # But NWFF might use custom classes. We'll search for the common "event" containers.
-        
-        # Look for standard Tribe List classes
-        events = soup.find_all('div', class_=re.compile(r'type-tribe_events|tribe-events-calendar-list__event-details'))
-        
-        # Fallback: Look for the specific 'preview-wrap' class if they use their grid style on the list page
-        if not events:
-            events = soup.find_all('article', class_='preview-wrap')
-            
-        print(f"Found {len(events)} events in List View.")
+        # Target the exact class from your screenshot
+        items = soup.find_all('article', class_='preview-wrap')
+        print(f"Found {len(items)} visual blocks on the calendar.")
 
-        for event in events:
+        for item in items:
             try:
                 # 1. Title
-                # Tribe standard: <h3 class="tribe-events-calendar-list__event-title">
-                # NWFF Custom: <h1 class="preview__slide_bottom_title">
-                title_tag = event.find(re.compile(r'h\d'), class_=re.compile(r'title', re.I))
+                # Your screenshot shows: <h1 class="preview__slide_bottom_title">
+                title_tag = item.find(['h1', 'h2', 'h3'], class_=re.compile(r'title|bottom_text', re.I))
                 if not title_tag: continue
                 title = clean_text(title_tag.get_text())
                 
-                # Filter bad titles
+                # Filter non-movies
                 if any(x in title.lower() for x in ['workshop', 'camp', 'registration', 'call for']):
                     continue
 
-                # 2. Link
-                link_tag = event.find('a', href=True)
+                # 2. Date
+                # Your screenshot shows: <div class="preview__slide_top_text"> "Thu Nov 20 <br> 7.00pm"
+                date_tag = item.find('div', class_='preview__slide_top_text')
+                
+                date_display = "Check Website"
+                sort_key = datetime.datetime.now().timestamp() + 99999
+
+                if date_tag:
+                    # Get text, turning <br> into spaces
+                    text = date_tag.get_text(" ", strip=True)
+                    # Result: "Thu Nov 20 7.00pm" or "Thu Nov 20 7:00pm"
+                    
+                    # Clean up dots in time (7.00 -> 7:00)
+                    text = text.replace(".", ":") 
+                    
+                    # Regex to extract components: Month Day Time
+                    # Matches: "Nov 20 ... 7:00 pm"
+                    match = re.search(r'([A-Z][a-z]{2})\s(\d{1,2}).*?(\d{1,2}:\d{2}\s?[ap]m)', text, re.I)
+                    
+                    if match:
+                        month_str, day_str, time_str = match.groups()
+                        
+                        # Guess the Year
+                        now = datetime.datetime.now()
+                        year = now.year
+                        
+                        # Parse month name to number
+                        try:
+                            month_dt = datetime.datetime.strptime(month_str, "%b")
+                            month_num = month_dt.month
+                            
+                            # If we are in Dec and see Jan, it's next year
+                            if now.month == 12 and month_num == 1:
+                                year += 1
+                            # If we are in Jan and see Dec, it's last year (ignore)
+                            elif now.month == 1 and month_num == 12:
+                                year -= 1 # Should filter out later if needed
+
+                            # Combine into full date object
+                            dt = datetime.datetime.strptime(f"{month_str} {day_str} {year} {time_str}", "%b %d %Y %I:%M%p")
+                            
+                            date_display = dt.strftime("%a, %b %d @ %I:%M %p")
+                            sort_key = dt.timestamp()
+                        except Exception as e:
+                            # If strict parsing fails, just display the cleaned text
+                            date_display = text
+                    else:
+                        date_display = text
+
+                # 3. Link
+                link_tag = item.find('a', href=True)
                 link = link_tag['href'] if link_tag else url
 
-                # 3. Date
-                # Tribe standard: <time> tag
-                # NWFF Custom: The 'preview__slide_top_text' div we saw before
-                date_display = "Check Website"
-                sort_key = datetime.datetime.now().timestamp() + 99999
-
-                # Try finding a <time> tag first (Best case)
-                time_tag = event.find('time')
-                if time_tag and time_tag.has_attr('datetime'):
-                    dt_str = time_tag['datetime']
-                    try:
-                        dt = datetime.datetime.fromisoformat(dt_str)
-                        date_display = dt.strftime("%a, %b %d @ %I:%M %p")
-                        sort_key = dt.timestamp()
-                    except: pass
-                else:
-                    # Fallback to text parsing (NWFF Style)
-                    date_container = event.find(class_=re.compile(r'time|date|top_text', re.I))
-                    if date_container:
-                        raw_text = date_container.get_text(" ", strip=True)
-                        # Clean: "Thu Nov 20 7.00pm"
-                        # Regex to capture "Nov 20 ... 7:00"
-                        match = re.search(r'([A-Z][a-z]{2})\s(\d{1,2}).*?(\d{1,2}[:.]\d{2}\s?[ap]m)', raw_text, re.I)
-                        if match:
-                            m_str = f"{match.group(1)} {match.group(2)} {match.group(3)}"
-                            m_str = m_str.replace(".", ":")
-                            # Add year
-                            year = datetime.datetime.now().year
-                            try:
-                                dt = datetime.datetime.strptime(f"{m_str} {year}", "%b %d %I:%M%p %Y")
-                                # Fix year rollover
-                                if dt < datetime.datetime.now() - datetime.timedelta(days=60):
-                                    dt = dt.replace(year=year + 1)
-                                
-                                date_display = dt.strftime("%a, %b %d @ %I:%M %p")
-                                sort_key = dt.timestamp()
-                            except:
-                                date_display = raw_text # Fallback to raw text
-
                 listings.append({
                     "theater": "NWFF",
                     "location": "1515 12th Ave",
@@ -152,57 +151,12 @@ def scrape_nwff_list_view():
                     "link": link,
                     "sort_key": sort_key
                 })
-            except Exception: continue
-            
-    except Exception as e:
-        print(f"NWFF List View Error: {e}")
-        
-    return listings
+            except Exception as e:
+                # print(f"Skipping item: {e}")
+                continue
 
-def scrape_nwff_rss_tribe():
-    """
-    Backup Strategy: The Tribe Events RSS Feed (with correct parser)
-    """
-    print("--- Scraping NWFF (RSS: Tribe Events) ---")
-    listings = []
-    rss_url = "https://nwfilmforum.org/feed/?post_type=tribe_events"
-    
-    try:
-        response = requests.get(rss_url, headers=HEADERS, timeout=15)
-        soup = BeautifulSoup(response.content, 'html.parser') # CORRECT PARSER
-        items = soup.find_all('item')
-        print(f"RSS returned {len(items)} items.")
-        
-        for item in items:
-            try:
-                title = clean_text(item.title.get_text())
-                if any(x in title.lower() for x in ['workshop', 'camp']): continue
-                
-                link = item.link.get_text(strip=True) if item.link else ""
-                desc = item.description.get_text(strip=True) if item.description else ""
-                
-                # Extract date from Description
-                date_display = "Check Website"
-                sort_key = datetime.datetime.now().timestamp() + 99999
-                
-                # Look for "November 23 @ 7:00 pm"
-                match = re.search(r'([A-Z][a-z]+\s\d{1,2}\s@\s\d{1,2}:\d{2}\s[ap]m)', desc, re.I)
-                if match:
-                    date_display = match.group(1)
-                    # Simple sort key attempt
-                    sort_key = datetime.datetime.now().timestamp()
-
-                listings.append({
-                    "theater": "NWFF",
-                    "location": "1515 12th Ave",
-                    "title": title,
-                    "date_display": date_display,
-                    "link": link,
-                    "sort_key": sort_key
-                })
-            except: continue
     except Exception as e:
-        print(f"RSS Error: {e}")
+        print(f"NWFF Visual Error: {e}")
         
     return listings
 
@@ -212,17 +166,14 @@ def main():
     # 1. Beacon
     all_listings.extend(scrape_the_beacon())
     
-    # 2. NWFF (Try List View first, then RSS)
-    nwff_data = scrape_nwff_list_view()
-    if not nwff_data:
-        nwff_data = scrape_nwff_rss_tribe()
-        
+    # 2. NWFF Visual
+    nwff_data = scrape_nwff_visual()
     all_listings.extend(nwff_data)
     
-    # Sort
+    # Sort by date
     all_listings.sort(key=lambda x: x['sort_key'])
     
-    # Clean & Dedup
+    # Deduplicate
     unique_listings = []
     seen = set()
     for item in all_listings:
