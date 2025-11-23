@@ -1,525 +1,460 @@
 {
-  "updated_at": "2025-11-23 07:40:42",
+  "updated_at": "2025-11-23 07:46:26",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TEA AND SYMPATHY",
       "date_display": "Sun, Nov 23 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/tea-and-sympathy",
-      "sort_key": 1763906400.0
+      "link": "https://thebeacon.film/calendar/movie/tea-and-sympathy"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TWIN PEAKS: THE RETURN (EP. 7-8)",
       "date_display": "Sun, Nov 23 @ 08:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-7-8",
-      "sort_key": 1763928000.0
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-7-8"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TEA AND SYMPATHY",
       "date_display": "Mon, Nov 24 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/tea-and-sympathy",
-      "sort_key": 1764001800.0
+      "link": "https://thebeacon.film/calendar/movie/tea-and-sympathy"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "HOVERING OVER THE WATER",
       "date_display": "Mon, Nov 24 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/hovering-over-the-water",
-      "sort_key": 1764012600.0
+      "link": "https://thebeacon.film/calendar/movie/hovering-over-the-water"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "HOVERING OVER THE WATER",
       "date_display": "Tue, Nov 25 @ 03:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/hovering-over-the-water",
-      "sort_key": 1764084600.0
+      "link": "https://thebeacon.film/calendar/movie/hovering-over-the-water"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TRIBULATION 99 + THE MCPHERSON TAPE",
       "date_display": "Tue, Nov 25 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/tribulation-99-the-mcpherson-tape",
-      "sort_key": 1764099000.0
+      "link": "https://thebeacon.film/calendar/movie/tribulation-99-the-mcpherson-tape"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TWIN PEAKS: THE RETURN (EP. 7-8)",
       "date_display": "Wed, Nov 26 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-7-8",
-      "sort_key": 1764172800.0
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-7-8"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "?????? CINEMA",
       "date_display": "Wed, Nov 26 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/blindfold",
-      "sort_key": 1764183600.0
+      "link": "https://thebeacon.film/calendar/movie/blindfold"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TWIN PEAKS: THE RETURN (EP. 9-10)",
       "date_display": "Fri, Nov 28 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-9-10",
-      "sort_key": 1764356400.0
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-9-10"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "COMMUNION",
       "date_display": "Fri, Nov 28 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/communion",
-      "sort_key": 1764367200.0
+      "link": "https://thebeacon.film/calendar/movie/communion"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "WAKE TO THE INNOCENT MORNING AND FOLLOW THE RISKS OF YOUR HEART: JAMES BROUGHTON & JOEL SINGER",
       "date_display": "Sat, Nov 29 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/wake-to-the-innocent-morning-and-follow-the-risks-of-your-heart-james-broughton-joel-singer",
-      "sort_key": 1764442800.0
+      "link": "https://thebeacon.film/calendar/movie/wake-to-the-innocent-morning-and-follow-the-risks-of-your-heart-james-broughton-joel-singer"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "SOME CAME RUNNING",
       "date_display": "Sun, Nov 30 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/some-came-running",
-      "sort_key": 1764511200.0
+      "link": "https://thebeacon.film/calendar/movie/some-came-running"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TWIN PEAKS: THE RETURN (EP. 11-12)",
       "date_display": "Sun, Nov 30 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-11-12",
-      "sort_key": 1764522000.0
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-11-12"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "SOME CAME RUNNING",
       "date_display": "Mon, Dec 01 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/some-came-running",
-      "sort_key": 1764606600.0
+      "link": "https://thebeacon.film/calendar/movie/some-came-running"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "COMMUNION",
       "date_display": "Mon, Dec 01 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/communion",
-      "sort_key": 1764617400.0
+      "link": "https://thebeacon.film/calendar/movie/communion"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "LOOKING FOR AN ANGEL",
       "date_display": "Tue, Dec 02 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel",
-      "sort_key": 1764703800.0
+      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "LOOKING FOR AN ANGEL",
       "date_display": "Wed, Dec 03 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel",
-      "sort_key": 1764790200.0
+      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "LOOKING FOR AN ANGEL",
       "date_display": "Thu, Dec 04 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel",
-      "sort_key": 1764865800.0
+      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "REVERIES: THE MIND PRISON",
       "date_display": "Thu, Dec 04 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/reveries-the-mind-prison",
-      "sort_key": 1764876600.0
+      "link": "https://thebeacon.film/calendar/movie/reveries-the-mind-prison"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "KISAPMATA",
       "date_display": "Fri, Dec 05 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/kisapmata",
-      "sort_key": 1764972000.0
+      "link": "https://thebeacon.film/calendar/movie/kisapmata"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TWIN PEAKS: THE RETURN (EP. 13-14)",
       "date_display": "Sat, Dec 06 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-13-14",
-      "sort_key": 1765047600.0
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-13-14"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "GHOSTKEEPER",
       "date_display": "Sat, Dec 06 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/ghostkeeper",
-      "sort_key": 1765058400.0
+      "link": "https://thebeacon.film/calendar/movie/ghostkeeper"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "MEET JOHN DOE",
       "date_display": "Sun, Dec 07 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/meet-john-doe",
-      "sort_key": 1765116000.0
+      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TWIN PEAKS: THE RETURN (EP. 15-16)",
       "date_display": "Sun, Dec 07 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-15-16",
-      "sort_key": 1765126800.0
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-15-16"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "MEET JOHN DOE",
       "date_display": "Mon, Dec 08 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/meet-john-doe",
-      "sort_key": 1765211400.0
+      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "KISAPMATA",
       "date_display": "Mon, Dec 08 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/kisapmata",
-      "sort_key": 1765222200.0
+      "link": "https://thebeacon.film/calendar/movie/kisapmata"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "KISAPMATA",
       "date_display": "Tue, Dec 09 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/kisapmata",
-      "sort_key": 1765297800.0
+      "link": "https://thebeacon.film/calendar/movie/kisapmata"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "BYE BYE LOVE",
       "date_display": "Tue, Dec 09 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bye-bye-love",
-      "sort_key": 1765308600.0
+      "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "MEET JOHN DOE",
       "date_display": "Wed, Dec 10 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/meet-john-doe",
-      "sort_key": 1765384200.0
+      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "BYE BYE LOVE",
       "date_display": "Wed, Dec 10 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bye-bye-love",
-      "sort_key": 1765395000.0
+      "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "BYE BYE LOVE",
       "date_display": "Thu, Dec 11 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bye-bye-love",
-      "sort_key": 1765470600.0
+      "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TWIN PEAKS: THE RETURN (EP. 17-18)",
       "date_display": "Fri, Dec 12 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-17-18",
-      "sort_key": 1765566000.0
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-17-18"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "GREMLINS",
       "date_display": "Fri, Dec 12 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/gremlins",
-      "sort_key": 1765576800.0
+      "link": "https://thebeacon.film/calendar/movie/gremlins"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "BATCH \u201881",
       "date_display": "Sat, Dec 13 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/batch-81",
-      "sort_key": 1765652400.0
+      "link": "https://thebeacon.film/calendar/movie/batch-81"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "GREMLINS",
       "date_display": "Sat, Dec 13 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/gremlins",
-      "sort_key": 1765663200.0
+      "link": "https://thebeacon.film/calendar/movie/gremlins"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "REMEMBER THE NIGHT",
       "date_display": "Sun, Dec 14 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/remember-the-night",
-      "sort_key": 1765720800.0
+      "link": "https://thebeacon.film/calendar/movie/remember-the-night"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "REMEMBER THE NIGHT",
       "date_display": "Mon, Dec 15 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/remember-the-night",
-      "sort_key": 1765816200.0
+      "link": "https://thebeacon.film/calendar/movie/remember-the-night"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "VENGEANCE IS MINE",
       "date_display": "Mon, Dec 15 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/vengeance-is-mine",
-      "sort_key": 1765827000.0
+      "link": "https://thebeacon.film/calendar/movie/vengeance-is-mine"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "VENGEANCE IS MINE",
       "date_display": "Tue, Dec 16 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/vengeance-is-mine",
-      "sort_key": 1765902600.0
+      "link": "https://thebeacon.film/calendar/movie/vengeance-is-mine"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "REMEMBER THE NIGHT",
       "date_display": "Wed, Dec 17 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/remember-the-night",
-      "sort_key": 1765989000.0
+      "link": "https://thebeacon.film/calendar/movie/remember-the-night"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "VENGEANCE IS MINE",
       "date_display": "Wed, Dec 17 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/vengeance-is-mine",
-      "sort_key": 1765999800.0
+      "link": "https://thebeacon.film/calendar/movie/vengeance-is-mine"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "GREMLINS",
       "date_display": "Thu, Dec 18 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/gremlins",
-      "sort_key": 1766075400.0
+      "link": "https://thebeacon.film/calendar/movie/gremlins"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "THE SNOW QUEEN",
       "date_display": "Thu, Dec 18 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-snow-queen",
-      "sort_key": 1766086200.0
+      "link": "https://thebeacon.film/calendar/movie/the-snow-queen"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "THE RED SPECTACLES",
       "date_display": "Fri, Dec 19 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-red-spectacles",
-      "sort_key": 1766170800.0
+      "link": "https://thebeacon.film/calendar/movie/the-red-spectacles"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "THE SNOW QUEEN",
       "date_display": "Fri, Dec 19 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-snow-queen",
-      "sort_key": 1766181600.0
+      "link": "https://thebeacon.film/calendar/movie/the-snow-queen"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "THE RED SPECTACLES",
       "date_display": "Sat, Dec 20 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-red-spectacles",
-      "sort_key": 1766257200.0
+      "link": "https://thebeacon.film/calendar/movie/the-red-spectacles"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "?????? CINEMA",
       "date_display": "Sat, Dec 20 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/blindfold",
-      "sort_key": 1766268000.0
+      "link": "https://thebeacon.film/calendar/movie/blindfold"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "CHRISTMAS IN CONNECTICUT",
       "date_display": "Sun, Dec 21 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/christmas-in-connecticut",
-      "sort_key": 1766325600.0
+      "link": "https://thebeacon.film/calendar/movie/christmas-in-connecticut"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "WHO KILLED SANTA CLAUS?",
       "date_display": "Sun, Dec 21 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/who-killed-santa-claus",
-      "sort_key": 1766336400.0
+      "link": "https://thebeacon.film/calendar/movie/who-killed-santa-claus"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TONE GLOW PRESENTS: DISTANT VOICES",
       "date_display": "Mon, Dec 22 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/tone-glow-presents-distant-voices",
-      "sort_key": 1766431800.0
+      "link": "https://thebeacon.film/calendar/movie/tone-glow-presents-distant-voices"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "CHRISTMAS IN CONNECTICUT",
       "date_display": "Tue, Dec 23 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/christmas-in-connecticut",
-      "sort_key": 1766507400.0
+      "link": "https://thebeacon.film/calendar/movie/christmas-in-connecticut"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "GHOST STORIES FOR CHRISTMAS",
       "date_display": "Tue, Dec 23 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/ghost-stories-for-christmas",
-      "sort_key": 1766518200.0
+      "link": "https://thebeacon.film/calendar/movie/ghost-stories-for-christmas"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "FANNY AND ALEXANDER",
       "date_display": "Wed, Dec 24 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/fanny-and-alexander",
-      "sort_key": 1766584800.0
+      "link": "https://thebeacon.film/calendar/movie/fanny-and-alexander"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "THE SET-UP",
       "date_display": "Fri, Dec 26 @ 01:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-set-up",
-      "sort_key": 1766754000.0
+      "link": "https://thebeacon.film/calendar/movie/the-set-up"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "FAT CITY",
       "date_display": "Fri, Dec 26 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/fat-city",
-      "sort_key": 1766764800.0
+      "link": "https://thebeacon.film/calendar/movie/fat-city"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "RAGING BULL",
       "date_display": "Fri, Dec 26 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/raging-bull",
-      "sort_key": 1766775600.0
+      "link": "https://thebeacon.film/calendar/movie/raging-bull"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TOKYO FIST",
       "date_display": "Fri, Dec 26 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/tokyo-fist",
-      "sort_key": 1766786400.0
+      "link": "https://thebeacon.film/calendar/movie/tokyo-fist"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TOGETHER",
       "date_display": "Sat, Dec 27 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/together",
-      "sort_key": 1766862000.0
+      "link": "https://thebeacon.film/calendar/movie/together"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "STELLA DALLAS",
       "date_display": "Sun, Dec 28 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/stella-dallas",
-      "sort_key": 1766930400.0
+      "link": "https://thebeacon.film/calendar/movie/stella-dallas"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "VIRIDIANA",
       "date_display": "Sun, Dec 28 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/viridiana",
-      "sort_key": 1766941200.0
+      "link": "https://thebeacon.film/calendar/movie/viridiana"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "STELLA DALLAS",
       "date_display": "Mon, Dec 29 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/stella-dallas",
-      "sort_key": 1767025800.0
+      "link": "https://thebeacon.film/calendar/movie/stella-dallas"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "VIRIDIANA",
       "date_display": "Mon, Dec 29 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/viridiana",
-      "sort_key": 1767036600.0
+      "link": "https://thebeacon.film/calendar/movie/viridiana"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "VIRIDIANA",
       "date_display": "Tue, Dec 30 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/viridiana",
-      "sort_key": 1767112200.0
+      "link": "https://thebeacon.film/calendar/movie/viridiana"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TOGETHER",
       "date_display": "Tue, Dec 30 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/together",
-      "sort_key": 1767123000.0
+      "link": "https://thebeacon.film/calendar/movie/together"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "FIVE MINUTES TO LIVE!",
       "date_display": "Wed, Dec 31 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/five-minutes-to-live",
-      "sort_key": 1767207600.0
+      "link": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
     }
   ]
 }
