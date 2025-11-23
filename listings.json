@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-23 08:09:03",
+  "updated_at": "2025-11-23 08:14:19",
   "movies": [
     {
       "theater": "The Beacon",
@@ -18,16 +18,51 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Emerson, Lake and Palmer: The Birth of a Band \u2013 Live at the Isle of Wight",
+      "title": "Youth Filmmaker Series: Intro to Editing [In-Person Only]",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/emerson-lake-palmer-birth-band-live-isle-wight/"
+      "link": "https://nwfilmforum.org/education/workshops/yfs_introtoediting/"
     },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Miles Electric: A Different Kind of Blue",
+      "title": "The Last Dive",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/miles-electric/"
+      "link": "https://nwfilmforum.org/films/the-last-dive/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "South Sound Experimental Film Festival 2025 \u2013\u00a0Cloaven Theater & Evil of Dracula",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/south-sound-experimental-film-festival-2025-cloaven-theater-evil-of-dracula/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "South Sound Experimental Film Festival 2025 - Shorts Block A",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/south-sound-experimental-film-festival-2025-shorts-block-a/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "South Sound Experimental Film Festival 2025 \u2013\u00a0Halcyon Days of Symmetry & Dolls vs Dictators",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/south-sound-experimental-film-festival-2025-halcyon-days-symmetry-dolls-vs-dictators/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "South Sound Experimental Film Festival 2025 - Shorts Block B",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/south-sound-experimental-film-festival-2025-shorts-block-b/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Twin Peaks: The Return (Ep. 7-8)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-7-8/"
     },
     {
       "theater": "The Beacon",
