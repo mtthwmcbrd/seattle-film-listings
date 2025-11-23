@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-23 08:05:17",
+  "updated_at": "2025-11-23 08:09:03",
   "movies": [
     {
       "theater": "The Beacon",
@@ -14,6 +14,20 @@
       "title": "TWIN PEAKS: THE RETURN (EP. 7-8)",
       "date_display": "Sun, Nov 23 @ 08:00 PM",
       "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-7-8"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Emerson, Lake and Palmer: The Birth of a Band \u2013 Live at the Isle of Wight",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/emerson-lake-palmer-birth-band-live-isle-wight/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Miles Electric: A Different Kind of Blue",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/miles-electric/"
     },
     {
       "theater": "The Beacon",
