@@ -9,11 +9,9 @@ OUTPUT_FILE = 'listings.json'
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
 }
 
 def clean_title(title):
-    # Fixes &amp; -> &, and removes extra spaces
     return html.unescape(title).strip()
 
 def scrape_the_beacon():
@@ -62,44 +60,55 @@ def scrape_the_beacon():
 
     return listings
 
-def scrape_nwff_api():
-    print("--- Scraping NWFF (via API) ---")
+def scrape_nwff_ical():
+    print("--- Scraping NWFF (via iCal Feed) ---")
     listings = []
     
-    # This URL is the direct data feed for their calendar
-    api_url = "https://nwfilmforum.org/wp-json/tribe/events/v1/events"
-    
-    # We ask for 100 events starting from today
-    params = {
-        "per_page": 100,
-        "start_date": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    }
+    # This URL forces the server to give us a raw text calendar file
+    # It bypasses all the JavaScript and HTML layout issues
+    ical_url = "https://nwfilmforum.org/calendar/?ical=1"
     
     try:
-        response = requests.get(api_url, params=params, headers=HEADERS, timeout=15)
-        data = response.json()
+        response = requests.get(ical_url, headers=HEADERS, timeout=20)
+        data = response.text
         
-        if 'events' not in data:
-            print("API returned no events.")
-            return []
-            
-        print(f"API returned {len(data['events'])} raw events.")
+        # Regex to find Event Blocks
+        # We look for BEGIN:VEVENT ... END:VEVENT
+        events = re.findall(r'BEGIN:VEVENT(.*?)END:VEVENT', data, re.DOTALL)
+        
+        print(f"iCal feed returned {len(events)} raw events.")
 
-        for event in data['events']:
+        for event_block in events:
             try:
-                title = event.get('title', 'Unknown Title')
+                # 1. Extract Title (SUMMARY)
+                summary_match = re.search(r'SUMMARY:(.*?)\n', event_block)
+                if not summary_match: continue
+                title = summary_match.group(1).strip()
                 
-                # Filter out Workshops/Camps to keep it to "Films"
-                if any(x in title.lower() for x in ['workshop', 'camp', 'registration']):
+                # Cleanup Title (remove slashed characters sometimes found in ics)
+                title = title.replace(r'\,', ',').replace(r'\;', ';')
+
+                # Filter out non-films
+                if any(x in title.lower() for x in ['workshop', 'camp', 'registration', 'closed']):
                     continue
 
-                # Get Date
-                start_date_str = event.get('start_date') # "2025-11-20 19:00:00"
-                dt = datetime.datetime.strptime(start_date_str, "%Y-%m-%d %H:%M:%S")
-                date_display = dt.strftime("%a, %b %d @ %I:%M %p")
+                # 2. Extract Date (DTSTART)
+                # Format is usually DTSTART;TZID=America/Los_Angeles:20251122T190000
+                dt_match = re.search(r'DTSTART(?:;.*?)?:(\d{8}T\d{6})', event_block)
+                if not dt_match: continue
                 
-                # Get Link
-                link = event.get('url', 'https://nwfilmforum.org/calendar')
+                dt_str = dt_match.group(1) # e.g., 20251122T190000
+                dt = datetime.datetime.strptime(dt_str, "%Y%m%dT%H%M%S")
+                
+                # Skip past events
+                if dt < datetime.datetime.now():
+                    continue
+
+                date_display = dt.strftime("%a, %b %d @ %I:%M %p")
+
+                # 3. Extract Link (URL)
+                link_match = re.search(r'URL:(.*?)\n', event_block)
+                link = link_match.group(1).strip() if link_match else "https://nwfilmforum.org/calendar"
 
                 listings.append({
                     "theater": "NWFF",
@@ -110,10 +119,10 @@ def scrape_nwff_api():
                     "sort_key": dt.timestamp()
                 })
             except Exception as e:
-                print(f"Skipping NWFF item: {e}")
-                
+                continue
+
     except Exception as e:
-        print(f"NWFF API Error: {e}")
+        print(f"NWFF iCal Error: {e}")
         
     return listings
 
@@ -121,22 +130,19 @@ def main():
     all_listings = []
     
     all_listings.extend(scrape_the_beacon())
-    all_listings.extend(scrape_nwff_api())
+    all_listings.extend(scrape_nwff_ical())
     
-    # Sort everything by date
+    # Sort by date
     all_listings.sort(key=lambda x: x['sort_key'])
     
-    # Remove duplicates (sometimes API returns same movie twice if scraped oddly)
+    # Deduplicate
     unique_listings = []
     seen = set()
     for item in all_listings:
-        # Create a unique signature
         uid = f"{item['theater']}{item['title']}{item['date_display']}"
         if uid not in seen:
             unique_listings.append(item)
             seen.add(uid)
-            
-        # Clean up the sort key before saving
         if 'sort_key' in item: del item['sort_key']
 
     data = {
