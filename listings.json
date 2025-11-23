@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-23 07:55:37",
+  "updated_at": "2025-11-23 08:00:16",
   "movies": [
     {
       "theater": "The Beacon",
@@ -455,6 +455,27 @@
       "title": "FIVE MINUTES TO LIVE!",
       "date_display": "Wed, Dec 31 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "2% of NWFF\u2019s Proceeds to Real Rent Duwamish",
+      "date_display": "Check Website",
+      "link": ""
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Northwest Film Forum Joins Andy Warhol Foundation for the Visual Arts\u2019 Regional Regranting Program \u2013 Launches COVID-19 Emergency Relief Funding to Provide $70,000 for Artists in Unincorporated and Incorporated King County",
+      "date_display": "Check Website",
+      "link": ""
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "A Banner Year for Supporting Artists via Fiscal Sponsorships: 63 Projects and Growing\u2026",
+      "date_display": "Check Website",
+      "link": ""
     }
   ]
 }
