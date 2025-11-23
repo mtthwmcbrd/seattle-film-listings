@@ -4,15 +4,12 @@ import json
 import datetime
 import re
 import html
-import time
 
 OUTPUT_FILE = 'listings.json'
 
-# Robust headers
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Referer': 'https://google.com'
 }
 
 def clean_title(title):
@@ -64,197 +61,120 @@ def scrape_the_beacon():
 
     return listings
 
-def scrape_nwff_html():
-    """
-    Strategy 1: Scrape the 'Now Playing' /films/ page directly.
-    This often uses standard HTML even if the Calendar is JS.
-    """
-    print("--- Strategy 1: NWFF HTML (/films/) ---")
-    listings = []
-    url = "https://nwfilmforum.org/films/"
-    
-    try:
-        response = requests.get(url, headers=HEADERS, timeout=15)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        
-        # Based on your screenshot, looking for 'preview-wrap'
-        items = soup.find_all('article', class_='preview-wrap')
-        
-        if not items:
-            print("No 'preview-wrap' items found on /films/")
-            return []
-
-        print(f"Found {len(items)} items on /films/ page.")
-
-        for item in items:
-            try:
-                # Title
-                title_tag = item.find(class_=re.compile(r'title', re.I))
-                if not title_tag: continue
-                title = title_tag.get_text(strip=True)
-
-                # Link
-                link_tag = item.find('a', href=True)
-                link = link_tag['href'] if link_tag else url
-
-                # Date (The tricky part on listing pages)
-                # We look for the overlay text from your screenshot
-                date_tag = item.find(class_=re.compile(r'top_text|date|time', re.I))
-                date_display = "Check Website"
-                sort_key = datetime.datetime.now().timestamp() + 86400 * 30 # Default to end of list
-
-                if date_tag:
-                    raw_text = date_tag.get_text(" ", strip=True)
-                    # Attempt to clean up "Thu Nov 20 7.00pm"
-                    date_display = raw_text.replace(" .", ":").replace(".", ":")
-                    
-                    # Try to parse a sortable date
-                    # Regex for "Nov 20"
-                    match = re.search(r'([A-Z][a-z]{2})\s(\d{1,2})', date_display)
-                    if match:
-                        month_str, day_str = match.groups()
-                        now = datetime.datetime.now()
-                        # Parse month name to number
-                        try:
-                            month_num = datetime.datetime.strptime(month_str, "%b").month
-                            # Guess year
-                            year = now.year
-                            if month_num < now.month - 1: year += 1 # It's next year
-                            
-                            # Construct approx date for sorting
-                            dt = datetime.datetime(year, month_num, int(day_str))
-                            sort_key = dt.timestamp()
-                        except: pass
-
-                listings.append({
-                    "theater": "NWFF",
-                    "location": "1515 12th Ave",
-                    "title": clean_title(title),
-                    "date_display": date_display,
-                    "link": link,
-                    "sort_key": sort_key
-                })
-            except Exception: continue
-            
-    except Exception as e:
-        print(f"NWFF HTML Error: {e}")
-        
-    return listings
-
 def scrape_nwff_rss():
-    """
-    Strategy 2: The WordPress RSS Feed.
-    This is the "old school" reliable method.
-    """
-    print("--- Strategy 2: NWFF RSS Feed ---")
+    print("--- Scraping NWFF (RSS Feed) ---")
     listings = []
-    # Try the specific Tribe Events RSS feed
+    
+    # Try the main events feed
+    # We use 'html.parser' which is built-in, avoiding the XML error
     rss_url = "https://nwfilmforum.org/feed/?post_type=tribe_events"
     
     try:
         response = requests.get(rss_url, headers=HEADERS, timeout=15)
-        # Use XML parser
-        soup = BeautifulSoup(response.content, 'xml')
-        items = soup.find_all('item')
+        # FIX: Use 'html.parser' instead of 'xml'
+        soup = BeautifulSoup(response.content, 'html.parser')
         
-        if not items:
-            print("No items in RSS feed.")
-            return []
-            
-        print(f"Found {len(items)} items in RSS feed.")
+        items = soup.find_all('item')
+        print(f"RSS Feed returned {len(items)} items.")
 
         for item in items:
-            title = item.title.get_text(strip=True)
-            link = item.link.get_text(strip=True)
-            
-            # RSS PubDate is usually when it was POSTED, not shown.
-            # But the 'description' tag often contains the showtimes text.
-            desc = item.description.get_text() if item.description else ""
-            
-            # Try to find a date in the description or title
-            # Often Tribe puts "Event on: Date" in description
-            date_display = "See Link for Showtimes"
-            sort_key = datetime.datetime.now().timestamp()
+            try:
+                title = item.title.get_text(strip=True)
+                link = item.link.get_text(strip=True) if item.link else "https://nwfilmforum.org"
+                
+                # RSS descriptions often contain the date like "November 23 @ 7:00 pm"
+                desc = item.description.get_text(strip=True) if item.description else ""
+                
+                # 1. Clean Title
+                # Sometimes title is "Movie Name - November 22". We want just "Movie Name"
+                clean_title_str = title.split(" &#8211; ")[0] # Remove dash and date if present
+                clean_title_str = clean_title(clean_title_str)
 
-            # Attempt to extract date from common text patterns
-            # This is a guess, but better than nothing
-            date_match = re.search(r'(\w{3,9} \d{1,2} @ \d{1,2}:\d{2} [ap]m)', desc, re.I)
-            if date_match:
-                date_display = date_match.group(1)
-            
-            listings.append({
-                "theater": "NWFF",
-                "location": "1515 12th Ave",
-                "title": clean_title(title),
-                "date_display": date_display,
-                "link": link,
-                "sort_key": sort_key
-            })
-            
+                # Filter out Workshops
+                if any(x in clean_title_str.lower() for x in ['workshop', 'camp', 'class', 'registration']):
+                    continue
+
+                # 2. Extract Date
+                # Look for patterns like "Nov 23 @ 7:00 pm" or "November 23 @ 7:00 pm"
+                date_display = "Check Website"
+                sort_key = datetime.datetime.now().timestamp() + 86400 * 60 # Default to far future
+                
+                # Regex to find date in description
+                # Matches: Month Name DD @ HH:MM am/pm
+                date_match = re.search(r'([A-Z][a-z]+ \d{1,2} @ \d{1,2}:\d{2} [ap]m)', desc)
+                
+                if date_match:
+                    date_str = date_match.group(1) # e.g. "November 23 @ 7:00 pm"
+                    date_display = date_str
+                    
+                    # Try to parse into a real date object for sorting
+                    try:
+                        # We need to guess the year (RSS doesn't always have it)
+                        current_year = datetime.datetime.now().year
+                        dt = datetime.datetime.strptime(f"{date_str} {current_year}", "%B %d @ %I:%M %p %Y")
+                        
+                        # If date is way in the past (e.g. scraped a Jan movie in Dec), add a year
+                        if dt < datetime.datetime.now() - datetime.timedelta(days=30):
+                            dt = dt.replace(year=current_year + 1)
+                            
+                        sort_key = dt.timestamp()
+                        # Reformat nicely: "Sat, Nov 23 @ 7:00 PM"
+                        date_display = dt.strftime("%a, %b %d @ %I:%M %p")
+                    except:
+                        pass # Keep raw string if parsing fails
+                
+                listings.append({
+                    "theater": "NWFF",
+                    "location": "1515 12th Ave",
+                    "title": clean_title_str,
+                    "date_display": date_display,
+                    "link": link,
+                    "sort_key": sort_key
+                })
+                
+            except Exception as e:
+                print(f"Skipping RSS item: {e}")
+                continue
+
     except Exception as e:
         print(f"NWFF RSS Error: {e}")
 
     return listings
 
-def scrape_nwff_ical_brute_force():
-    """
-    Strategy 3: Try known iCal variations
-    """
-    print("--- Strategy 3: iCal Brute Force ---")
-    listings = []
-    # Common variations for WordPress Calendar plugins
-    urls = [
-        "https://nwfilmforum.org/events/?ical=1",
-        "https://nwfilmforum.org/?post_type=tribe_events&ical=1",
-        "https://nwfilmforum.org/calendar/?ical=1"
-    ]
-    
-    for url in urls:
-        print(f"Trying iCal URL: {url}")
-        try:
-            response = requests.get(url, headers=HEADERS, timeout=10)
-            if "BEGIN:VCALENDAR" in response.text:
-                print("SUCCESS: Found valid iCal feed!")
-                # Parse logic here (simplified for brevity, reused from previous answer)
-                # ... [Copy regex parsing logic here if desired] ...
-                # For now, just return a dummy if found so we know it worked
-                return [] # Placeholder to indicate we connected
-        except: continue
-    
-    return []
-
 def main():
     all_listings = []
     
-    # 1. Scrape Beacon (Always works)
+    # 1. Beacon
     all_listings.extend(scrape_the_beacon())
     
-    # 2. Scrape NWFF (Try strategies in order)
-    nwff_data = scrape_nwff_html()
-    if not nwff_data:
-        nwff_data = scrape_nwff_rss()
+    # 2. NWFF
+    nwff_data = scrape_nwff_rss()
+    all_listings.extend(nwff_data)
     
-    if nwff_data:
-        all_listings.extend(nwff_data)
-    else:
-        print("WARNING: All NWFF strategies failed.")
-
-    # Sort
+    # Sort by date
     all_listings.sort(key=lambda x: x['sort_key'])
     
-    # Clean sort_key
+    # Deduplicate
+    unique_listings = []
+    seen = set()
     for item in all_listings:
+        # Create a unique signature
+        uid = f"{item['theater']}{item['title']}{item['date_display']}"
+        if uid not in seen:
+            unique_listings.append(item)
+            seen.add(uid)
+        
+        # Cleanup
         if 'sort_key' in item: del item['sort_key']
 
-    # Save
     data = {
         "updated_at": datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-        "movies": all_listings
+        "movies": unique_listings
     }
     
     with open(OUTPUT_FILE, 'w') as f:
         json.dump(data, f, indent=2)
-    print(f"Successfully saved {len(all_listings)} listings.")
+    print(f"Successfully saved {len(unique_listings)} listings.")
 
 if __name__ == "__main__":
     main()
