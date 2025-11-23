@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seattle Rep Film Listings</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; background: #f4f4f9; color: #333; }
+        h1 { text-align: center; border-bottom: 2px solid #333; padding-bottom: 10px; }
+        .controls { text-align: center; margin-bottom: 20px; }
+        .movie-card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); display: flex; justify-content: space-between; align-items: center; }
+        .movie-info h2 { margin: 0 0 5px 0; font-size: 1.2rem; }
+        .movie-meta { font-size: 0.9rem; color: #666; }
+        .theater-tag { display: inline-block; padding: 3px 8px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; color: white; }
+        .beacon { background-color: #e74c3c; }
+        .grand-illusion { background-color: #3498db; }
+        .siff { background-color: #f1c40f; color: black; }
+        .nwff { background-color: #9b59b6; }
+        a.ticket-btn { text-decoration: none; background: #333; color: white; padding: 8px 12px; border-radius: 4px; font-size: 0.9rem; }
+        a.ticket-btn:hover { background: #555; }
+        #updated-at { text-align: center; color: #888; font-size: 0.8rem; margin-top: 30px; }
+    </style>
+</head>
+<body>
+
+    <h1>Seattle Rep Films</h1>
+    
+    <div class="controls">
+        Filter: 
+        <button onclick="renderMovies('all')">All</button>
+        <button onclick="renderMovies('The Beacon')">Beacon</button>
+        <button onclick="renderMovies('Grand Illusion')">Grand Illusion</button>
+    </div>
+
+    <div id="movie-list">Loading listings...</div>
+    <div id="updated-at"></div>
+
+    <script>
+        let allMovies = [];
+
+        async function loadMovies() {
+            try {
+                const response = await fetch('listings.json');
+                const data = await response.json();
+                allMovies = data.movies;
+                document.getElementById('updated-at').innerText = 'Last updated: ' + data.updated_at;
+                renderMovies('all');
+            } catch (error) {
+                document.getElementById('movie-list').innerText = 'Error loading listings. Please try again later.';
+                console.error('Error:', error);
+            }
+        }
+
+        function renderMovies(filter) {
+            const container = document.getElementById('movie-list');
+            container.innerHTML = '';
+
+            const filtered = filter === 'all' 
+                ? allMovies 
+                : allMovies.filter(m => m.theater === filter);
+
+            if (filtered.length === 0) {
+                container.innerHTML = '<p style="text-align:center">No listings found.</p>';
+                return;
+            }
+
+            filtered.forEach(movie => {
+                const card = document.createElement('div');
+                card.className = 'movie-card';
+                
+                // Assign color class based on theater name
+                let theaterClass = 'siff'; // default
+                if (movie.theater.includes('Beacon')) theaterClass = 'beacon';
+                if (movie.theater.includes('Grand')) theaterClass = 'grand-illusion';
+                if (movie.theater.includes('NWFF')) theaterClass = 'nwff';
+
+                card.innerHTML = `
+                    <div class="movie-info">
+                        <h2>${movie.title}</h2>
+                        <div class="movie-meta">
+                            <span class="theater-tag ${theaterClass}">${movie.theater}</span>
+                            <span> • ${movie.date}</span>
+                        </div>
+                    </div>
+                    <a href="${movie.link}" target="_blank" class="ticket-btn">Tickets</a>
+                `;
+                container.appendChild(card);
+            });
+        }
+
+        loadMovies();
+    </script>
+</body>
+</html>
