@@ -1,20 +1,6 @@
 {
-  "updated_at": "2025-11-25 16:28:00",
+  "updated_at": "2025-11-26 16:27:18",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HOVERING OVER THE WATER",
-      "date_display": "Tue, Nov 25 @ 03:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/hovering-over-the-water"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TRIBULATION 99 + THE MCPHERSON TAPE",
-      "date_display": "Tue, Nov 25 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/tribulation-99-the-mcpherson-tape"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,13 +14,6 @@
       "title": "?????? CINEMA",
       "date_display": "Wed, Nov 26 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/blindfold"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Twin Peaks: The Return (Ep. 7-8)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-7-8/"
     },
     {
       "theater": "NWFF",
@@ -56,6 +35,13 @@
       "title": "Ali: Fear Eats The Soul",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/ali-fear-eats-the-soul/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Twin Peaks: The Return (Ep. 9-10)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-9-10/"
     },
     {
       "theater": "The Beacon",
