@@ -1,19 +1,12 @@
 {
-  "updated_at": "2025-11-26 16:27:18",
+  "updated_at": "2025-11-27 16:25:21",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "TWIN PEAKS: THE RETURN (EP. 7-8)",
-      "date_display": "Wed, Nov 26 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-7-8"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "?????? CINEMA",
-      "date_display": "Wed, Nov 26 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/blindfold"
+      "title": "TWIN PEAKS: THE RETURN (EP. 9-10)",
+      "date_display": "Fri, Nov 28 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-9-10"
     },
     {
       "theater": "NWFF",
@@ -44,11 +37,18 @@
       "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-9-10/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TWIN PEAKS: THE RETURN (EP. 9-10)",
-      "date_display": "Fri, Nov 28 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-9-10"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Twin Peaks: The Return (Ep. 11-12)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-11-12/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Three Dollar Bill Cinema Presents: Parting Glances",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/three-dollar-bill-cinema-presents-parting-glances/"
     },
     {
       "theater": "The Beacon",
