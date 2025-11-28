@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-11-27 16:25:21",
+  "updated_at": "2025-11-28 16:26:13",
   "movies": [
     {
       "theater": "The Beacon",
@@ -7,6 +7,20 @@
       "title": "TWIN PEAKS: THE RETURN (EP. 9-10)",
       "date_display": "Fri, Nov 28 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-9-10"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "COMMUNION",
+      "date_display": "Fri, Nov 28 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/communion"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WAKE TO THE INNOCENT MORNING AND FOLLOW THE RISKS OF YOUR HEART: JAMES BROUGHTON & JOEL SINGER",
+      "date_display": "Sat, Nov 29 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wake-to-the-innocent-morning-and-follow-the-risks-of-your-heart-james-broughton-joel-singer"
     },
     {
       "theater": "NWFF",
@@ -51,18 +65,11 @@
       "link": "https://nwfilmforum.org/films/three-dollar-bill-cinema-presents-parting-glances/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "COMMUNION",
-      "date_display": "Fri, Nov 28 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/communion"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WAKE TO THE INNOCENT MORNING AND FOLLOW THE RISKS OF YOUR HEART: JAMES BROUGHTON & JOEL SINGER",
-      "date_display": "Sat, Nov 29 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/wake-to-the-innocent-morning-and-follow-the-risks-of-your-heart-james-broughton-joel-singer"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Truth To Fiction: Blue",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/truth-to-fiction-blue-in-person-only/"
     },
     {
       "theater": "The Beacon",
