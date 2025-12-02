@@ -1,25 +1,18 @@
 {
-  "updated_at": "2025-12-01 16:29:29",
+  "updated_at": "2025-12-02 16:29:35",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "SOME CAME RUNNING",
-      "date_display": "Mon, Dec 01 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/some-came-running"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "COMMUNION",
-      "date_display": "Mon, Dec 01 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/communion"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "LOOKING FOR AN ANGEL",
       "date_display": "Tue, Dec 02 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LOOKING FOR AN ANGEL",
+      "date_display": "Wed, Dec 03 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
     },
     {
@@ -77,13 +70,6 @@
       "title": "The Disabled List Presents: Live Comedy (Dec. 2025) [In-Person Only]",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/events/disabled-list-presents-live-comedy-dec-2025-person/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LOOKING FOR AN ANGEL",
-      "date_display": "Wed, Dec 03 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
     },
     {
       "theater": "The Beacon",
