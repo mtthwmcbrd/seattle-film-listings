@@ -1,13 +1,6 @@
 {
-  "updated_at": "2025-12-02 16:29:35",
+  "updated_at": "2025-12-03 16:30:13",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LOOKING FOR AN ANGEL",
-      "date_display": "Tue, Dec 02 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -16,11 +9,18 @@
       "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Twin Peaks: The Return (Ep. 9-10)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-9-10/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LOOKING FOR AN ANGEL",
+      "date_display": "Thu, Dec 04 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "REVERIES: THE MIND PRISON",
+      "date_display": "Thu, Dec 04 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/reveries-the-mind-prison"
     },
     {
       "theater": "NWFF",
@@ -72,18 +72,11 @@
       "link": "https://nwfilmforum.org/events/disabled-list-presents-live-comedy-dec-2025-person/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LOOKING FOR AN ANGEL",
-      "date_display": "Thu, Dec 04 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "REVERIES: THE MIND PRISON",
-      "date_display": "Thu, Dec 04 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/reveries-the-mind-prison"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Twin Peaks: The Return (Ep. 13-14)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-13-14/"
     },
     {
       "theater": "The Beacon",
