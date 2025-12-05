@@ -1,33 +1,19 @@
 {
-  "updated_at": "2025-12-04 16:30:26",
+  "updated_at": "2025-12-05 16:27:14",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "LOOKING FOR AN ANGEL",
-      "date_display": "Thu, Dec 04 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/looking-for-an-angel"
+      "title": "KISAPMATA",
+      "date_display": "Fri, Dec 05 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/kisapmata"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "REVERIES: THE MIND PRISON",
-      "date_display": "Thu, Dec 04 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/reveries-the-mind-prison"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Twin Peaks: The Return (Ep. 11-12)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-11-12/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Truth To Fiction: Blue",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/truth-to-fiction-blue-in-person-only/"
+      "title": "TWIN PEAKS: THE RETURN (EP. 13-14)",
+      "date_display": "Sat, Dec 06 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-13-14"
     },
     {
       "theater": "NWFF",
@@ -79,18 +65,11 @@
       "link": "https://nwfilmforum.org/films/zodiac-killer-project/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "KISAPMATA",
-      "date_display": "Fri, Dec 05 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/kisapmata"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TWIN PEAKS: THE RETURN (EP. 13-14)",
-      "date_display": "Sat, Dec 06 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-13-14"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Twin Peaks: The Return (Ep. 15-16)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-15-16/"
     },
     {
       "theater": "The Beacon",
