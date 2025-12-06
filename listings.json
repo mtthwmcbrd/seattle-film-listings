@@ -1,19 +1,40 @@
 {
-  "updated_at": "2025-12-05 16:27:14",
+  "updated_at": "2025-12-06 16:23:50",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "KISAPMATA",
-      "date_display": "Fri, Dec 05 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/kisapmata"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TWIN PEAKS: THE RETURN (EP. 13-14)",
       "date_display": "Sat, Dec 06 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-13-14"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "GHOSTKEEPER",
+      "date_display": "Sat, Dec 06 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/ghostkeeper"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MEET JOHN DOE",
+      "date_display": "Sun, Dec 07 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TWIN PEAKS: THE RETURN (EP. 15-16)",
+      "date_display": "Sun, Dec 07 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-15-16"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "How To Make Movies In the Apocalypse with Todd Rohal and Megan Griffiths",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/education/workshops/how-to-make-movies-in-the-apocalypse-with-todd-rohal-and-megan-griffiths/"
     },
     {
       "theater": "NWFF",
@@ -28,13 +49,6 @@
       "title": "All I Can Feel Is The Pressure: Three Films by David Wojnarowicz",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/can-feel-pressure-three-films-david-wojnarowicz/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "How To Make Movies In the Apocalypse with Todd Rohal and Megan Griffiths",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/education/workshops/how-to-make-movies-in-the-apocalypse-with-todd-rohal-and-megan-griffiths/"
     },
     {
       "theater": "NWFF",
@@ -72,25 +86,11 @@
       "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-15-16/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "GHOSTKEEPER",
-      "date_display": "Sat, Dec 06 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/ghostkeeper"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MEET JOHN DOE",
-      "date_display": "Sun, Dec 07 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TWIN PEAKS: THE RETURN (EP. 15-16)",
-      "date_display": "Sun, Dec 07 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-15-16"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "2025 NWFF Holiday Party: Gathering Again",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/2025-nwff-holiday-party-gathering-again/"
     },
     {
       "theater": "The Beacon",
