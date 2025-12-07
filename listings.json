@@ -1,20 +1,6 @@
 {
-  "updated_at": "2025-12-06 16:23:50",
+  "updated_at": "2025-12-07 16:23:15",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TWIN PEAKS: THE RETURN (EP. 13-14)",
-      "date_display": "Sat, Dec 06 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-13-14"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "GHOSTKEEPER",
-      "date_display": "Sat, Dec 06 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/ghostkeeper"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,11 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-15-16"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "How To Make Movies In the Apocalypse with Todd Rohal and Megan Griffiths",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/education/workshops/how-to-make-movies-in-the-apocalypse-with-todd-rohal-and-megan-griffiths/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MEET JOHN DOE",
+      "date_display": "Mon, Dec 08 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "KISAPMATA",
+      "date_display": "Mon, Dec 08 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/kisapmata"
     },
     {
       "theater": "NWFF",
@@ -49,13 +42,6 @@
       "title": "All I Can Feel Is The Pressure: Three Films by David Wojnarowicz",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/can-feel-pressure-three-films-david-wojnarowicz/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Disabled List Presents: Live Comedy (Dec. 2025) [In-Person Only]",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/disabled-list-presents-live-comedy-dec-2025-person/"
     },
     {
       "theater": "NWFF",
@@ -93,18 +79,25 @@
       "link": "https://nwfilmforum.org/events/2025-nwff-holiday-party-gathering-again/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MEET JOHN DOE",
-      "date_display": "Mon, Dec 08 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Female Misbehavior",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/female-misbehavior/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "KISAPMATA",
-      "date_display": "Mon, Dec 08 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/kisapmata"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Hello Dankness",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/hello-dankness/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Gendernauts",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/gendernauts/"
     },
     {
       "theater": "The Beacon",
