@@ -1,20 +1,6 @@
 {
-  "updated_at": "2025-12-08 16:28:49",
+  "updated_at": "2025-12-09 16:28:06",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MEET JOHN DOE",
-      "date_display": "Mon, Dec 08 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "KISAPMATA",
-      "date_display": "Mon, Dec 08 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/kisapmata"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -27,6 +13,20 @@
       "location": "4405 Rainier Ave S",
       "title": "BYE BYE LOVE",
       "date_display": "Tue, Dec 09 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MEET JOHN DOE",
+      "date_display": "Wed, Dec 10 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BYE BYE LOVE",
+      "date_display": "Wed, Dec 10 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
     },
     {
@@ -107,18 +107,18 @@
       "link": "https://nwfilmforum.org/films/genderation/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MEET JOHN DOE",
-      "date_display": "Wed, Dec 10 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "NWFF Winter Break",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BYE BYE LOVE",
-      "date_display": "Wed, Dec 10 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Divine Hammer",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/grand-illusion-cinema-presents-divine-hammer/"
     },
     {
       "theater": "The Beacon",
@@ -161,6 +161,13 @@
       "title": "REMEMBER THE NIGHT",
       "date_display": "Sun, Dec 14 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/remember-the-night"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TWIN PEAKS: THE RETURN (EP. 17-18)",
+      "date_display": "Sun, Dec 14 @ 08:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-17-18"
     },
     {
       "theater": "The Beacon",
