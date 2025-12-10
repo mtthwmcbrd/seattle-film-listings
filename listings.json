@@ -1,20 +1,6 @@
 {
-  "updated_at": "2025-12-09 16:28:06",
+  "updated_at": "2025-12-10 16:28:33",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "KISAPMATA",
-      "date_display": "Tue, Dec 09 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/kisapmata"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BYE BYE LOVE",
-      "date_display": "Tue, Dec 09 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,11 +16,11 @@
       "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Twin Peaks: The Return (Ep. 13-14)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-13-14/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BYE BYE LOVE",
+      "date_display": "Thu, Dec 11 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
     },
     {
       "theater": "NWFF",
@@ -121,11 +107,11 @@
       "link": "https://nwfilmforum.org/films/grand-illusion-cinema-presents-divine-hammer/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BYE BYE LOVE",
-      "date_display": "Thu, Dec 11 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Twin Peaks: The Return (Ep. 17-18)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-17-18/"
     },
     {
       "theater": "The Beacon",
