@@ -1,20 +1,6 @@
 {
-  "updated_at": "2025-12-10 16:28:33",
+  "updated_at": "2025-12-11 16:32:10",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MEET JOHN DOE",
-      "date_display": "Wed, Dec 10 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/meet-john-doe"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BYE BYE LOVE",
-      "date_display": "Wed, Dec 10 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,18 +9,11 @@
       "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Veronica Project Space Presents: O Sangue",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/veronica-project-space-presents-o-sangue/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Zodiac Killer Project",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/zodiac-killer-project/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TWIN PEAKS: THE RETURN (EP. 17-18)",
+      "date_display": "Fri, Dec 12 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-17-18"
     },
     {
       "theater": "NWFF",
@@ -42,6 +21,13 @@
       "title": "Twin Peaks: The Return (Ep. 15-16)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-15-16/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Zodiac Killer Project",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/zodiac-killer-project/"
     },
     {
       "theater": "NWFF",
@@ -56,6 +42,13 @@
       "title": "WTO/99",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/wto-99/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "END OF AMERICA DOUBLE FEATURE",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/end-of-america-double-feature/"
     },
     {
       "theater": "NWFF",
@@ -112,13 +105,6 @@
       "title": "Twin Peaks: The Return (Ep. 17-18)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-17-18/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TWIN PEAKS: THE RETURN (EP. 17-18)",
-      "date_display": "Fri, Dec 12 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-17-18"
     },
     {
       "theater": "The Beacon",
