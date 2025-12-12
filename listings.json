@@ -1,13 +1,6 @@
 {
-  "updated_at": "2025-12-11 16:32:10",
+  "updated_at": "2025-12-12 16:26:42",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BYE BYE LOVE",
-      "date_display": "Thu, Dec 11 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bye-bye-love"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -16,18 +9,18 @@
       "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-17-18"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Twin Peaks: The Return (Ep. 15-16)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-15-16/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "GREMLINS",
+      "date_display": "Fri, Dec 12 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/gremlins"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Zodiac Killer Project",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/zodiac-killer-project/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BATCH \u201881",
+      "date_display": "Sat, Dec 13 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/batch-81"
     },
     {
       "theater": "NWFF",
@@ -105,20 +98,6 @@
       "title": "Twin Peaks: The Return (Ep. 17-18)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-17-18/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "GREMLINS",
-      "date_display": "Fri, Dec 12 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/gremlins"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BATCH \u201881",
-      "date_display": "Sat, Dec 13 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/batch-81"
     },
     {
       "theater": "The Beacon",
