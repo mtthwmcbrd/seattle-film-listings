@@ -1,20 +1,6 @@
 {
-  "updated_at": "2025-12-12 16:26:42",
+  "updated_at": "2025-12-13 16:24:56",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TWIN PEAKS: THE RETURN (EP. 17-18)",
-      "date_display": "Fri, Dec 12 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-17-18"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "GREMLINS",
-      "date_display": "Fri, Dec 12 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/gremlins"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,11 +9,25 @@
       "link": "https://thebeacon.film/calendar/movie/batch-81"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "2025 NWFF Holiday Party: Gathering Again",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/2025-nwff-holiday-party-gathering-again/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "GREMLINS",
+      "date_display": "Sat, Dec 13 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/gremlins"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "REMEMBER THE NIGHT",
+      "date_display": "Sun, Dec 14 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/remember-the-night"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TWIN PEAKS: THE RETURN (EP. 17-18)",
+      "date_display": "Sun, Dec 14 @ 08:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-17-18"
     },
     {
       "theater": "NWFF",
@@ -98,27 +98,6 @@
       "title": "Twin Peaks: The Return (Ep. 17-18)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-17-18/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "GREMLINS",
-      "date_display": "Sat, Dec 13 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/gremlins"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "REMEMBER THE NIGHT",
-      "date_display": "Sun, Dec 14 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/remember-the-night"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TWIN PEAKS: THE RETURN (EP. 17-18)",
-      "date_display": "Sun, Dec 14 @ 08:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-17-18"
     },
     {
       "theater": "The Beacon",
