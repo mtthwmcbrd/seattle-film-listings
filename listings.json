@@ -1,20 +1,6 @@
 {
-  "updated_at": "2025-12-13 16:24:56",
+  "updated_at": "2025-12-14 16:24:27",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BATCH \u201881",
-      "date_display": "Sat, Dec 13 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/batch-81"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "GREMLINS",
-      "date_display": "Sat, Dec 13 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/gremlins"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,39 +16,25 @@
       "link": "https://thebeacon.film/calendar/movie/twin-peaks-the-return-ep-17-18"
     },
     {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "REMEMBER THE NIGHT",
+      "date_display": "Mon, Dec 15 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/remember-the-night"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "VENGEANCE IS MINE",
+      "date_display": "Mon, Dec 15 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/vengeance-is-mine"
+    },
+    {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "WTO/99",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/wto-99/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "END OF AMERICA DOUBLE FEATURE",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/end-of-america-double-feature/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Female Misbehavior",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/female-misbehavior/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Hello Dankness",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/hello-dankness/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Gendernauts",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/gendernauts/"
     },
     {
       "theater": "NWFF",
@@ -98,20 +70,6 @@
       "title": "Twin Peaks: The Return (Ep. 17-18)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/twin-peaks-return-ep-17-18/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "REMEMBER THE NIGHT",
-      "date_display": "Mon, Dec 15 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/remember-the-night"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "VENGEANCE IS MINE",
-      "date_display": "Mon, Dec 15 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/vengeance-is-mine"
     },
     {
       "theater": "The Beacon",
