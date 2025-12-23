@@ -1,13 +1,6 @@
 {
-  "updated_at": "2025-12-22 16:27:20",
+  "updated_at": "2025-12-23 16:28:19",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TONE GLOW PRESENTS: DISTANT VOICES",
-      "date_display": "Mon, Dec 22 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/tone-glow-presents-distant-voices"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,18 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/ghost-stories-for-christmas"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "NWFF Winter Break",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
-    },
-    {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "FANNY AND ALEXANDER",
       "date_display": "Wed, Dec 24 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/fanny-and-alexander"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "NWFF Winter Break",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
     },
     {
       "theater": "The Beacon",
