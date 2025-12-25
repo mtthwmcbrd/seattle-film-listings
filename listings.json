@@ -1,20 +1,6 @@
 {
-  "updated_at": "2025-12-24 16:26:44",
+  "updated_at": "2025-12-25 16:26:48",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FANNY AND ALEXANDER",
-      "date_display": "Wed, Dec 24 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/fanny-and-alexander"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "NWFF Winter Break",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -35,6 +21,13 @@
       "title": "RAGING BULL",
       "date_display": "Fri, Dec 26 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/raging-bull"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "NWFF Winter Break",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
     },
     {
       "theater": "The Beacon",
