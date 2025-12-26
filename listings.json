@@ -1,5 +1,5 @@
 {
-  "updated_at": "2025-12-25 16:26:48",
+  "updated_at": "2025-12-26 16:25:20",
   "movies": [
     {
       "theater": "The Beacon",
@@ -23,13 +23,6 @@
       "link": "https://thebeacon.film/calendar/movie/raging-bull"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "NWFF Winter Break",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
-    },
-    {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TOKYO FIST",
@@ -42,6 +35,13 @@
       "title": "TOGETHER",
       "date_display": "Sat, Dec 27 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/together"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "NWFF Winter Break",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
     },
     {
       "theater": "The Beacon",
