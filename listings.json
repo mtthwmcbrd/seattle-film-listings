@@ -1,47 +1,12 @@
 {
-  "updated_at": "2025-12-26 16:25:20",
+  "updated_at": "2025-12-27 16:25:07",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE SET-UP",
-      "date_display": "Fri, Dec 26 @ 01:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-set-up"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FAT CITY",
-      "date_display": "Fri, Dec 26 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/fat-city"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "RAGING BULL",
-      "date_display": "Fri, Dec 26 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/raging-bull"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TOKYO FIST",
-      "date_display": "Fri, Dec 26 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/tokyo-fist"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "TOGETHER",
       "date_display": "Sat, Dec 27 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/together"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "NWFF Winter Break",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
     },
     {
       "theater": "The Beacon",
@@ -56,6 +21,13 @@
       "title": "VIRIDIANA",
       "date_display": "Sun, Dec 28 @ 05:00 PM",
       "link": "https://thebeacon.film/calendar/movie/viridiana"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "NWFF Winter Break",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
     },
     {
       "theater": "The Beacon",
