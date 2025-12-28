@@ -1,13 +1,6 @@
 {
-  "updated_at": "2025-12-27 16:25:07",
+  "updated_at": "2025-12-28 16:25:29",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TOGETHER",
-      "date_display": "Sat, Dec 27 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/together"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,13 +16,6 @@
       "link": "https://thebeacon.film/calendar/movie/viridiana"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "NWFF Winter Break",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
-    },
-    {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "STELLA DALLAS",
@@ -42,6 +28,13 @@
       "title": "VIRIDIANA",
       "date_display": "Mon, Dec 29 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/viridiana"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "NWFF Winter Break",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/nwff-winter-break/"
     },
     {
       "theater": "The Beacon",
