@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-01-04 16:24:59",
+  "updated_at": "2026-01-05 16:31:13",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HOLIDAY",
-      "date_display": "Sun, Jan 04 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/holiday"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ANYTHING THAT MOVES",
-      "date_display": "Sun, Jan 04 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/anything-that-moves"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "A TOUCH OF ZEN",
       "date_display": "Mon, Jan 05 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/a-touch-of-zen"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "A TOUCH OF ZEN",
+      "date_display": "Tue, Jan 06 @ 03:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/a-touch-of-zen"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "GIANTS & TOYS",
+      "date_display": "Tue, Jan 06 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/giants-toys"
     },
     {
       "theater": "NWFF",
@@ -49,20 +49,6 @@
       "title": "2025 Sundance Film Festival Indigenous Film Tour",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/2025-sundance-film-festival-indigenous-film-tour/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "A TOUCH OF ZEN",
-      "date_display": "Tue, Jan 06 @ 03:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/a-touch-of-zen"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "GIANTS & TOYS",
-      "date_display": "Tue, Jan 06 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/giants-toys"
     },
     {
       "theater": "The Beacon",
