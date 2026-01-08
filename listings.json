@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-01-07 16:31:37",
+  "updated_at": "2026-01-08 16:31:00",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HOLIDAY",
-      "date_display": "Wed, Jan 07 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/holiday"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "GIANTS & TOYS",
-      "date_display": "Wed, Jan 07 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/giants-toys"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,6 +16,13 @@
       "link": "https://thebeacon.film/calendar/movie/city-wide-fever"
     },
     {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "REFLECTIONS IN A DEAD DIAMOND",
+      "date_display": "Fri, Jan 09 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/reflections-in-a-dead-diamond"
+    },
+    {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "2025 Sundance Film Festival Short Film Tour",
@@ -42,13 +35,6 @@
       "title": "2025 Sundance Film Festival Indigenous Film Tour",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/2025-sundance-film-festival-indigenous-film-tour/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "REFLECTIONS IN A DEAD DIAMOND",
-      "date_display": "Fri, Jan 09 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/reflections-in-a-dead-diamond"
     },
     {
       "theater": "The Beacon",
