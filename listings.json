@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-01-15 16:35:58",
+  "updated_at": "2026-01-16 16:30:11",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CARLITO\u2019S WAY",
-      "date_display": "Thu, Jan 15 @ 03:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/carlitos-way"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,11 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society In Focus: Jonathan Salmon",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/seattle-film-society-in-focus-jonathan-salmon/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLACK LIZARD",
+      "date_display": "Fri, Jan 16 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/black-lizard"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ALL THAT\u2019S LEFT OF YOU",
+      "date_display": "Sat, Jan 17 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
     },
     {
       "theater": "NWFF",
@@ -49,20 +49,6 @@
       "title": "MOURNING SICKNESS VOL. 4: Showgirls Annual Screenings",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/mourning-sickness-vol-4-showgirls-annual-screening-in-person-only/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLACK LIZARD",
-      "date_display": "Fri, Jan 16 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/black-lizard"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALL THAT\u2019S LEFT OF YOU",
-      "date_display": "Sat, Jan 17 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
     },
     {
       "theater": "The Beacon",
@@ -256,8 +242,22 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "THE DEAD EYES OF LONDON",
+      "date_display": "Tue, Feb 03 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-dead-eyes-of-london"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "NUITS ROUGES",
       "date_display": "Tue, Feb 03 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/nuits-rouges"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NUITS ROUGES",
+      "date_display": "Thu, Feb 05 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/nuits-rouges"
     },
     {
