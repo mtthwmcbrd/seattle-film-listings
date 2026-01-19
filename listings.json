@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-01-18 16:25:56",
+  "updated_at": "2026-01-19 16:30:46",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CHANDU THE MAGICIAN + THE MASK OF FU MANCHU",
-      "date_display": "Sun, Jan 18 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/chandu-the-magician-the-mask-of-fu-manchu"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALL THAT\u2019S LEFT OF YOU",
-      "date_display": "Sun, Jan 18 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,6 +16,20 @@
       "link": "https://thebeacon.film/calendar/movie/danger-diabolik"
     },
     {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLACK LIZARD",
+      "date_display": "Tue, Jan 20 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/black-lizard"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ALL THAT\u2019S LEFT OF YOU",
+      "date_display": "Tue, Jan 20 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
+    },
+    {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "2025 Sundance Film Festival Short Film Tour",
@@ -42,13 +42,6 @@
       "title": "2025 Sundance Film Festival Indigenous Film Tour",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/2025-sundance-film-festival-indigenous-film-tour/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "MOURNING SICKNESS VOL. 4: Showgirls Annual Screenings",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/mourning-sickness-vol-4-showgirls-annual-screening-in-person-only/"
     },
     {
       "theater": "NWFF",
@@ -70,20 +63,6 @@
       "title": "A Useful Ghost",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/a-useful-ghost/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLACK LIZARD",
-      "date_display": "Tue, Jan 20 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/black-lizard"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALL THAT\u2019S LEFT OF YOU",
-      "date_display": "Tue, Jan 20 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
     },
     {
       "theater": "The Beacon",
