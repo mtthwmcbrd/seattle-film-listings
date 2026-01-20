@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-01-19 16:30:46",
+  "updated_at": "2026-01-20 16:36:47",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALL THAT\u2019S LEFT OF YOU",
-      "date_display": "Mon, Jan 19 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DANGER: DIABOLIK",
-      "date_display": "Mon, Jan 19 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/danger-diabolik"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,27 @@
       "title": "ALL THAT\u2019S LEFT OF YOU",
       "date_display": "Tue, Jan 20 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ALL THAT\u2019S LEFT OF YOU",
+      "date_display": "Wed, Jan 21 @ 01:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DANGER: DIABOLIK",
+      "date_display": "Wed, Jan 21 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/danger-diabolik"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LES VAMPIRES CHAPTERS 5-7",
+      "date_display": "Wed, Jan 21 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/les-vampires-chapters-5-7"
     },
     {
       "theater": "NWFF",
@@ -63,27 +70,6 @@
       "title": "A Useful Ghost",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/a-useful-ghost/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALL THAT\u2019S LEFT OF YOU",
-      "date_display": "Wed, Jan 21 @ 01:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DANGER: DIABOLIK",
-      "date_display": "Wed, Jan 21 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/danger-diabolik"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LES VAMPIRES CHAPTERS 5-7",
-      "date_display": "Wed, Jan 21 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/les-vampires-chapters-5-7"
     },
     {
       "theater": "The Beacon",
