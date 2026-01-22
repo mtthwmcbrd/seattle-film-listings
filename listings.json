@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-01-21 16:51:11",
+  "updated_at": "2026-01-22 16:36:32",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALL THAT\u2019S LEFT OF YOU",
-      "date_display": "Wed, Jan 21 @ 01:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DANGER: DIABOLIK",
-      "date_display": "Wed, Jan 21 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/danger-diabolik"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LES VAMPIRES CHAPTERS 5-7",
-      "date_display": "Wed, Jan 21 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/les-vampires-chapters-5-7"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -35,6 +14,20 @@
       "title": "ALTERED STATES",
       "date_display": "Thu, Jan 22 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/altered-states"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ALTERED STATES",
+      "date_display": "Fri, Jan 23 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/altered-states"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "A NEW LOVE IN TOKYO",
+      "date_display": "Fri, Jan 23 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/a-new-love-in-tokyo"
     },
     {
       "theater": "NWFF",
@@ -70,20 +63,6 @@
       "title": "A Useful Ghost",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/a-useful-ghost/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALTERED STATES",
-      "date_display": "Fri, Jan 23 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/altered-states"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "A NEW LOVE IN TOKYO",
-      "date_display": "Fri, Jan 23 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/a-new-love-in-tokyo"
     },
     {
       "theater": "The Beacon",
@@ -179,9 +158,23 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "AN AMERICAN IN PARIS",
+      "date_display": "Sun, Feb 01 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/an-american-in-paris"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE DEAD EYES OF LONDON",
       "date_display": "Sun, Feb 01 @ 05:00 PM",
       "link": "https://thebeacon.film/calendar/movie/the-dead-eyes-of-london"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "AN AMERICAN IN PARIS",
+      "date_display": "Mon, Feb 02 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/an-american-in-paris"
     },
     {
       "theater": "The Beacon",
@@ -196,6 +189,13 @@
       "title": "NUITS ROUGES",
       "date_display": "Tue, Feb 03 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/nuits-rouges"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "AN AMERICAN IN PARIS",
+      "date_display": "Wed, Feb 04 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/an-american-in-paris"
     },
     {
       "theater": "The Beacon",
@@ -224,6 +224,265 @@
       "title": "OUT 1 (SECOND HALF)",
       "date_display": "Sun, Feb 08 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/out-1-second-half"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ACCATTONE",
+      "date_display": "Mon, Feb 09 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/accattone"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ACCATTONE",
+      "date_display": "Tue, Feb 10 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/accattone"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ACCATTONE",
+      "date_display": "Wed, Feb 11 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/accattone"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "?????? CINEMA",
+      "date_display": "Wed, Feb 11 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/blindfold"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NADJA",
+      "date_display": "Fri, Feb 13 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/nadja"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FRIDAY THE 13TH",
+      "date_display": "Fri, Feb 13 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/friday-the-13th"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BRIDGES OF MADISON COUNTY",
+      "date_display": "Sat, Feb 14 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-bridges-of-madison-county"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "IN THE MOOD FOR LOVE",
+      "date_display": "Sat, Feb 14 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/in-the-mood-for-love"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BAND WAGON",
+      "date_display": "Sun, Feb 15 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NADJA",
+      "date_display": "Sun, Feb 15 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/nadja"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BAND WAGON",
+      "date_display": "Mon, Feb 16 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NADJA",
+      "date_display": "Mon, Feb 16 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/nadja"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NADJA",
+      "date_display": "Tue, Feb 17 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/nadja"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAMMA ROMA",
+      "date_display": "Tue, Feb 17 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BAND WAGON",
+      "date_display": "Wed, Feb 18 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAMMA ROMA",
+      "date_display": "Wed, Feb 18 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAMMA ROMA",
+      "date_display": "Thu, Feb 19 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LOVE MEETINGS",
+      "date_display": "Thu, Feb 19 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/love-meetings"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MEMORIES OF UNDERDEVELOPMENT",
+      "date_display": "Fri, Feb 20 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/memories-of-underdevelopment"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LITAN",
+      "date_display": "Fri, Feb 20 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/litan"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MEMORIES OF UNDERDEVELOPMENT",
+      "date_display": "Sat, Feb 21 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/memories-of-underdevelopment"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LITAN",
+      "date_display": "Sat, Feb 21 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/litan"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BELLS ARE RINGING",
+      "date_display": "Sun, Feb 22 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/bells-are-ringing"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "STAR 80",
+      "date_display": "Sun, Feb 22 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/star-80"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BELLS ARE RINGING",
+      "date_display": "Mon, Feb 23 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bells-are-ringing"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE GOSPEL ACCORDING TO ST. MATTHEW",
+      "date_display": "Mon, Feb 23 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-gospel-according-to-st-matthew"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MEMORIES OF UNDERDEVELOPMENT",
+      "date_display": "Tue, Feb 24 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/memories-of-underdevelopment"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE GOSPEL ACCORDING TO ST. MATTHEW",
+      "date_display": "Tue, Feb 24 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-gospel-according-to-st-matthew"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BELLS ARE RINGING",
+      "date_display": "Wed, Feb 25 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bells-are-ringing"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "STAR 80",
+      "date_display": "Wed, Feb 25 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/star-80"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE GOSPEL ACCORDING TO ST. MATTHEW",
+      "date_display": "Thu, Feb 26 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-gospel-according-to-st-matthew"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FIVE MINUTES TO LIVE!",
+      "date_display": "Thu, Feb 26 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LE PONT DU NORD",
+      "date_display": "Fri, Feb 27 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/le-pont-du-nord"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LE PONT DU NORD",
+      "date_display": "Sat, Feb 28 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/le-pont-du-nord"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE HAWKS AND THE SPARROWS",
+      "date_display": "Mon, Mar 02 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-hawks-and-the-sparrows"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE HAWKS AND THE SPARROWS",
+      "date_display": "Tue, Mar 03 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-hawks-and-the-sparrows"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE HAWKS AND THE SPARROWS",
+      "date_display": "Thu, Mar 05 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-hawks-and-the-sparrows"
     }
   ]
 }
