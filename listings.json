@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-01-22 16:36:32",
+  "updated_at": "2026-01-23 16:31:43",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALL THAT\u2019S LEFT OF YOU",
-      "date_display": "Thu, Jan 22 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALTERED STATES",
-      "date_display": "Thu, Jan 22 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/altered-states"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,18 +16,11 @@
       "link": "https://thebeacon.film/calendar/movie/a-new-love-in-tokyo"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "2025 Sundance Film Festival Short Film Tour",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/2025-sundance-film-festival-short-film-tour/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "2025 Sundance Film Festival Indigenous Film Tour",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/2025-sundance-film-festival-indigenous-film-tour/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TEMPTRESS OF A THOUSAND FACES",
+      "date_display": "Fri, Jan 23 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/temptress-of-a-thousand-faces"
     },
     {
       "theater": "NWFF",
@@ -65,11 +44,11 @@
       "link": "https://nwfilmforum.org/films/a-useful-ghost/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TEMPTRESS OF A THOUSAND FACES",
-      "date_display": "Fri, Jan 23 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/temptress-of-a-thousand-faces"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society Presents Locals Only: January 2026",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-january-2026/"
     },
     {
       "theater": "The Beacon",
@@ -207,6 +186,13 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "ALL THAT\u2019S LEFT OF YOU",
+      "date_display": "Fri, Feb 06 @ 02:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE LOVERS ON THE BRIDGE",
       "date_display": "Fri, Feb 06 @ 09:00 PM",
       "link": "https://thebeacon.film/calendar/movie/the-lovers-on-the-bridge"
@@ -224,6 +210,13 @@
       "title": "OUT 1 (SECOND HALF)",
       "date_display": "Sun, Feb 08 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/out-1-second-half"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ALL THAT\u2019S LEFT OF YOU",
+      "date_display": "Mon, Feb 09 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
     },
     {
       "theater": "The Beacon",
@@ -252,6 +245,13 @@
       "title": "?????? CINEMA",
       "date_display": "Wed, Feb 11 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/blindfold"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ALL THAT\u2019S LEFT OF YOU",
+      "date_display": "Thu, Feb 12 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
     },
     {
       "theater": "The Beacon",
