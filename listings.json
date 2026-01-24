@@ -1,33 +1,26 @@
 {
-  "updated_at": "2026-01-23 16:31:43",
+  "updated_at": "2026-01-24 16:25:56",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "ALTERED STATES",
-      "date_display": "Fri, Jan 23 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/altered-states"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
       "title": "A NEW LOVE IN TOKYO",
-      "date_display": "Fri, Jan 23 @ 07:00 PM",
+      "date_display": "Sat, Jan 24 @ 10:00 PM",
       "link": "https://thebeacon.film/calendar/movie/a-new-love-in-tokyo"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "TEMPTRESS OF A THOUSAND FACES",
-      "date_display": "Fri, Jan 23 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/temptress-of-a-thousand-faces"
+      "title": "THE BAT WHISPERS",
+      "date_display": "Sun, Jan 25 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-bat-whispers"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Disabled List Comedy Festival 2026",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/disabled-list-comedy-festival-2026/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE LOVERS ON THE BRIDGE",
+      "date_display": "Sun, Jan 25 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-lovers-on-the-bridge"
     },
     {
       "theater": "NWFF",
@@ -49,27 +42,6 @@
       "title": "Seattle Film Society Presents Locals Only: January 2026",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-january-2026/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "A NEW LOVE IN TOKYO",
-      "date_display": "Sat, Jan 24 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/a-new-love-in-tokyo"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BAT WHISPERS",
-      "date_display": "Sun, Jan 25 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-bat-whispers"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE LOVERS ON THE BRIDGE",
-      "date_display": "Sun, Jan 25 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-lovers-on-the-bridge"
     },
     {
       "theater": "The Beacon",
