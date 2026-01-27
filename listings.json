@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-01-26 16:35:31",
+  "updated_at": "2026-01-27 16:31:21",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BAT WHISPERS",
-      "date_display": "Mon, Jan 26 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-bat-whispers"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE THOUSAND EYES OF DR. MABUSE",
-      "date_display": "Mon, Jan 26 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-thousand-eyes-of-dr-mabuse"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "VIVA LA MUERTE",
       "date_display": "Tue, Jan 27 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/viva-la-muerte"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE THOUSAND EYES OF DR. MABUSE",
+      "date_display": "Wed, Jan 28 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-thousand-eyes-of-dr-mabuse"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LES VAMPIRES CHAPTERS 8-10",
+      "date_display": "Wed, Jan 28 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/les-vampires-chapters-8-10"
     },
     {
       "theater": "NWFF",
@@ -49,20 +49,6 @@
       "title": "A Useful Ghost",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/a-useful-ghost/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE THOUSAND EYES OF DR. MABUSE",
-      "date_display": "Wed, Jan 28 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-thousand-eyes-of-dr-mabuse"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LES VAMPIRES CHAPTERS 8-10",
-      "date_display": "Wed, Jan 28 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/les-vampires-chapters-8-10"
     },
     {
       "theater": "The Beacon",
