@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-01-29 16:43:55",
+  "updated_at": "2026-01-30 16:40:14",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "VIVA LA MUERTE",
-      "date_display": "Thu, Jan 29 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/viva-la-muerte"
+      "title": "LADY TERMINATOR",
+      "date_display": "Fri, Jan 30 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/lady-terminator"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society Presents Locals Only: January 2026",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-january-2026/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BELPHEGOR, OR THE PHANTOM OF THE LOUVRE",
+      "date_display": "Sat, Jan 31 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/belphegor-or-the-phantom-of-the-louvre"
     },
     {
       "theater": "NWFF",
@@ -30,18 +30,18 @@
       "link": "https://nwfilmforum.org/films/a-useful-ghost/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LADY TERMINATOR",
-      "date_display": "Fri, Jan 30 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/lady-terminator"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Truth To Fiction: Black Is... Black Ain't",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/truth-to-fiction-black-is-black-aint/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BELPHEGOR, OR THE PHANTOM OF THE LOUVRE",
-      "date_display": "Sat, Jan 31 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/belphegor-or-the-phantom-of-the-louvre"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "The Mysterious Gaze of the Flamingo",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/the-mysterious-gaze-of-the-flamingo/"
     },
     {
       "theater": "The Beacon",
