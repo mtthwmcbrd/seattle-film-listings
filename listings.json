@@ -1,19 +1,26 @@
 {
-  "updated_at": "2026-01-30 16:40:14",
+  "updated_at": "2026-01-31 16:29:28",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LADY TERMINATOR",
-      "date_display": "Fri, Jan 30 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/lady-terminator"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "BELPHEGOR, OR THE PHANTOM OF THE LOUVRE",
       "date_display": "Sat, Jan 31 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/belphegor-or-the-phantom-of-the-louvre"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "AN AMERICAN IN PARIS",
+      "date_display": "Sun, Feb 01 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/an-american-in-paris"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE DEAD EYES OF LONDON",
+      "date_display": "Sun, Feb 01 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-dead-eyes-of-london"
     },
     {
       "theater": "NWFF",
@@ -44,18 +51,11 @@
       "link": "https://nwfilmforum.org/films/the-mysterious-gaze-of-the-flamingo/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "AN AMERICAN IN PARIS",
-      "date_display": "Sun, Feb 01 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/an-american-in-paris"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE DEAD EYES OF LONDON",
-      "date_display": "Sun, Feb 01 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-dead-eyes-of-london"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Resurrection",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/resurrection/"
     },
     {
       "theater": "The Beacon",
