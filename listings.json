@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-01 16:30:57",
+  "updated_at": "2026-02-02 16:41:22",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "AN AMERICAN IN PARIS",
-      "date_display": "Sun, Feb 01 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/an-american-in-paris"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE DEAD EYES OF LONDON",
-      "date_display": "Sun, Feb 01 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-dead-eyes-of-london"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,18 +9,18 @@
       "link": "https://thebeacon.film/calendar/movie/an-american-in-paris"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Peaches Goes Bananas",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/peaches-goes-bananas/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE DEAD EYES OF LONDON",
+      "date_display": "Tue, Feb 03 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-dead-eyes-of-london"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "A Useful Ghost",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/a-useful-ghost/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NUITS ROUGES",
+      "date_display": "Tue, Feb 03 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/nuits-rouges"
     },
     {
       "theater": "NWFF",
@@ -63,20 +49,6 @@
       "title": "Interbay Cinema Society Presents: Imago Dei\u2014Four by Will Hindle",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/interbay-cinema-society-presents-will-hindle/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE DEAD EYES OF LONDON",
-      "date_display": "Tue, Feb 03 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-dead-eyes-of-london"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "NUITS ROUGES",
-      "date_display": "Tue, Feb 03 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/nuits-rouges"
     },
     {
       "theater": "The Beacon",
