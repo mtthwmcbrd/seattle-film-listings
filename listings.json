@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-02-02 16:41:22",
+  "updated_at": "2026-02-03 16:54:25",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "AN AMERICAN IN PARIS",
-      "date_display": "Mon, Feb 02 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/an-american-in-paris"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -21,6 +14,13 @@
       "title": "NUITS ROUGES",
       "date_display": "Tue, Feb 03 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/nuits-rouges"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "AN AMERICAN IN PARIS",
+      "date_display": "Wed, Feb 04 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/an-american-in-paris"
     },
     {
       "theater": "NWFF",
@@ -49,13 +49,6 @@
       "title": "Interbay Cinema Society Presents: Imago Dei\u2014Four by Will Hindle",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/interbay-cinema-society-presents-will-hindle/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "AN AMERICAN IN PARIS",
-      "date_display": "Wed, Feb 04 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/an-american-in-paris"
     },
     {
       "theater": "The Beacon",
