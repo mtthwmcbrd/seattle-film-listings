@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-02-10 17:02:27",
+  "updated_at": "2026-02-11 17:04:47",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ACCATTONE",
-      "date_display": "Tue, Feb 10 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/accattone"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -21,6 +14,13 @@
       "title": "?????? CINEMA",
       "date_display": "Wed, Feb 11 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/blindfold"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ALL THAT\u2019S LEFT OF YOU",
+      "date_display": "Thu, Feb 12 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
     },
     {
       "theater": "NWFF",
@@ -56,13 +56,6 @@
       "title": "2026 Sakinah Film Festival - SUNDAY (SUNRISE)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/2026-sakinah-film-festival-sunday-sunrise/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALL THAT\u2019S LEFT OF YOU",
-      "date_display": "Thu, Feb 12 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
     },
     {
       "theater": "The Beacon",
