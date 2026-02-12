@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-02-11 17:04:47",
+  "updated_at": "2026-02-12 16:59:12",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ACCATTONE",
-      "date_display": "Wed, Feb 11 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/accattone"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "?????? CINEMA",
-      "date_display": "Wed, Feb 11 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/blindfold"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "ALL THAT\u2019S LEFT OF YOU",
       "date_display": "Thu, Feb 12 @ 04:00 PM",
       "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NADJA",
+      "date_display": "Fri, Feb 13 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/nadja"
     },
     {
       "theater": "NWFF",
@@ -58,11 +51,11 @@
       "link": "https://nwfilmforum.org/films/2026-sakinah-film-festival-sunday-sunrise/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "NADJA",
-      "date_display": "Fri, Feb 13 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/nadja"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Daisies with Velocity Dance Center",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/daisies-with-velocity-dance-center/"
     },
     {
       "theater": "The Beacon",
@@ -259,6 +252,13 @@
       "title": "LE PONT DU NORD",
       "date_display": "Fri, Feb 27 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/le-pont-du-nord"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "SECS FEST PRESENTS SATAN IN HIGH HEELS",
+      "date_display": "Fri, Feb 27 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/secs-fest-presents-satan-in-high-heels"
     },
     {
       "theater": "The Beacon",
