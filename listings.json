@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-02-12 16:59:12",
+  "updated_at": "2026-02-13 16:49:19",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALL THAT\u2019S LEFT OF YOU",
-      "date_display": "Thu, Feb 12 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/all-thats-left-of-you"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -16,11 +9,18 @@
       "link": "https://thebeacon.film/calendar/movie/nadja"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Paying For It",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/paying-for-it/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FRIDAY THE 13TH",
+      "date_display": "Fri, Feb 13 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/friday-the-13th"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BRIDGES OF MADISON COUNTY",
+      "date_display": "Sat, Feb 14 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-bridges-of-madison-county"
     },
     {
       "theater": "NWFF",
@@ -58,18 +58,11 @@
       "link": "https://nwfilmforum.org/films/daisies-with-velocity-dance-center/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FRIDAY THE 13TH",
-      "date_display": "Fri, Feb 13 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/friday-the-13th"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BRIDGES OF MADISON COUNTY",
-      "date_display": "Sat, Feb 14 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-bridges-of-madison-county"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SAFF Arab Film Club: Satin Rouge",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/saff-arab-film-club-satin-rouge/"
     },
     {
       "theater": "The Beacon",
