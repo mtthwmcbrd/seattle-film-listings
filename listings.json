@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-13 16:49:19",
+  "updated_at": "2026-02-14 16:31:01",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "NADJA",
-      "date_display": "Fri, Feb 13 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/nadja"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FRIDAY THE 13TH",
-      "date_display": "Fri, Feb 13 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/friday-the-13th"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,18 +9,25 @@
       "link": "https://thebeacon.film/calendar/movie/the-bridges-of-madison-county"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Resurrection",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/resurrection/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "IN THE MOOD FOR LOVE",
+      "date_display": "Sat, Feb 14 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/in-the-mood-for-love"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Mysterious Gaze of the Flamingo",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/the-mysterious-gaze-of-the-flamingo/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BAND WAGON",
+      "date_display": "Sun, Feb 15 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NADJA",
+      "date_display": "Sun, Feb 15 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/nadja"
     },
     {
       "theater": "NWFF",
@@ -42,6 +35,13 @@
       "title": "2026 Sakinah Film Festival - SATURDAY (SUNSET)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/2026-sakinah-film-festival-saturday-sunset/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Resurrection",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/resurrection/"
     },
     {
       "theater": "NWFF",
@@ -65,25 +65,11 @@
       "link": "https://nwfilmforum.org/films/saff-arab-film-club-satin-rouge/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "IN THE MOOD FOR LOVE",
-      "date_display": "Sat, Feb 14 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/in-the-mood-for-love"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BAND WAGON",
-      "date_display": "Sun, Feb 15 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "NADJA",
-      "date_display": "Sun, Feb 15 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/nadja"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Far From Heaven",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/far-from-heaven/"
     },
     {
       "theater": "The Beacon",
