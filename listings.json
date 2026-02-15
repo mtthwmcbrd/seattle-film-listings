@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-14 16:31:01",
+  "updated_at": "2026-02-15 16:31:17",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BRIDGES OF MADISON COUNTY",
-      "date_display": "Sat, Feb 14 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-bridges-of-madison-county"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "IN THE MOOD FOR LOVE",
-      "date_display": "Sat, Feb 14 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/in-the-mood-for-love"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,18 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/nadja"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "2026 Sakinah Film Festival - SATURDAY (SUNSET)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/2026-sakinah-film-festival-saturday-sunset/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BAND WAGON",
+      "date_display": "Mon, Feb 16 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Resurrection",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/resurrection/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NADJA",
+      "date_display": "Mon, Feb 16 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/nadja"
     },
     {
       "theater": "NWFF",
@@ -49,6 +35,13 @@
       "title": "2026 Sakinah Film Festival - SUNDAY (SUNRISE)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/2026-sakinah-film-festival-sunday-sunrise/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Resurrection",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/resurrection/"
     },
     {
       "theater": "NWFF",
@@ -72,18 +65,11 @@
       "link": "https://nwfilmforum.org/films/far-from-heaven/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BAND WAGON",
-      "date_display": "Mon, Feb 16 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "NADJA",
-      "date_display": "Mon, Feb 16 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/nadja"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "BLKNWS: Terms & Conditions",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/blknws-terms-conditions/"
     },
     {
       "theater": "The Beacon",
