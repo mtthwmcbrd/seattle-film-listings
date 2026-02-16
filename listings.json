@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-15 16:31:17",
+  "updated_at": "2026-02-16 16:44:30",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BAND WAGON",
-      "date_display": "Sun, Feb 15 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "NADJA",
-      "date_display": "Sun, Feb 15 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/nadja"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,18 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/nadja"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "2026 Sakinah Film Festival - SUNDAY (SUNRISE)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/2026-sakinah-film-festival-sunday-sunrise/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NADJA",
+      "date_display": "Tue, Feb 17 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/nadja"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Resurrection",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/resurrection/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAMMA ROMA",
+      "date_display": "Tue, Feb 17 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
     },
     {
       "theater": "NWFF",
@@ -70,20 +56,6 @@
       "title": "BLKNWS: Terms & Conditions",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/blknws-terms-conditions/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "NADJA",
-      "date_display": "Tue, Feb 17 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/nadja"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MAMMA ROMA",
-      "date_display": "Tue, Feb 17 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
     },
     {
       "theater": "The Beacon",
