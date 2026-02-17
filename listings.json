@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-16 16:44:30",
+  "updated_at": "2026-02-17 16:57:36",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BAND WAGON",
-      "date_display": "Mon, Feb 16 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "NADJA",
-      "date_display": "Mon, Feb 16 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/nadja"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -27,6 +13,20 @@
       "location": "4405 Rainier Ave S",
       "title": "MAMMA ROMA",
       "date_display": "Tue, Feb 17 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BAND WAGON",
+      "date_display": "Wed, Feb 18 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAMMA ROMA",
+      "date_display": "Wed, Feb 18 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/mamma-roma"
     },
     {
@@ -56,20 +56,6 @@
       "title": "BLKNWS: Terms & Conditions",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/blknws-terms-conditions/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BAND WAGON",
-      "date_display": "Wed, Feb 18 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-band-wagon"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MAMMA ROMA",
-      "date_display": "Wed, Feb 18 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
     },
     {
       "theater": "The Beacon",
