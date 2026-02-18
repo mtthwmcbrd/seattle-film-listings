@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-17 16:57:36",
+  "updated_at": "2026-02-18 17:04:19",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "NADJA",
-      "date_display": "Tue, Feb 17 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/nadja"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MAMMA ROMA",
-      "date_display": "Tue, Feb 17 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "MAMMA ROMA",
       "date_display": "Wed, Feb 18 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/mamma-roma"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAMMA ROMA",
+      "date_display": "Thu, Feb 19 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LOVE MEETINGS",
+      "date_display": "Thu, Feb 19 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/love-meetings"
     },
     {
       "theater": "NWFF",
@@ -56,20 +56,6 @@
       "title": "BLKNWS: Terms & Conditions",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/blknws-terms-conditions/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MAMMA ROMA",
-      "date_display": "Thu, Feb 19 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LOVE MEETINGS",
-      "date_display": "Thu, Feb 19 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/love-meetings"
     },
     {
       "theater": "The Beacon",
@@ -193,6 +179,34 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "PORTRAIT IN CRYSTAL",
+      "date_display": "Sat, Feb 28 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/portrait-in-crystal"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CONFESSIONS OF A NAZI SPY",
+      "date_display": "Sun, Mar 01 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/confessions-of-a-nazi-spy"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WANDA",
+      "date_display": "Sun, Mar 01 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wanda"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CONFESSIONS OF A NAZI SPY",
+      "date_display": "Mon, Mar 02 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/confessions-of-a-nazi-spy"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE HAWKS AND THE SPARROWS",
       "date_display": "Mon, Mar 02 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-hawks-and-the-sparrows"
@@ -207,6 +221,27 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "SWEET SWEETBACK\u2019S BAADASSSSS SONG",
+      "date_display": "Tue, Mar 03 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/sweet-sweetbacks-baadasssss-song"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "SWEET SWEETBACK\u2019S BAADASSSSS SONG",
+      "date_display": "Wed, Mar 04 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/sweet-sweetbacks-baadasssss-song"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WANDA",
+      "date_display": "Wed, Mar 04 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/wanda"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE HAWKS AND THE SPARROWS",
       "date_display": "Thu, Mar 05 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-hawks-and-the-sparrows"
@@ -214,9 +249,324 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "WANDA",
+      "date_display": "Thu, Mar 05 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/wanda"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DEAD MOUNTAINEER\u2019S HOTEL",
+      "date_display": "Fri, Mar 06 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/dead-mountaineers-hotel"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TOMB OF TREASURE PRESENTS THE CULT OF AGFA TRAILER SHOW + CRIMINALLY INSANE",
+      "date_display": "Fri, Mar 06 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/tomb-of-treasure-presents-the-cult-of-agfa-trailer-show-criminally-insane"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DESCENDANT OF THE SUN",
+      "date_display": "Sat, Mar 07 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/descendant-of-the-sun"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FOREIGN CORRESPONDENT",
+      "date_display": "Sun, Mar 08 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/foreign-correspondent"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FOREIGN CORRESPONDENT",
+      "date_display": "Mon, Mar 09 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/foreign-correspondent"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DEAD MOUNTAINEER\u2019S HOTEL",
+      "date_display": "Mon, Mar 09 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/dead-mountaineers-hotel"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DEAD MOUNTAINEER\u2019S HOTEL",
+      "date_display": "Tue, Mar 10 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/dead-mountaineers-hotel"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE FINAL COMEDOWN",
+      "date_display": "Tue, Mar 10 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-final-comedown"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE FINAL COMEDOWN",
+      "date_display": "Wed, Mar 11 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-final-comedown"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FOREIGN CORRESPONDENT",
+      "date_display": "Thu, Mar 12 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/foreign-correspondent"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HAROLD AND MAUDE",
+      "date_display": "Fri, Mar 13 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/harold-and-maude"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "VHS \u00dcBER ALLES PRESENTS\u2026",
+      "date_display": "Fri, Mar 13 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BITTER RICE",
+      "date_display": "Sat, Mar 14 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/bitter-rice"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "?????? CINEMA",
+      "date_display": "Sat, Mar 14 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/blindfold"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE MORTAL STORM",
+      "date_display": "Sun, Mar 15 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-mortal-storm"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE 13TH ANNUAL ON CINEMA OSCAR SPECIAL",
       "date_display": "Sun, Mar 15 @ 04:00 PM",
       "link": "https://thebeacon.film/calendar/movie/the-13th-annual-on-cinema-oscar-special"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE MORTAL STORM",
+      "date_display": "Mon, Mar 16 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-mortal-storm"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HAROLD AND MAUDE",
+      "date_display": "Mon, Mar 16 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/harold-and-maude"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HAROLD AND MAUDE",
+      "date_display": "Tue, Mar 17 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/harold-and-maude"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TOP OF THE HEAP",
+      "date_display": "Tue, Mar 17 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/top-of-the-heap"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TOP OF THE HEAP",
+      "date_display": "Wed, Mar 18 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/top-of-the-heap"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BITTER RICE",
+      "date_display": "Wed, Mar 18 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bitter-rice"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BITTER RICE",
+      "date_display": "Thu, Mar 19 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bitter-rice"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FAILED STATE",
+      "date_display": "Thu, Mar 19 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/failed-state"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FELLINI\u2019S CASANOVA",
+      "date_display": "Fri, Mar 20 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/fellinis-casanova"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PECKER",
+      "date_display": "Fri, Mar 20 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/pecker"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DIVINE HAMMER",
+      "date_display": "Sat, Mar 21 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WYRD WAR PRESENTS IT\u2019S ALIVE",
+      "date_display": "Sat, Mar 21 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wyrd-war-presents-its-alive"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ARISE, MY LOVE",
+      "date_display": "Sun, Mar 22 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/arise-my-love"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FELLINI\u2019S CASANOVA",
+      "date_display": "Sun, Mar 22 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/fellinis-casanova"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ARISE, MY LOVE",
+      "date_display": "Mon, Mar 23 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/arise-my-love"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE SPOOK WHO SAT BY THE DOOR",
+      "date_display": "Mon, Mar 23 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE SPOOK WHO SAT BY THE DOOR",
+      "date_display": "Tue, Mar 24 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PECKER",
+      "date_display": "Wed, Mar 25 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/pecker"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE SPOOK WHO SAT BY THE DOOR",
+      "date_display": "Wed, Mar 25 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "IWW PRESENTS THE WORKING CLASS GOES TO HEAVEN",
+      "date_display": "Fri, Mar 27 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/iww-presents-the-working-class-goes-to-heaven"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CECIL B. DEMENTED",
+      "date_display": "Fri, Mar 27 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/cecil-b-demented"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE CHALLENGE OF THE LADY NINJA",
+      "date_display": "Sat, Mar 28 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-challenge-of-the-lady-ninja"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "S\u00c1T\u00c1NTANG\u00d3",
+      "date_display": "Sun, Mar 29 @ 11:00 AM",
+      "link": "https://thebeacon.film/calendar/movie/satantango"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE CHALLENGE OF THE LADY NINJA",
+      "date_display": "Mon, Mar 30 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-challenge-of-the-lady-ninja"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CECIL B. DEMENTED",
+      "date_display": "Tue, Mar 31 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/cecil-b-demented"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "EMMA MAE",
+      "date_display": "Tue, Mar 31 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/emma-mae"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "EMMA MAE",
+      "date_display": "Wed, Apr 01 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/emma-mae"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "A DIRTY SHAME",
+      "date_display": "Fri, Apr 03 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/a-dirty-shame"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "A DIRTY SHAME",
+      "date_display": "Tue, Apr 07 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/a-dirty-shame"
     }
   ]
 }
