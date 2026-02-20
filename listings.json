@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-19 16:54:00",
+  "updated_at": "2026-02-20 16:39:41",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MAMMA ROMA",
-      "date_display": "Thu, Feb 19 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/mamma-roma"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LOVE MEETINGS",
-      "date_display": "Thu, Feb 19 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/love-meetings"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,18 +9,18 @@
       "link": "https://thebeacon.film/calendar/movie/memories-of-underdevelopment"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "SAFF Arab Film Club: Satin Rouge",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/saff-arab-film-club-satin-rouge/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LITAN",
+      "date_display": "Fri, Feb 20 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/litan"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Daisies with Velocity Dance Center",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/daisies-with-velocity-dance-center/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MEMORIES OF UNDERDEVELOPMENT",
+      "date_display": "Sat, Feb 21 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/memories-of-underdevelopment"
     },
     {
       "theater": "NWFF",
@@ -51,18 +37,11 @@
       "link": "https://nwfilmforum.org/films/blknws-terms-conditions/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LITAN",
-      "date_display": "Fri, Feb 20 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/litan"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MEMORIES OF UNDERDEVELOPMENT",
-      "date_display": "Sat, Feb 21 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/memories-of-underdevelopment"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society Presents Locals Only: February 2026",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-february-2026/"
     },
     {
       "theater": "The Beacon",
@@ -560,6 +539,13 @@
       "title": "A DIRTY SHAME",
       "date_display": "Tue, Apr 07 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/a-dirty-shame"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WTO/99",
+      "date_display": "Sat, May 02 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wto-99"
     }
   ]
 }
