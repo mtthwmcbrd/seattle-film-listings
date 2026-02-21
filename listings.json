@@ -1,47 +1,12 @@
 {
-  "updated_at": "2026-02-20 16:39:41",
+  "updated_at": "2026-02-21 16:30:22",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MEMORIES OF UNDERDEVELOPMENT",
-      "date_display": "Fri, Feb 20 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/memories-of-underdevelopment"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LITAN",
-      "date_display": "Fri, Feb 20 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/litan"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "MEMORIES OF UNDERDEVELOPMENT",
       "date_display": "Sat, Feb 21 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/memories-of-underdevelopment"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Far From Heaven",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/far-from-heaven/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "BLKNWS: Terms & Conditions",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/blknws-terms-conditions/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society Presents Locals Only: February 2026",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-february-2026/"
     },
     {
       "theater": "The Beacon",
@@ -63,6 +28,34 @@
       "title": "STAR 80",
       "date_display": "Sun, Feb 22 @ 05:00 PM",
       "link": "https://thebeacon.film/calendar/movie/star-80"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "BLKNWS: Terms & Conditions",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/blknws-terms-conditions/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Far From Heaven",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/far-from-heaven/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society Presents Locals Only: February 2026",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-february-2026/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Travessias 2026 \u2013\u00a0Manas",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/travessias-2026-manas/"
     },
     {
       "theater": "The Beacon",
@@ -529,9 +522,23 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "DIVINE HAMMER",
+      "date_display": "Thu, Apr 02 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "A DIRTY SHAME",
       "date_display": "Fri, Apr 03 @ 10:00 PM",
       "link": "https://thebeacon.film/calendar/movie/a-dirty-shame"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DIVINE HAMMER",
+      "date_display": "Sat, Apr 04 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
     },
     {
       "theater": "The Beacon",
