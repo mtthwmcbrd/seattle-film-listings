@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-23 16:57:46",
+  "updated_at": "2026-02-24 17:06:32",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BELLS ARE RINGING",
-      "date_display": "Mon, Feb 23 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bells-are-ringing"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE GOSPEL ACCORDING TO ST. MATTHEW",
-      "date_display": "Mon, Feb 23 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-gospel-according-to-st-matthew"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "THE GOSPEL ACCORDING TO ST. MATTHEW",
       "date_display": "Tue, Feb 24 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-gospel-according-to-st-matthew"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BELLS ARE RINGING",
+      "date_display": "Wed, Feb 25 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bells-are-ringing"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "STAR 80",
+      "date_display": "Wed, Feb 25 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/star-80"
     },
     {
       "theater": "NWFF",
@@ -77,20 +77,6 @@
       "title": "Safe - 4K Restoration",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/safe-4k-restoration/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BELLS ARE RINGING",
-      "date_display": "Wed, Feb 25 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bells-are-ringing"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "STAR 80",
-      "date_display": "Wed, Feb 25 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/star-80"
     },
     {
       "theater": "The Beacon",
