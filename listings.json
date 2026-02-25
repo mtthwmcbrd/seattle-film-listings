@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-24 17:06:32",
+  "updated_at": "2026-02-25 17:07:58",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MEMORIES OF UNDERDEVELOPMENT",
-      "date_display": "Tue, Feb 24 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/memories-of-underdevelopment"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE GOSPEL ACCORDING TO ST. MATTHEW",
-      "date_display": "Tue, Feb 24 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-gospel-according-to-st-matthew"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "STAR 80",
       "date_display": "Wed, Feb 25 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/star-80"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE GOSPEL ACCORDING TO ST. MATTHEW",
+      "date_display": "Thu, Feb 26 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-gospel-according-to-st-matthew"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FIVE MINUTES TO LIVE!",
+      "date_display": "Thu, Feb 26 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
     },
     {
       "theater": "NWFF",
@@ -77,20 +77,6 @@
       "title": "Safe - 4K Restoration",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/safe-4k-restoration/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE GOSPEL ACCORDING TO ST. MATTHEW",
-      "date_display": "Thu, Feb 26 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-gospel-according-to-st-matthew"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FIVE MINUTES TO LIVE!",
-      "date_display": "Thu, Feb 26 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
     },
     {
       "theater": "The Beacon",
