@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-25 17:07:58",
+  "updated_at": "2026-02-26 16:59:01",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BELLS ARE RINGING",
-      "date_display": "Wed, Feb 25 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bells-are-ringing"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "STAR 80",
-      "date_display": "Wed, Feb 25 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/star-80"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,6 +16,13 @@
       "link": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
     },
     {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LE PONT DU NORD",
+      "date_display": "Fri, Feb 27 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/le-pont-du-nord"
+    },
+    {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "Seattle Film Society Presents Locals Only: February 2026",
@@ -39,7 +32,7 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Travessias 2026 \u2013\u00a0Manas",
+      "title": "Travessias 2026 \u2013\u00a0Manas & Mestre Zen\u00f3bio e o Cord\u00e3o da Bicharada",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/travessias-2026-manas/"
     },
@@ -77,13 +70,6 @@
       "title": "Safe - 4K Restoration",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/safe-4k-restoration/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LE PONT DU NORD",
-      "date_display": "Fri, Feb 27 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/le-pont-du-nord"
     },
     {
       "theater": "The Beacon",
