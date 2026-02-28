@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-02-27 16:41:13",
+  "updated_at": "2026-02-28 16:27:39",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LE PONT DU NORD",
-      "date_display": "Fri, Feb 27 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/le-pont-du-nord"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "SECS FEST PRESENTS SATAN IN HIGH HEELS",
-      "date_display": "Fri, Feb 27 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/secs-fest-presents-satan-in-high-heels"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,18 +9,25 @@
       "link": "https://thebeacon.film/calendar/movie/le-pont-du-nord"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Travessias 2026 \u2013\u00a0Manas & Mestre Zen\u00f3bio e o Cord\u00e3o da Bicharada",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/travessias-2026-manas/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PORTRAIT IN CRYSTAL",
+      "date_display": "Sat, Feb 28 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/portrait-in-crystal"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Far From Heaven",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/far-from-heaven/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CONFESSIONS OF A NAZI SPY",
+      "date_display": "Sun, Mar 01 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/confessions-of-a-nazi-spy"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WANDA",
+      "date_display": "Sun, Mar 01 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wanda"
     },
     {
       "theater": "NWFF",
@@ -42,6 +35,13 @@
       "title": "Travessias 2026 \u2013\u00a0Criadas",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/travessias-2026-criadas/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Far From Heaven",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/far-from-heaven/"
     },
     {
       "theater": "NWFF",
@@ -72,25 +72,11 @@
       "link": "https://nwfilmforum.org/films/truth-to-fiction-the-librarians/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PORTRAIT IN CRYSTAL",
-      "date_display": "Sat, Feb 28 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/portrait-in-crystal"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CONFESSIONS OF A NAZI SPY",
-      "date_display": "Sun, Mar 01 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/confessions-of-a-nazi-spy"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WANDA",
-      "date_display": "Sun, Mar 01 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/wanda"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "What Does That Nature Say To You",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/what-does-that-nature-say-to-you/"
     },
     {
       "theater": "The Beacon",
