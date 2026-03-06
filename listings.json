@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-03-05 18:04:33",
+  "updated_at": "2026-03-06 16:41:52",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE HAWKS AND THE SPARROWS",
-      "date_display": "Thu, Mar 05 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-hawks-and-the-sparrows"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WANDA",
-      "date_display": "Thu, Mar 05 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/wanda"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,11 +9,11 @@
       "link": "https://thebeacon.film/calendar/movie/dead-mountaineers-hotel"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Truth To Fiction: The Librarians",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/truth-to-fiction-the-librarians/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TOMB OF TREASURE PRESENTS THE CULT OF AGFA TRAILER SHOW + CRIMINALLY INSANE",
+      "date_display": "Fri, Mar 06 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/tomb-of-treasure-presents-the-cult-of-agfa-trailer-show-criminally-insane"
     },
     {
       "theater": "NWFF",
@@ -63,13 +49,6 @@
       "title": "Numbskull Revolution",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/numbskull-revolution/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TOMB OF TREASURE PRESENTS THE CULT OF AGFA TRAILER SHOW + CRIMINALLY INSANE",
-      "date_display": "Fri, Mar 06 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/tomb-of-treasure-presents-the-cult-of-agfa-trailer-show-criminally-insane"
     },
     {
       "theater": "The Beacon",
