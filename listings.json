@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-03-06 16:41:52",
+  "updated_at": "2026-03-07 16:28:44",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "DEAD MOUNTAINEER\u2019S HOTEL",
-      "date_display": "Fri, Mar 06 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/dead-mountaineers-hotel"
+      "title": "DESCENDANT OF THE SUN",
+      "date_display": "Sat, Mar 07 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/descendant-of-the-sun"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "TOMB OF TREASURE PRESENTS THE CULT OF AGFA TRAILER SHOW + CRIMINALLY INSANE",
-      "date_display": "Fri, Mar 06 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/tomb-of-treasure-presents-the-cult-of-agfa-trailer-show-criminally-insane"
+      "title": "FOREIGN CORRESPONDENT",
+      "date_display": "Sun, Mar 08 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/foreign-correspondent"
     },
     {
       "theater": "NWFF",
@@ -49,20 +49,6 @@
       "title": "Numbskull Revolution",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/numbskull-revolution/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DESCENDANT OF THE SUN",
-      "date_display": "Sat, Mar 07 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/descendant-of-the-sun"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FOREIGN CORRESPONDENT",
-      "date_display": "Sun, Mar 08 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/foreign-correspondent"
     },
     {
       "theater": "The Beacon",
