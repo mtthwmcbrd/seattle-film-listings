@@ -1,19 +1,26 @@
 {
-  "updated_at": "2026-03-07 16:28:44",
+  "updated_at": "2026-03-08 16:29:29",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DESCENDANT OF THE SUN",
-      "date_display": "Sat, Mar 07 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/descendant-of-the-sun"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "FOREIGN CORRESPONDENT",
       "date_display": "Sun, Mar 08 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/foreign-correspondent"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FOREIGN CORRESPONDENT",
+      "date_display": "Mon, Mar 09 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/foreign-correspondent"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DEAD MOUNTAINEER\u2019S HOTEL",
+      "date_display": "Mon, Mar 09 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/dead-mountaineers-hotel"
     },
     {
       "theater": "NWFF",
@@ -32,13 +39,6 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "10 Things I Hate About You",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/10-things-i-hate-about-you/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
       "title": "Members Only Mystery Preview - March 2026",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/members-mystery-preview-march-2026/"
@@ -49,20 +49,6 @@
       "title": "Numbskull Revolution",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/numbskull-revolution/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FOREIGN CORRESPONDENT",
-      "date_display": "Mon, Mar 09 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/foreign-correspondent"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DEAD MOUNTAINEER\u2019S HOTEL",
-      "date_display": "Mon, Mar 09 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/dead-mountaineers-hotel"
     },
     {
       "theater": "The Beacon",
