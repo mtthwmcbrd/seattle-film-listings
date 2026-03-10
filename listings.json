@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-03-09 16:57:22",
+  "updated_at": "2026-03-10 16:56:06",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FOREIGN CORRESPONDENT",
-      "date_display": "Mon, Mar 09 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/foreign-correspondent"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DEAD MOUNTAINEER\u2019S HOTEL",
-      "date_display": "Mon, Mar 09 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/dead-mountaineers-hotel"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -27,6 +13,13 @@
       "location": "4405 Rainier Ave S",
       "title": "THE FINAL COMEDOWN",
       "date_display": "Tue, Mar 10 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-final-comedown"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE FINAL COMEDOWN",
+      "date_display": "Wed, Mar 11 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-final-comedown"
     },
     {
@@ -56,13 +49,6 @@
       "title": "What Does That Nature Say To You",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/what-does-that-nature-say-to-you/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE FINAL COMEDOWN",
-      "date_display": "Wed, Mar 11 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-final-comedown"
     },
     {
       "theater": "The Beacon",
