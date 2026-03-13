@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-03-12 16:58:31",
+  "updated_at": "2026-03-13 16:40:39",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FOREIGN CORRESPONDENT",
-      "date_display": "Thu, Mar 12 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/foreign-correspondent"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -16,11 +9,18 @@
       "link": "https://thebeacon.film/calendar/movie/harold-and-maude"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Numbskull Revolution",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/numbskull-revolution/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "VHS \u00dcBER ALLES PRESENTS\u2026",
+      "date_display": "Fri, Mar 13 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BITTER RICE",
+      "date_display": "Sat, Mar 14 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/bitter-rice"
     },
     {
       "theater": "NWFF",
@@ -51,18 +51,11 @@
       "link": "https://nwfilmforum.org/films/pickpocket/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "VHS \u00dcBER ALLES PRESENTS\u2026",
-      "date_display": "Fri, Mar 13 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BITTER RICE",
-      "date_display": "Sat, Mar 14 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/bitter-rice"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society Staff Showcase",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/seattle-film-society-staff-showcase/"
     },
     {
       "theater": "The Beacon",
@@ -235,9 +228,9 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "RAWSTOCK SHORT FILM FESTIVAL PRESENTS RAWSTOCKALYPSE",
+      "title": "RAWSTOCK PRESENTS RAWSTOCKALYPSE!",
       "date_display": "Sat, Mar 28 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/rawstock-short-film-festival-presents-rawstockalypse"
+      "link": "https://thebeacon.film/calendar/movie/rawstock-presents-rawstockalypse"
     },
     {
       "theater": "The Beacon",
