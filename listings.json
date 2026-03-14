@@ -1,26 +1,33 @@
 {
-  "updated_at": "2026-03-13 16:40:39",
+  "updated_at": "2026-03-14 16:33:21",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HAROLD AND MAUDE",
-      "date_display": "Fri, Mar 13 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/harold-and-maude"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "VHS \u00dcBER ALLES PRESENTS\u2026",
-      "date_display": "Fri, Mar 13 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "BITTER RICE",
       "date_display": "Sat, Mar 14 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/bitter-rice"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "?????? CINEMA",
+      "date_display": "Sat, Mar 14 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/blindfold"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE MORTAL STORM",
+      "date_display": "Sun, Mar 15 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-mortal-storm"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE 13TH ANNUAL ON CINEMA OSCAR SPECIAL",
+      "date_display": "Sun, Mar 15 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-13th-annual-on-cinema-oscar-special"
     },
     {
       "theater": "NWFF",
@@ -58,25 +65,18 @@
       "link": "https://nwfilmforum.org/films/seattle-film-society-staff-showcase/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "?????? CINEMA",
-      "date_display": "Sat, Mar 14 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/blindfold"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Pillion",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/pillion/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE MORTAL STORM",
-      "date_display": "Sun, Mar 15 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-mortal-storm"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE 13TH ANNUAL ON CINEMA OSCAR SPECIAL",
-      "date_display": "Sun, Mar 15 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-13th-annual-on-cinema-oscar-special"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "He Never Dies: The Films of Kalil Haddad (18+)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/he-never-dies-the-films-of-kalil-haddad/"
     },
     {
       "theater": "The Beacon",
