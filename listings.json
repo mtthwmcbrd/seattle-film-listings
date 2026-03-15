@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-03-14 16:33:21",
+  "updated_at": "2026-03-15 16:33:19",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BITTER RICE",
-      "date_display": "Sat, Mar 14 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/bitter-rice"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "?????? CINEMA",
-      "date_display": "Sat, Mar 14 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/blindfold"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "THE 13TH ANNUAL ON CINEMA OSCAR SPECIAL",
       "date_display": "Sun, Mar 15 @ 04:00 PM",
       "link": "https://thebeacon.film/calendar/movie/the-13th-annual-on-cinema-oscar-special"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE MORTAL STORM",
+      "date_display": "Mon, Mar 16 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-mortal-storm"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HAROLD AND MAUDE",
+      "date_display": "Mon, Mar 16 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/harold-and-maude"
     },
     {
       "theater": "NWFF",
@@ -79,18 +79,11 @@
       "link": "https://nwfilmforum.org/films/he-never-dies-the-films-of-kalil-haddad/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE MORTAL STORM",
-      "date_display": "Mon, Mar 16 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-mortal-storm"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HAROLD AND MAUDE",
-      "date_display": "Mon, Mar 16 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/harold-and-maude"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "The Magic of Cinema: Solo Show for Dominic Angerame",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/the-magic-of-cinema-solo-show-for-dominic-angerame/"
     },
     {
       "theater": "The Beacon",
