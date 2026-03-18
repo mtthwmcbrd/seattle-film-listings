@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-03-17 17:03:51",
+  "updated_at": "2026-03-18 17:00:41",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HAROLD AND MAUDE",
-      "date_display": "Tue, Mar 17 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/harold-and-maude"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TOP OF THE HEAP",
-      "date_display": "Tue, Mar 17 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/top-of-the-heap"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "BITTER RICE",
       "date_display": "Wed, Mar 18 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/bitter-rice"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BITTER RICE",
+      "date_display": "Thu, Mar 19 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bitter-rice"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FAILED STATE",
+      "date_display": "Thu, Mar 19 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/failed-state"
     },
     {
       "theater": "NWFF",
@@ -70,20 +70,6 @@
       "title": "The Magic of Cinema: Solo Show for Dominic Angerame",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-magic-of-cinema-solo-show-for-dominic-angerame/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BITTER RICE",
-      "date_display": "Thu, Mar 19 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bitter-rice"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FAILED STATE",
-      "date_display": "Thu, Mar 19 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/failed-state"
     },
     {
       "theater": "The Beacon",
