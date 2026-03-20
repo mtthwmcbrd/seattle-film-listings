@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-03-19 16:58:32",
+  "updated_at": "2026-03-20 16:43:35",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BITTER RICE",
-      "date_display": "Thu, Mar 19 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bitter-rice"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FAILED STATE",
-      "date_display": "Thu, Mar 19 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/failed-state"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,18 +9,18 @@
       "link": "https://thebeacon.film/calendar/movie/fellinis-casanova"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society Staff Showcase",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/seattle-film-society-staff-showcase/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PECKER",
+      "date_display": "Fri, Mar 20 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/pecker"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Pickpocket",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/pickpocket/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DIVINE HAMMER",
+      "date_display": "Sat, Mar 21 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
     },
     {
       "theater": "NWFF",
@@ -65,18 +51,11 @@
       "link": "https://nwfilmforum.org/films/saff-arab-film-club-the-presidents-cake/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PECKER",
-      "date_display": "Fri, Mar 20 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/pecker"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DIVINE HAMMER",
-      "date_display": "Sat, Mar 21 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society Presents Locals Only: March 2026",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-march-2026/"
     },
     {
       "theater": "The Beacon",
