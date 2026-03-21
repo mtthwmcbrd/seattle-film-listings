@@ -1,26 +1,33 @@
 {
-  "updated_at": "2026-03-20 16:43:35",
+  "updated_at": "2026-03-21 16:30:51",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FELLINI\u2019S CASANOVA",
-      "date_display": "Fri, Mar 20 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/fellinis-casanova"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PECKER",
-      "date_display": "Fri, Mar 20 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/pecker"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "DIVINE HAMMER",
       "date_display": "Sat, Mar 21 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/divine-hammer"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WYRD WAR PRESENTS IT\u2019S ALIVE",
+      "date_display": "Sat, Mar 21 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wyrd-war-presents-its-alive"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ARISE, MY LOVE",
+      "date_display": "Sun, Mar 22 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/arise-my-love"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FELLINI\u2019S CASANOVA",
+      "date_display": "Sun, Mar 22 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/fellinis-casanova"
     },
     {
       "theater": "NWFF",
@@ -56,27 +63,6 @@
       "title": "Seattle Film Society Presents Locals Only: March 2026",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-march-2026/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WYRD WAR PRESENTS IT\u2019S ALIVE",
-      "date_display": "Sat, Mar 21 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/wyrd-war-presents-its-alive"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ARISE, MY LOVE",
-      "date_display": "Sun, Mar 22 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/arise-my-love"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FELLINI\u2019S CASANOVA",
-      "date_display": "Sun, Mar 22 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/fellinis-casanova"
     },
     {
       "theater": "The Beacon",
