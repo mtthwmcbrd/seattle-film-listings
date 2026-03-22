@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-03-21 16:30:51",
+  "updated_at": "2026-03-22 16:31:48",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DIVINE HAMMER",
-      "date_display": "Sat, Mar 21 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WYRD WAR PRESENTS IT\u2019S ALIVE",
-      "date_display": "Sat, Mar 21 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/wyrd-war-presents-its-alive"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "FELLINI\u2019S CASANOVA",
       "date_display": "Sun, Mar 22 @ 05:00 PM",
       "link": "https://thebeacon.film/calendar/movie/fellinis-casanova"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ARISE, MY LOVE",
+      "date_display": "Mon, Mar 23 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/arise-my-love"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE SPOOK WHO SAT BY THE DOOR",
+      "date_display": "Mon, Mar 23 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
     },
     {
       "theater": "NWFF",
@@ -46,13 +46,6 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "The Magic of Cinema: Solo Show for Dominic Angerame",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/the-magic-of-cinema-solo-show-for-dominic-angerame/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
       "title": "SAFF Arab Film Club: The President's Cake",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/saff-arab-film-club-the-presidents-cake/"
@@ -63,20 +56,6 @@
       "title": "Seattle Film Society Presents Locals Only: March 2026",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-march-2026/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ARISE, MY LOVE",
-      "date_display": "Mon, Mar 23 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/arise-my-love"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE SPOOK WHO SAT BY THE DOOR",
-      "date_display": "Mon, Mar 23 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
     },
     {
       "theater": "The Beacon",
