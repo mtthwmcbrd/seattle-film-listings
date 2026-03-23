@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-03-22 16:31:48",
+  "updated_at": "2026-03-23 16:56:39",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ARISE, MY LOVE",
-      "date_display": "Sun, Mar 22 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/arise-my-love"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FELLINI\u2019S CASANOVA",
-      "date_display": "Sun, Mar 22 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/fellinis-casanova"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,18 +16,11 @@
       "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Pillion",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/pillion/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "He Never Dies: The Films of Kalil Haddad (18+)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/he-never-dies-the-films-of-kalil-haddad/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE SPOOK WHO SAT BY THE DOOR",
+      "date_display": "Tue, Mar 24 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
     },
     {
       "theater": "NWFF",
@@ -58,11 +37,18 @@
       "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-march-2026/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE SPOOK WHO SAT BY THE DOOR",
-      "date_display": "Tue, Mar 24 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Pillion",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/pillion/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "He Never Dies: The Films of Kalil Haddad (18+)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/he-never-dies-the-films-of-kalil-haddad/"
     },
     {
       "theater": "The Beacon",
