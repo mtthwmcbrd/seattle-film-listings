@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-03-23 16:56:39",
+  "updated_at": "2026-03-24 17:00:04",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ARISE, MY LOVE",
-      "date_display": "Mon, Mar 23 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/arise-my-love"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE SPOOK WHO SAT BY THE DOOR",
-      "date_display": "Mon, Mar 23 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "THE SPOOK WHO SAT BY THE DOOR",
       "date_display": "Tue, Mar 24 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PECKER",
+      "date_display": "Wed, Mar 25 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/pecker"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE SPOOK WHO SAT BY THE DOOR",
+      "date_display": "Wed, Mar 25 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
     },
     {
@@ -49,20 +49,6 @@
       "title": "He Never Dies: The Films of Kalil Haddad (18+)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/he-never-dies-the-films-of-kalil-haddad/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PECKER",
-      "date_display": "Wed, Mar 25 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/pecker"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE SPOOK WHO SAT BY THE DOOR",
-      "date_display": "Wed, Mar 25 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
     },
     {
       "theater": "The Beacon",
