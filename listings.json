@@ -1,26 +1,12 @@
 {
-  "updated_at": "2026-03-25 17:02:29",
+  "updated_at": "2026-03-26 17:02:30",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "PECKER",
-      "date_display": "Wed, Mar 25 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/pecker"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE SPOOK WHO SAT BY THE DOOR",
-      "date_display": "Wed, Mar 25 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-spook-who-sat-by-the-door"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "SAFF Arab Film Club: The President's Cake",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/saff-arab-film-club-the-presidents-cake/"
+      "title": "IWW PRESENTS THE WORKING CLASS GOES TO HEAVEN",
+      "date_display": "Fri, Mar 27 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/iww-presents-the-working-class-goes-to-heaven"
     },
     {
       "theater": "NWFF",
@@ -44,11 +30,11 @@
       "link": "https://nwfilmforum.org/films/he-never-dies-the-films-of-kalil-haddad/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "IWW PRESENTS THE WORKING CLASS GOES TO HEAVEN",
-      "date_display": "Fri, Mar 27 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/iww-presents-the-working-class-goes-to-heaven"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Gumby Shorts - 4K Restorations!",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/gumby-shorts/"
     },
     {
       "theater": "The Beacon",
@@ -200,8 +186,43 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "TASTE OF CHERRY",
+      "date_display": "Wed, Apr 08 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/taste-of-cherry"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "PALESTINE 36",
       "date_display": "Thu, Apr 09 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TASTE OF CHERRY",
+      "date_display": "Thu, Apr 09 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/taste-of-cherry"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Fri, Apr 10 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WILD STYLE",
+      "date_display": "Fri, Apr 10 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wild-style"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Sat, Apr 11 @ 10:00 PM",
       "link": "https://thebeacon.film/calendar/movie/palestine-36"
     },
     {
@@ -221,6 +242,27 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Sun, Apr 12 @ 08:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Mon, Apr 13 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WILD STYLE",
+      "date_display": "Mon, Apr 13 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/wild-style"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "LUMI\u00c8RE, LE CINEMA!",
       "date_display": "Tue, Apr 14 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/lumiere-le-cinema"
@@ -235,9 +277,51 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Wed, Apr 15 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Thu, Apr 16 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE APPLE",
+      "date_display": "Thu, Apr 16 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-apple"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "VHS \u00dcBER ALLES PRESENTS\u2026",
+      "date_display": "Fri, Apr 17 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents-041726"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "SECS FEST PRESENTS BEHIND THE GREEN DOOR",
+      "date_display": "Sat, Apr 18 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/secs-fest-presents-behind-the-green-door"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE CHILDREN\u2019S HOUR",
       "date_display": "Sun, Apr 19 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/the-childrens-hour"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE DREAMERS",
+      "date_display": "Sun, Apr 19 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-dreamers"
     },
     {
       "theater": "The Beacon",
@@ -249,9 +333,30 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "THE DREAMERS",
+      "date_display": "Tue, Apr 21 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-dreamers"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "?????? CINEMA",
       "date_display": "Tue, Apr 21 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/blindfold"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE DREAMERS",
+      "date_display": "Wed, Apr 22 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-dreamers"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "SCREAM FOR HELP",
+      "date_display": "Thu, Apr 23 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/scream-for-help"
     },
     {
       "theater": "The Beacon",
@@ -287,6 +392,76 @@
       "title": "WTO/99",
       "date_display": "Sat, May 02 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/wto-99"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MY DARLING CLEMENTINE",
+      "date_display": "Sun, May 03 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/my-darling-clementine"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MY DARLING CLEMENTINE",
+      "date_display": "Mon, May 04 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/my-darling-clementine"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HOW GREEN WAS MY VALLEY",
+      "date_display": "Sun, May 10 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HOW GREEN WAS MY VALLEY",
+      "date_display": "Mon, May 11 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE GRAPES OF WRATH",
+      "date_display": "Sun, May 17 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-grapes-of-wrath"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE GRAPES OF WRATH",
+      "date_display": "Mon, May 18 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-grapes-of-wrath"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WAGON MASTER",
+      "date_display": "Sun, May 24 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wagon-master"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WAGON MASTER",
+      "date_display": "Mon, May 25 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/wagon-master"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE MAN WHO SHOT LIBERTY VALANCE",
+      "date_display": "Sun, May 31 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE MAN WHO SHOT LIBERTY VALANCE",
+      "date_display": "Mon, Jun 01 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
     }
   ]
 }
