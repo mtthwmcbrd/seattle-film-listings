@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-26 17:02:30",
+  "updated_at": "2026-03-27 16:55:57",
   "movies": [
     {
       "theater": "The Beacon",
@@ -9,11 +9,18 @@
       "link": "https://thebeacon.film/calendar/movie/iww-presents-the-working-class-goes-to-heaven"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society Presents Locals Only: March 2026",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-march-2026/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CECIL B. DEMENTED",
+      "date_display": "Fri, Mar 27 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/cecil-b-demented"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "RAWSTOCK PRESENTS RAWSTOCKALYPSE!",
+      "date_display": "Sat, Mar 28 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/rawstock-presents-rawstockalypse"
     },
     {
       "theater": "NWFF",
@@ -37,18 +44,11 @@
       "link": "https://nwfilmforum.org/films/gumby-shorts/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CECIL B. DEMENTED",
-      "date_display": "Fri, Mar 27 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/cecil-b-demented"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "RAWSTOCK PRESENTS RAWSTOCKALYPSE!",
-      "date_display": "Sat, Mar 28 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/rawstock-presents-rawstockalypse"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Truth To Fiction: Suburban Fury",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/truth-to-fiction-suburban-fury/"
     },
     {
       "theater": "The Beacon",
