@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-03-27 16:55:57",
+  "updated_at": "2026-03-28 16:35:21",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "IWW PRESENTS THE WORKING CLASS GOES TO HEAVEN",
-      "date_display": "Fri, Mar 27 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/iww-presents-the-working-class-goes-to-heaven"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CECIL B. DEMENTED",
-      "date_display": "Fri, Mar 27 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/cecil-b-demented"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "RAWSTOCK PRESENTS RAWSTOCKALYPSE!",
       "date_display": "Sat, Mar 28 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/rawstock-presents-rawstockalypse"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE CHALLENGE OF THE LADY NINJA",
+      "date_display": "Sat, Mar 28 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-challenge-of-the-lady-ninja"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "S\u00c1T\u00c1NTANG\u00d3",
+      "date_display": "Sun, Mar 29 @ 11:00 AM",
+      "link": "https://thebeacon.film/calendar/movie/satantango"
     },
     {
       "theater": "NWFF",
@@ -51,18 +51,11 @@
       "link": "https://nwfilmforum.org/films/truth-to-fiction-suburban-fury/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE CHALLENGE OF THE LADY NINJA",
-      "date_display": "Sat, Mar 28 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-challenge-of-the-lady-ninja"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "S\u00c1T\u00c1NTANG\u00d3",
-      "date_display": "Sun, Mar 29 @ 11:00 AM",
-      "link": "https://thebeacon.film/calendar/movie/satantango"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Early Spring",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/early-spring/"
     },
     {
       "theater": "The Beacon",
@@ -333,6 +326,13 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "CRAZED FRUIT",
+      "date_display": "Mon, Apr 20 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/crazed-fruit"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE DREAMERS",
       "date_display": "Tue, Apr 21 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-dreamers"
@@ -347,6 +347,13 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "CRAZED FRUIT",
+      "date_display": "Wed, Apr 22 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/crazed-fruit"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE DREAMERS",
       "date_display": "Wed, Apr 22 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-dreamers"
@@ -354,9 +361,30 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "CRAZED FRUIT",
+      "date_display": "Thu, Apr 23 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/crazed-fruit"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "SCREAM FOR HELP",
       "date_display": "Thu, Apr 23 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/scream-for-help"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CECE\u2019S INTERLUDE",
+      "date_display": "Fri, Apr 24 @ 08:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/ceces-interlude"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CECE\u2019S INTERLUDE",
+      "date_display": "Sat, Apr 25 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/ceces-interlude"
     },
     {
       "theater": "The Beacon",
@@ -382,9 +410,51 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "SING A SONG OF SEX",
+      "date_display": "Mon, Apr 27 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/sing-a-song-of-sex"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CECE\u2019S INTERLUDE",
+      "date_display": "Tue, Apr 28 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/ceces-interlude"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "SING A SONG OF SEX",
+      "date_display": "Wed, Apr 29 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/sing-a-song-of-sex"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BEIRUT TRILOGY",
+      "date_display": "Wed, Apr 29 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-beirut-trilogy"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BEIRUT TRILOGY",
+      "date_display": "Thu, Apr 30 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-beirut-trilogy"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "DOG DAY AFTERNOON",
       "date_display": "Thu, Apr 30 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/dog-day-afternoon"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "$POSITIONS",
+      "date_display": "Fri, May 01 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/positions"
     },
     {
       "theater": "The Beacon",
@@ -396,9 +466,23 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "$POSITIONS",
+      "date_display": "Sat, May 02 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/positions"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "MY DARLING CLEMENTINE",
       "date_display": "Sun, May 03 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/my-darling-clementine"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE WARPED ONES",
+      "date_display": "Sun, May 03 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-warped-ones"
     },
     {
       "theater": "The Beacon",
@@ -410,9 +494,86 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "$POSITIONS",
+      "date_display": "Tue, May 05 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/positions"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE WARPED ONES",
+      "date_display": "Wed, May 06 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-warped-ones"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE RAZOR\u2019S EDGE",
+      "date_display": "Wed, May 06 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-razors-edge"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE RAZOR\u2019S EDGE",
+      "date_display": "Thu, May 07 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-razors-edge"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THROW AWAY YOUR BOOKS, RALLY IN THE STREETS",
+      "date_display": "Thu, May 07 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/throw-away-your-books-rally-in-the-streets"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THROW AWAY YOUR BOOKS, RALLY IN THE STREETS",
+      "date_display": "Fri, May 08 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/throw-away-your-books-rally-in-the-streets"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE SEDUCTION OF MIMI",
+      "date_display": "Fri, May 08 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DR. CALIGARI",
+      "date_display": "Fri, May 08 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/dr-caligari"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "GOD SPEED YOU! BLACK EMPEROR",
+      "date_display": "Sat, May 09 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/god-speed-you-black-emperor"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DR. CALIGARI",
+      "date_display": "Sat, May 09 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/dr-caligari"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "HOW GREEN WAS MY VALLEY",
       "date_display": "Sun, May 10 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TR\u00c1S-OS-MONTES",
+      "date_display": "Sun, May 10 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/tras-os-montes"
     },
     {
       "theater": "The Beacon",
@@ -424,9 +585,51 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "THE SEDUCTION OF MIMI",
+      "date_display": "Tue, May 12 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TR\u00c1S-OS-MONTES",
+      "date_display": "Wed, May 13 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/tras-os-montes"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BURST CITY",
+      "date_display": "Wed, May 13 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/burst-city"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE SEDUCTION OF MIMI",
+      "date_display": "Thu, May 14 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BURST CITY",
+      "date_display": "Fri, May 15 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/burst-city"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE GRAPES OF WRATH",
       "date_display": "Sun, May 17 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/the-grapes-of-wrath"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ANA",
+      "date_display": "Sun, May 17 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/ana"
     },
     {
       "theater": "The Beacon",
@@ -438,6 +641,55 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "\u201cBLOW THE NIGHT!\u201d LET\u2019S SPEND THE NIGHT TOGETHER",
+      "date_display": "Mon, May 18 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/blow-the-night-lets-spend-the-night-together"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FIVE MINUTES TO LIVE!",
+      "date_display": "Tue, May 19 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ANA",
+      "date_display": "Wed, May 20 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/ana"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BATTLE ROYALE",
+      "date_display": "Wed, May 20 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/battle-royale"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BATTLE ROYALE",
+      "date_display": "Thu, May 21 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/battle-royale"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BATTLE ROYALE",
+      "date_display": "Fri, May 22 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/battle-royale"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "SECS FEST PRESENTS VIXEN!",
+      "date_display": "Fri, May 22 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/secs-fest-presents-vixen"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "WAGON MASTER",
       "date_display": "Sun, May 24 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/wagon-master"
@@ -445,9 +697,30 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "ROSA DE AREIA",
+      "date_display": "Sun, May 24 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/rosa-de-areia"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "WAGON MASTER",
       "date_display": "Mon, May 25 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/wagon-master"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ROSA DE AREIA",
+      "date_display": "Wed, May 27 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/rosa-de-areia"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "?????? CINEMA",
+      "date_display": "Thu, May 28 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/blindfold"
     },
     {
       "theater": "The Beacon",
