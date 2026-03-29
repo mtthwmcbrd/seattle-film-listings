@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-03-28 16:35:21",
+  "updated_at": "2026-03-29 16:36:13",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "RAWSTOCK PRESENTS RAWSTOCKALYPSE!",
-      "date_display": "Sat, Mar 28 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/rawstock-presents-rawstockalypse"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE CHALLENGE OF THE LADY NINJA",
-      "date_display": "Sat, Mar 28 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-challenge-of-the-lady-ninja"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "S\u00c1T\u00c1NTANG\u00d3",
       "date_display": "Sun, Mar 29 @ 11:00 AM",
       "link": "https://thebeacon.film/calendar/movie/satantango"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE CHALLENGE OF THE LADY NINJA",
+      "date_display": "Mon, Mar 30 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-challenge-of-the-lady-ninja"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DIVINE HAMMER",
+      "date_display": "Mon, Mar 30 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
     },
     {
       "theater": "NWFF",
@@ -56,20 +56,6 @@
       "title": "Early Spring",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/early-spring/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE CHALLENGE OF THE LADY NINJA",
-      "date_display": "Mon, Mar 30 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-challenge-of-the-lady-ninja"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DIVINE HAMMER",
-      "date_display": "Mon, Mar 30 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
     },
     {
       "theater": "The Beacon",
@@ -585,6 +571,13 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "MID/EVIL TIMES",
+      "date_display": "Mon, May 11 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mid-evil-times"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE SEDUCTION OF MIMI",
       "date_display": "Tue, May 12 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
@@ -606,6 +599,13 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "MID/EVIL TIMES",
+      "date_display": "Thu, May 14 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mid-evil-times"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE SEDUCTION OF MIMI",
       "date_display": "Thu, May 14 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
@@ -616,6 +616,13 @@
       "title": "BURST CITY",
       "date_display": "Fri, May 15 @ 04:00 PM",
       "link": "https://thebeacon.film/calendar/movie/burst-city"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "VHS \u00dcBER ALLES PRESENTS",
+      "date_display": "Fri, May 15 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents-b"
     },
     {
       "theater": "The Beacon",
@@ -690,6 +697,13 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "THE PEACOCK KING",
+      "date_display": "Sat, May 23 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-peacock-king"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "WAGON MASTER",
       "date_display": "Sun, May 24 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/wagon-master"
@@ -721,6 +735,20 @@
       "title": "?????? CINEMA",
       "date_display": "Thu, May 28 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/blindfold"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLACK MAMBA",
+      "date_display": "Fri, May 29 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/black-mamba"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WATARI, THE NINJA BOY",
+      "date_display": "Sat, May 30 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/watari-the-ninja-boy"
     },
     {
       "theater": "The Beacon",
