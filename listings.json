@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-03-29 16:36:13",
+  "updated_at": "2026-03-30 16:56:41",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "S\u00c1T\u00c1NTANG\u00d3",
-      "date_display": "Sun, Mar 29 @ 11:00 AM",
-      "link": "https://thebeacon.film/calendar/movie/satantango"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,18 +16,25 @@
       "link": "https://thebeacon.film/calendar/movie/divine-hammer"
     },
     {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CECIL B. DEMENTED",
+      "date_display": "Tue, Mar 31 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/cecil-b-demented"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "EMMA MAE",
+      "date_display": "Tue, Mar 31 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/emma-mae"
+    },
+    {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "Pillion",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/pillion/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "He Never Dies: The Films of Kalil Haddad (18+)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/he-never-dies-the-films-of-kalil-haddad/"
     },
     {
       "theater": "NWFF",
@@ -56,20 +56,6 @@
       "title": "Early Spring",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/early-spring/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CECIL B. DEMENTED",
-      "date_display": "Tue, Mar 31 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/cecil-b-demented"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "EMMA MAE",
-      "date_display": "Tue, Mar 31 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/emma-mae"
     },
     {
       "theater": "The Beacon",
