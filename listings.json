@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-03-31 16:58:06",
+  "updated_at": "2026-04-01 16:55:46",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CECIL B. DEMENTED",
-      "date_display": "Tue, Mar 31 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/cecil-b-demented"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "EMMA MAE",
-      "date_display": "Tue, Mar 31 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/emma-mae"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "EMMA MAE",
       "date_display": "Wed, Apr 01 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/emma-mae"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DIVINE HAMMER",
+      "date_display": "Thu, Apr 02 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
     },
     {
       "theater": "NWFF",
@@ -49,13 +42,6 @@
       "title": "Early Spring",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/early-spring/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DIVINE HAMMER",
-      "date_display": "Thu, Apr 02 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
     },
     {
       "theater": "The Beacon",
@@ -329,6 +315,13 @@
       "title": "SCREAM FOR HELP",
       "date_display": "Thu, Apr 23 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/scream-for-help"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "EARTH\u2019S GREATEST ENEMY",
+      "date_display": "Fri, Apr 24 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/earths-greatest-enemy"
     },
     {
       "theater": "The Beacon",
