@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-04-01 16:55:46",
+  "updated_at": "2026-04-02 16:56:47",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "EMMA MAE",
-      "date_display": "Wed, Apr 01 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/emma-mae"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -16,18 +9,11 @@
       "link": "https://thebeacon.film/calendar/movie/divine-hammer"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Pillion",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/pillion/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Gumby Shorts - 4K Restorations!",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/gumby-shorts/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Fri, Apr 03 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
     },
     {
       "theater": "NWFF",
@@ -39,16 +25,23 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
+      "title": "Gumby Shorts - 4K Restorations!",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/gumby-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
       "title": "Early Spring",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/early-spring/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Fri, Apr 03 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Persona",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/persona/"
     },
     {
       "theater": "The Beacon",
@@ -410,6 +403,13 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "BONES",
+      "date_display": "Fri, May 01 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/bones"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "WTO/99",
       "date_display": "Sat, May 02 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/wto-99"
@@ -448,6 +448,13 @@
       "title": "$POSITIONS",
       "date_display": "Tue, May 05 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/positions"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BONES",
+      "date_display": "Tue, May 05 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bones"
     },
     {
       "theater": "The Beacon",
