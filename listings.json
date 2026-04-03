@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-04-02 16:56:47",
+  "updated_at": "2026-04-03 16:40:38",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DIVINE HAMMER",
-      "date_display": "Thu, Apr 02 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -16,11 +9,18 @@
       "link": "https://thebeacon.film/calendar/movie/palestine-36"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Truth To Fiction: Suburban Fury",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/truth-to-fiction-suburban-fury/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "A DIRTY SHAME",
+      "date_display": "Fri, Apr 03 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/a-dirty-shame"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Sat, Apr 04 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
     },
     {
       "theater": "NWFF",
@@ -42,20 +42,6 @@
       "title": "Persona",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/persona/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "A DIRTY SHAME",
-      "date_display": "Fri, Apr 03 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/a-dirty-shame"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Sat, Apr 04 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
     },
     {
       "theater": "The Beacon",
