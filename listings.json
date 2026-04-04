@@ -1,25 +1,32 @@
 {
-  "updated_at": "2026-04-03 16:40:38",
+  "updated_at": "2026-04-04 16:36:30",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "PALESTINE 36",
-      "date_display": "Fri, Apr 03 @ 07:00 PM",
+      "date_display": "Sat, Apr 04 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/palestine-36"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "A DIRTY SHAME",
-      "date_display": "Fri, Apr 03 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/a-dirty-shame"
+      "title": "DIVINE HAMMER",
+      "date_display": "Sat, Apr 04 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ROMAN HOLIDAY",
+      "date_display": "Sun, Apr 05 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/roman-holiday"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "PALESTINE 36",
-      "date_display": "Sat, Apr 04 @ 07:00 PM",
+      "date_display": "Sun, Apr 05 @ 05:00 PM",
       "link": "https://thebeacon.film/calendar/movie/palestine-36"
     },
     {
@@ -44,25 +51,11 @@
       "link": "https://nwfilmforum.org/films/persona/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DIVINE HAMMER",
-      "date_display": "Sat, Apr 04 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ROMAN HOLIDAY",
-      "date_display": "Sun, Apr 05 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/roman-holiday"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Sun, Apr 05 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SDFF 2026 \u2013\u00a0Siren: The Voices of Shelley Beattie",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/sdff-2026-siren-the-voices-of-shelley-beattie/"
     },
     {
       "theater": "The Beacon",
