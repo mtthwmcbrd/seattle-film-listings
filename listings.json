@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-04-04 16:36:30",
+  "updated_at": "2026-04-05 16:37:24",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Sat, Apr 04 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DIVINE HAMMER",
-      "date_display": "Sat, Apr 04 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/divine-hammer"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -27,6 +13,20 @@
       "location": "4405 Rainier Ave S",
       "title": "PALESTINE 36",
       "date_display": "Sun, Apr 05 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ROMAN HOLIDAY",
+      "date_display": "Mon, Apr 06 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/roman-holiday"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Mon, Apr 06 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/palestine-36"
     },
     {
@@ -58,18 +58,39 @@
       "link": "https://nwfilmforum.org/films/sdff-2026-siren-the-voices-of-shelley-beattie/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ROMAN HOLIDAY",
-      "date_display": "Mon, Apr 06 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/roman-holiday"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SDFF 2026 \u2013\u00a0OKTHANKSBYE",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/sdff-2026-okthanksbye/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Mon, Apr 06 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SDFF 2026 \u2013\u00a0Family Ties (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/sdff-2026-family-ties-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SDFF 2026 \u2013\u00a0Loud Love",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/sdff-2026-loud-love/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SDFF 2026 \u2013\u00a0State Of The Union (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/sdff-2026-state-of-the-union-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SDFF 2026 \u2013\u00a0Outside The Box (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/sdff-2026-outside-the-box-shorts/"
     },
     {
       "theater": "The Beacon",
