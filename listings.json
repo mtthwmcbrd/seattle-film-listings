@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-04-07 16:59:32",
+  "updated_at": "2026-04-08 17:02:49",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "A DIRTY SHAME",
-      "date_display": "Tue, Apr 07 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/a-dirty-shame"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Tue, Apr 07 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -27,6 +13,20 @@
       "location": "4405 Rainier Ave S",
       "title": "TASTE OF CHERRY",
       "date_display": "Wed, Apr 08 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/taste-of-cherry"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Thu, Apr 09 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TASTE OF CHERRY",
+      "date_display": "Thu, Apr 09 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/taste-of-cherry"
     },
     {
@@ -98,20 +98,6 @@
       "title": "SDFF 2026 \u2013\u00a0Passengers",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/sdff-2026-passengers/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Thu, Apr 09 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TASTE OF CHERRY",
-      "date_display": "Thu, Apr 09 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/taste-of-cherry"
     },
     {
       "theater": "The Beacon",
