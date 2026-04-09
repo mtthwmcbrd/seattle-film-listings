@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-04-08 17:02:49",
+  "updated_at": "2026-04-09 17:07:59",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Wed, Apr 08 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TASTE OF CHERRY",
-      "date_display": "Wed, Apr 08 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/taste-of-cherry"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "TASTE OF CHERRY",
       "date_display": "Thu, Apr 09 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/taste-of-cherry"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Fri, Apr 10 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WILD STYLE",
+      "date_display": "Fri, Apr 10 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wild-style"
     },
     {
       "theater": "NWFF",
@@ -100,18 +100,11 @@
       "link": "https://nwfilmforum.org/films/sdff-2026-passengers/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Fri, Apr 10 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WILD STYLE",
-      "date_display": "Fri, Apr 10 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/wild-style"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Revelations of Divine Love",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/revelations-of-divine-love/"
     },
     {
       "theater": "The Beacon",
