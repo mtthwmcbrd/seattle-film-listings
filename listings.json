@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-04-09 17:07:59",
+  "updated_at": "2026-04-10 16:52:26",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Thu, Apr 09 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TASTE OF CHERRY",
-      "date_display": "Thu, Apr 09 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/taste-of-cherry"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,13 +14,6 @@
       "title": "WILD STYLE",
       "date_display": "Fri, Apr 10 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/wild-style"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Persona",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/persona/"
     },
     {
       "theater": "NWFF",
@@ -105,6 +84,13 @@
       "title": "Revelations of Divine Love",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/revelations-of-divine-love/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society In Focus: SJ Chiro",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/seattle-film-society-in-focus-sj-chiro/"
     },
     {
       "theater": "The Beacon",
