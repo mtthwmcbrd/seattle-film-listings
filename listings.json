@@ -1,26 +1,33 @@
 {
-  "updated_at": "2026-04-10 16:52:26",
+  "updated_at": "2026-04-11 16:37:28",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "PALESTINE 36",
-      "date_display": "Fri, Apr 10 @ 04:00 PM",
+      "date_display": "Sat, Apr 11 @ 10:00 PM",
       "link": "https://thebeacon.film/calendar/movie/palestine-36"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "WILD STYLE",
-      "date_display": "Fri, Apr 10 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/wild-style"
+      "title": "FUNNY FACE",
+      "date_display": "Sun, Apr 12 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/funny-face"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "SDFF 2026 \u2013\u00a0Siren: The Voices of Shelley Beattie",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/sdff-2026-siren-the-voices-of-shelley-beattie/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LUMI\u00c8RE, LE CINEMA!",
+      "date_display": "Sun, Apr 12 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/lumiere-le-cinema"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Sun, Apr 12 @ 08:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
     },
     {
       "theater": "NWFF",
@@ -93,32 +100,18 @@
       "link": "https://nwfilmforum.org/films/seattle-film-society-in-focus-sj-chiro/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Sat, Apr 11 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Dry Leaf",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/dry-leaf/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FUNNY FACE",
-      "date_display": "Sun, Apr 12 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/funny-face"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LUMI\u00c8RE, LE CINEMA!",
-      "date_display": "Sun, Apr 12 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/lumiere-le-cinema"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Sun, Apr 12 @ 08:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Cadence 2026 \u2013 you flew from my eyes",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/cadence-2026-you-flew-from-my-eyes/"
     },
     {
       "theater": "The Beacon",
