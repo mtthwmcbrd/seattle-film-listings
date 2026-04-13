@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-04-12 16:39:52",
+  "updated_at": "2026-04-13 17:03:49",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FUNNY FACE",
-      "date_display": "Sun, Apr 12 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/funny-face"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LUMI\u00c8RE, LE CINEMA!",
-      "date_display": "Sun, Apr 12 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/lumiere-le-cinema"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Sun, Apr 12 @ 08:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -37,25 +16,11 @@
       "link": "https://thebeacon.film/calendar/movie/wild-style"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "SDFF 2026 \u2013\u00a0Where There's A Will (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/sdff-2026-where-theres-a-will-shorts/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "SDFF 2026 \u2013\u00a0On The Job (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/sdff-2026-on-the-job-shorts/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "SDFF 2026 \u2013\u00a0Passengers",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/sdff-2026-passengers/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LUMI\u00c8RE, LE CINEMA!",
+      "date_display": "Tue, Apr 14 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/lumiere-le-cinema"
     },
     {
       "theater": "NWFF",
@@ -107,11 +72,32 @@
       "link": "https://nwfilmforum.org/films/cadence-2026-a-sculpture-of-echoes/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LUMI\u00c8RE, LE CINEMA!",
-      "date_display": "Tue, Apr 14 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/lumiere-le-cinema"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Cadence 2026 \u2013 Cadence Casual Gathering [Online]",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/cadence-2026-cadence-casual-gathering-online/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Cadence 2026 \u2013 proof that we were here",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/cadence-2026-proof-that-we-were-here/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Cadence 2026 \u2013 an imperceptible mark",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/cadence-2026-an-imperceptible-mark/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Jazz Meets Film: A 50 Year Collaboration",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/jazz-meets-film-a-50-year-collaboration/"
     },
     {
       "theater": "The Beacon",
