@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-04-14 17:08:45",
+  "updated_at": "2026-04-15 17:04:42",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LUMI\u00c8RE, LE CINEMA!",
-      "date_display": "Tue, Apr 14 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/lumiere-le-cinema"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -21,6 +14,20 @@
       "title": "PALESTINE 36",
       "date_display": "Wed, Apr 15 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PALESTINE 36",
+      "date_display": "Thu, Apr 16 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/palestine-36"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE APPLE",
+      "date_display": "Thu, Apr 16 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-apple"
     },
     {
       "theater": "NWFF",
@@ -98,20 +105,6 @@
       "title": "Jazz Meets Film: A 50 Year Collaboration",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/jazz-meets-film-a-50-year-collaboration/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Thu, Apr 16 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE APPLE",
-      "date_display": "Thu, Apr 16 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-apple"
     },
     {
       "theater": "The Beacon",
