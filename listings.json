@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-04-15 17:04:42",
+  "updated_at": "2026-04-16 17:15:02",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LUMI\u00c8RE, LE CINEMA!",
-      "date_display": "Wed, Apr 15 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/lumiere-le-cinema"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PALESTINE 36",
-      "date_display": "Wed, Apr 15 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/palestine-36"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,13 +14,6 @@
       "title": "THE APPLE",
       "date_display": "Thu, Apr 16 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-apple"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Revelations of Divine Love",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/revelations-of-divine-love/"
     },
     {
       "theater": "NWFF",
@@ -63,6 +42,13 @@
       "title": "Cadence 2026 \u2013 the gaps in me",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/cadence-2026-the-gaps-in-me/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Revelations of Divine Love",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/revelations-of-divine-love/"
     },
     {
       "theater": "NWFF",
@@ -105,6 +91,13 @@
       "title": "Jazz Meets Film: A 50 Year Collaboration",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/jazz-meets-film-a-50-year-collaboration/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Unpoetry",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/unpoetry/"
     },
     {
       "theater": "The Beacon",
