@@ -1,12 +1,26 @@
 {
-  "updated_at": "2026-04-17 16:55:07",
+  "updated_at": "2026-04-18 16:41:03",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "VHS \u00dcBER ALLES PRESENTS\u2026",
-      "date_display": "Fri, Apr 17 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents-041726"
+      "title": "SECS FEST PRESENTS BEHIND THE GREEN DOOR",
+      "date_display": "Sat, Apr 18 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/secs-fest-presents-behind-the-green-door"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE CHILDREN\u2019S HOUR",
+      "date_display": "Sun, Apr 19 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-childrens-hour"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE DREAMERS",
+      "date_display": "Sun, Apr 19 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-dreamers"
     },
     {
       "theater": "NWFF",
@@ -14,13 +28,6 @@
       "title": "Dry Leaf",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/dry-leaf/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Cadence 2026 \u2013 you flew from my eyes",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/cadence-2026-you-flew-from-my-eyes/"
     },
     {
       "theater": "NWFF",
@@ -86,25 +93,11 @@
       "link": "https://nwfilmforum.org/films/unpoetry/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "SECS FEST PRESENTS BEHIND THE GREEN DOOR",
-      "date_display": "Sat, Apr 18 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/secs-fest-presents-behind-the-green-door"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE CHILDREN\u2019S HOUR",
-      "date_display": "Sun, Apr 19 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-childrens-hour"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE DREAMERS",
-      "date_display": "Sun, Apr 19 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-dreamers"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Staff Selects - Nocturama",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/staff-selects-nocturama/"
     },
     {
       "theater": "The Beacon",
