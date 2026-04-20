@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-04-19 16:40:42",
+  "updated_at": "2026-04-20 17:04:14",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE CHILDREN\u2019S HOUR",
-      "date_display": "Sun, Apr 19 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-childrens-hour"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE DREAMERS",
-      "date_display": "Sun, Apr 19 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-dreamers"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,39 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/crazed-fruit"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Cadence 2026 \u2013 Cadence Casual Gathering [Online]",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/cadence-2026-cadence-casual-gathering-online/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE DREAMERS",
+      "date_display": "Tue, Apr 21 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-dreamers"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Dry Leaf",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/dry-leaf/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Cadence 2026 \u2013 proof that we were here",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/cadence-2026-proof-that-we-were-here/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Cadence 2026 \u2013 an imperceptible mark",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/cadence-2026-an-imperceptible-mark/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Jazz Meets Film: A 50 Year Collaboration",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/jazz-meets-film-a-50-year-collaboration/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "?????? CINEMA",
+      "date_display": "Tue, Apr 21 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/blindfold"
     },
     {
       "theater": "NWFF",
@@ -100,18 +65,11 @@
       "link": "https://nwfilmforum.org/films/mourning-sickness-vol-5-heathers/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE DREAMERS",
-      "date_display": "Tue, Apr 21 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-dreamers"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "?????? CINEMA",
-      "date_display": "Tue, Apr 21 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/blindfold"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Dry Leaf",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/dry-leaf/"
     },
     {
       "theater": "The Beacon",
