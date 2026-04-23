@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-04-22 17:02:02",
+  "updated_at": "2026-04-23 17:20:50",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CRAZED FRUIT",
-      "date_display": "Wed, Apr 22 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/crazed-fruit"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE DREAMERS",
-      "date_display": "Wed, Apr 22 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-dreamers"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,11 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/scream-for-help"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Unpoetry",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/unpoetry/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "EARTH\u2019S GREATEST ENEMY",
+      "date_display": "Fri, Apr 24 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/earths-greatest-enemy"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CECE\u2019S INTERLUDE",
+      "date_display": "Fri, Apr 24 @ 08:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/ceces-interlude"
     },
     {
       "theater": "NWFF",
@@ -70,20 +63,6 @@
       "title": "Dry Leaf",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/dry-leaf/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "EARTH\u2019S GREATEST ENEMY",
-      "date_display": "Fri, Apr 24 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/earths-greatest-enemy"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CECE\u2019S INTERLUDE",
-      "date_display": "Fri, Apr 24 @ 08:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/ceces-interlude"
     },
     {
       "theater": "The Beacon",
