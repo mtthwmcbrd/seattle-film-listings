@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-04-23 17:20:50",
+  "updated_at": "2026-04-24 16:57:26",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CRAZED FRUIT",
-      "date_display": "Thu, Apr 23 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/crazed-fruit"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "SCREAM FOR HELP",
-      "date_display": "Thu, Apr 23 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/scream-for-help"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -63,6 +49,20 @@
       "title": "Dry Leaf",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/dry-leaf/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society Presents Locals Only: April 2026",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-april-2026/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Eternal Recurrence: Six Films by Anna Kipervaser",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/eternal-recurrence-six-films-by-anna-kipervaser/"
     },
     {
       "theater": "The Beacon",
@@ -462,6 +462,13 @@
       "title": "THE MAN WHO SHOT LIBERTY VALANCE",
       "date_display": "Sun, May 31 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "STALKER",
+      "date_display": "Sun, May 31 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/stalker"
     },
     {
       "theater": "The Beacon",
