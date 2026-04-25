@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-04-24 16:57:26",
+  "updated_at": "2026-04-25 16:41:29",
   "movies": [
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "EARTH\u2019S GREATEST ENEMY",
-      "date_display": "Fri, Apr 24 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/earths-greatest-enemy"
+      "title": "CECE\u2019S INTERLUDE",
+      "date_display": "Sat, Apr 25 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/ceces-interlude"
     },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
-      "title": "CECE\u2019S INTERLUDE",
-      "date_display": "Fri, Apr 24 @ 08:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/ceces-interlude"
+      "title": "WAIT UNTIL DARK",
+      "date_display": "Sun, Apr 26 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wait-until-dark"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Revelations of Divine Love",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/revelations-of-divine-love/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "JEANNE DIELMAN, 23, QUAI DU COMMERCE, 1080 BRUXELLES",
+      "date_display": "Sun, Apr 26 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/jeanne-dielman-23-quai-du-commerce-1080-bruxelles"
     },
     {
       "theater": "NWFF",
@@ -53,6 +53,13 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
+      "title": "Revelations of Divine Love",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/revelations-of-divine-love/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
       "title": "Seattle Film Society Presents Locals Only: April 2026",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-april-2026/"
@@ -65,25 +72,18 @@
       "link": "https://nwfilmforum.org/films/eternal-recurrence-six-films-by-anna-kipervaser/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CECE\u2019S INTERLUDE",
-      "date_display": "Sat, Apr 25 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/ceces-interlude"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Truth To Fiction: American Dream - 4K Restoration",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/truth-to-fiction-american-dream-4k-restoration/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WAIT UNTIL DARK",
-      "date_display": "Sun, Apr 26 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/wait-until-dark"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "JEANNE DIELMAN, 23, QUAI DU COMMERCE, 1080 BRUXELLES",
-      "date_display": "Sun, Apr 26 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/jeanne-dielman-23-quai-du-commerce-1080-bruxelles"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "A Body To Live In",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/a-body-to-live-in/"
     },
     {
       "theater": "The Beacon",
@@ -182,6 +182,13 @@
       "title": "MY DARLING CLEMENTINE",
       "date_display": "Mon, May 04 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/my-darling-clementine"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "RED MAY: STATE OF SIEGE",
+      "date_display": "Mon, May 04 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/red-may-state-of-siege"
     },
     {
       "theater": "The Beacon",
@@ -326,9 +333,23 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "WTO/99",
+      "date_display": "Fri, May 15 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wto-99"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "VHS \u00dcBER ALLES PRESENTS",
       "date_display": "Fri, May 15 @ 10:00 PM",
       "link": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents-b"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WTO/99",
+      "date_display": "Sat, May 16 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/wto-99"
     },
     {
       "theater": "The Beacon",
@@ -361,6 +382,13 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "WTO/99",
+      "date_display": "Tue, May 19 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/wto-99"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "FIVE MINUTES TO LIVE!",
       "date_display": "Tue, May 19 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/five-minutes-to-live"
@@ -378,6 +406,13 @@
       "title": "BATTLE ROYALE",
       "date_display": "Wed, May 20 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/battle-royale"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WTO/99",
+      "date_display": "Thu, May 21 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/wto-99"
     },
     {
       "theater": "The Beacon",
