@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-04-25 16:41:29",
+  "updated_at": "2026-04-26 16:43:07",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CECE\u2019S INTERLUDE",
-      "date_display": "Sat, Apr 25 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/ceces-interlude"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,25 +16,25 @@
       "link": "https://thebeacon.film/calendar/movie/jeanne-dielman-23-quai-du-commerce-1080-bruxelles"
     },
     {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WAIT UNTIL DARK",
+      "date_display": "Mon, Apr 27 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/wait-until-dark"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "SING A SONG OF SEX",
+      "date_display": "Mon, Apr 27 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/sing-a-song-of-sex"
+    },
+    {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "Staff Selects - Nocturama",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/staff-selects-nocturama/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "In Another Light: A 10-Year Celebration of Home Movies",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/in-another-light-a-10-year-celebration-of-home-movies/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "MOURNING SICKNESS VOL. 5: Heathers",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/mourning-sickness-vol-5-heathers/"
     },
     {
       "theater": "NWFF",
@@ -86,18 +79,18 @@
       "link": "https://nwfilmforum.org/films/a-body-to-live-in/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WAIT UNTIL DARK",
-      "date_display": "Mon, Apr 27 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/wait-until-dark"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "American Dream - 4K Restoration",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/american-dream-4k-restoration/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "SING A SONG OF SEX",
-      "date_display": "Mon, Apr 27 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/sing-a-song-of-sex"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Harlan County, USA - 4K Restoration",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/harlan-county-usa-4k-restoration/"
     },
     {
       "theater": "The Beacon",
