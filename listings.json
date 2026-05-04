@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-03 16:51:55",
+  "updated_at": "2026-05-04 17:40:50",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MY DARLING CLEMENTINE",
-      "date_display": "Sun, May 03 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/my-darling-clementine"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE WARPED ONES",
-      "date_display": "Sun, May 03 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-warped-ones"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,25 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/red-may-state-of-siege"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Harlan County, USA - 4K Restoration",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/harlan-county-usa-4k-restoration/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "$POSITIONS",
+      "date_display": "Tue, May 05 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/positions"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "A Body To Live In",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/a-body-to-live-in/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "American Dream - 4K Restoration",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/american-dream-4k-restoration/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BONES",
+      "date_display": "Tue, May 05 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bones"
     },
     {
       "theater": "NWFF",
@@ -91,20 +70,6 @@
       "title": "The Trap",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-trap/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "$POSITIONS",
-      "date_display": "Tue, May 05 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/positions"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BONES",
-      "date_display": "Tue, May 05 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bones"
     },
     {
       "theater": "The Beacon",
