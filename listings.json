@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-05 17:24:07",
+  "updated_at": "2026-05-06 17:40:59",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "$POSITIONS",
-      "date_display": "Tue, May 05 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/positions"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BONES",
-      "date_display": "Tue, May 05 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bones"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "THE RAZOR\u2019S EDGE",
       "date_display": "Wed, May 06 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-razors-edge"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE RAZOR\u2019S EDGE",
+      "date_display": "Thu, May 07 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-razors-edge"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THROW AWAY YOUR BOOKS, RALLY IN THE STREETS",
+      "date_display": "Thu, May 07 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/throw-away-your-books-rally-in-the-streets"
     },
     {
       "theater": "NWFF",
@@ -70,20 +70,6 @@
       "title": "The Trap",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-trap/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE RAZOR\u2019S EDGE",
-      "date_display": "Thu, May 07 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-razors-edge"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THROW AWAY YOUR BOOKS, RALLY IN THE STREETS",
-      "date_display": "Thu, May 07 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/throw-away-your-books-rally-in-the-streets"
     },
     {
       "theater": "The Beacon",
