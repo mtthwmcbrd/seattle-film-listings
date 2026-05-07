@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-06 17:40:59",
+  "updated_at": "2026-05-07 17:48:24",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE WARPED ONES",
-      "date_display": "Wed, May 06 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-warped-ones"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE RAZOR\u2019S EDGE",
-      "date_display": "Wed, May 06 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-razors-edge"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,11 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/throw-away-your-books-rally-in-the-streets"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Arab Film Club: Still Dreaming (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/saff-arab-film-club-still-dreaming-shorts/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THROW AWAY YOUR BOOKS, RALLY IN THE STREETS",
+      "date_display": "Fri, May 08 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/throw-away-your-books-rally-in-the-streets"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE SEDUCTION OF MIMI",
+      "date_display": "Fri, May 08 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
     },
     {
       "theater": "NWFF",
@@ -72,18 +65,18 @@
       "link": "https://nwfilmforum.org/films/the-trap/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THROW AWAY YOUR BOOKS, RALLY IN THE STREETS",
-      "date_display": "Fri, May 08 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/throw-away-your-books-rally-in-the-streets"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Close-Up",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/close-up/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE SEDUCTION OF MIMI",
-      "date_display": "Fri, May 08 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Two Seasons, Two Strangers",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/two-seasons-two-strangers/"
     },
     {
       "theater": "The Beacon",
