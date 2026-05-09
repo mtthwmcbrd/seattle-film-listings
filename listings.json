@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-05-08 17:17:45",
+  "updated_at": "2026-05-09 16:55:39",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THROW AWAY YOUR BOOKS, RALLY IN THE STREETS",
-      "date_display": "Fri, May 08 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/throw-away-your-books-rally-in-the-streets"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE SEDUCTION OF MIMI",
-      "date_display": "Fri, May 08 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DR. CALIGARI",
-      "date_display": "Fri, May 08 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/dr-caligari"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,11 +9,25 @@
       "link": "https://thebeacon.film/calendar/movie/god-speed-you-black-emperor"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Most Terrible Time In My Life",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/the-most-terrible-time-in-my-life/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "DR. CALIGARI",
+      "date_display": "Sat, May 09 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/dr-caligari"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HOW GREEN WAS MY VALLEY",
+      "date_display": "Sun, May 10 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TR\u00c1S-OS-MONTES",
+      "date_display": "Sun, May 10 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/tras-os-montes"
     },
     {
       "theater": "NWFF",
@@ -42,6 +35,13 @@
       "title": "Erupcja",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/erupcja/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "The Most Terrible Time In My Life",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/the-most-terrible-time-in-my-life/"
     },
     {
       "theater": "NWFF",
@@ -79,25 +79,11 @@
       "link": "https://nwfilmforum.org/films/two-seasons-two-strangers/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DR. CALIGARI",
-      "date_display": "Sat, May 09 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/dr-caligari"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HOW GREEN WAS MY VALLEY",
-      "date_display": "Sun, May 10 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TR\u00c1S-OS-MONTES",
-      "date_display": "Sun, May 10 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/tras-os-montes"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "An Evening with Sky Hopinka",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/an-evening-with-sky-hopinka/"
     },
     {
       "theater": "The Beacon",
