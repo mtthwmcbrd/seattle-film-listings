@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-09 16:55:39",
+  "updated_at": "2026-05-10 16:56:25",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "GOD SPEED YOU! BLACK EMPEROR",
-      "date_display": "Sat, May 09 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/god-speed-you-black-emperor"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "DR. CALIGARI",
-      "date_display": "Sat, May 09 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/dr-caligari"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,11 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/tras-os-montes"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Erupcja",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/erupcja/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HOW GREEN WAS MY VALLEY",
+      "date_display": "Mon, May 11 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MID/EVIL TIMES",
+      "date_display": "Mon, May 11 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mid-evil-times"
     },
     {
       "theater": "NWFF",
@@ -46,16 +39,16 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "The Stairway to the Distant Past",
+      "title": "Erupcja",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/the-stariway-to-the-distant-past/"
+      "link": "https://nwfilmforum.org/films/erupcja/"
     },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Symphony of Sight and Sound: A Jon Behrens Retrospective",
+      "title": "The Stairway to the Distant Past",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/symphony-of-sight-and-sound-a-jon-behrens-retrospective/"
+      "link": "https://nwfilmforum.org/films/the-stariway-to-the-distant-past/"
     },
     {
       "theater": "NWFF",
@@ -84,20 +77,6 @@
       "title": "An Evening with Sky Hopinka",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/an-evening-with-sky-hopinka/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HOW GREEN WAS MY VALLEY",
-      "date_display": "Mon, May 11 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MID/EVIL TIMES",
-      "date_display": "Mon, May 11 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/mid-evil-times"
     },
     {
       "theater": "The Beacon",
