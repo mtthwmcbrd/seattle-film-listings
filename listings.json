@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-05-11 17:54:30",
+  "updated_at": "2026-05-12 17:58:55",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HOW GREEN WAS MY VALLEY",
-      "date_display": "Mon, May 11 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MID/EVIL TIMES",
-      "date_display": "Mon, May 11 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/mid-evil-times"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "THE SEDUCTION OF MIMI",
       "date_display": "Tue, May 12 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TR\u00c1S-OS-MONTES",
+      "date_display": "Wed, May 13 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/tras-os-montes"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BURST CITY",
+      "date_display": "Wed, May 13 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/burst-city"
     },
     {
       "theater": "NWFF",
@@ -49,20 +49,6 @@
       "title": "Erupcja",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/erupcja/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "TR\u00c1S-OS-MONTES",
-      "date_display": "Wed, May 13 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/tras-os-montes"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BURST CITY",
-      "date_display": "Wed, May 13 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/burst-city"
     },
     {
       "theater": "The Beacon",
@@ -179,9 +165,23 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "MAD MAX",
+      "date_display": "Fri, May 22 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/mad-max"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "SECS FEST PRESENTS VIXEN!",
       "date_display": "Fri, May 22 @ 10:00 PM",
       "link": "https://thebeacon.film/calendar/movie/secs-fest-presents-vixen"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ALLEGRO NON TROPPO",
+      "date_display": "Sat, May 23 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/allegro-non-troppo"
     },
     {
       "theater": "The Beacon",
@@ -214,9 +214,37 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "FANTASIA",
+      "date_display": "Mon, May 25 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/fantasia"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ALLEGRO NON TROPPO",
+      "date_display": "Tue, May 26 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/allegro-non-troppo"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAD MAX",
+      "date_display": "Tue, May 26 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mad-max"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "ROSA DE AREIA",
       "date_display": "Wed, May 27 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/rosa-de-areia"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FANTASIA",
+      "date_display": "Thu, May 28 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/fantasia"
     },
     {
       "theater": "The Beacon",
@@ -228,9 +256,30 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "MAD MAX",
+      "date_display": "Fri, May 29 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/mad-max"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE ROAD WARRIOR",
+      "date_display": "Fri, May 29 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-road-warrior"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "BLACK MAMBA",
       "date_display": "Fri, May 29 @ 10:00 PM",
       "link": "https://thebeacon.film/calendar/movie/black-mamba"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PSL PRESENTS: CUBA AFTER CASTRO",
+      "date_display": "Sat, May 30 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/psl-presents-cuba-after-castro"
     },
     {
       "theater": "The Beacon",
@@ -256,9 +305,268 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "STALKER",
+      "date_display": "Sun, May 31 @ 08:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/stalker"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE MAN WHO SHOT LIBERTY VALANCE",
       "date_display": "Mon, Jun 01 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE ROAD WARRIOR",
+      "date_display": "Mon, Jun 01 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-road-warrior"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE MAN WHO SHOT LIBERTY VALANCE",
+      "date_display": "Tue, Jun 02 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HOW GREEN WAS MY VALLEY",
+      "date_display": "Tue, Jun 02 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE ROAD WARRIOR",
+      "date_display": "Wed, Jun 03 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-road-warrior"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE ROAD WARRIOR",
+      "date_display": "Thu, Jun 04 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-road-warrior"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAD MAX: BEYOND THUNDERDOME",
+      "date_display": "Thu, Jun 04 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mad-max-beyond-thunderdome"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAD MAX: BEYOND THUNDERDOME",
+      "date_display": "Fri, Jun 05 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/mad-max-beyond-thunderdome"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: COME AND SEE",
+      "date_display": "Fri, Jun 05 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-come-and-see"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: IN A GLASS CAGE",
+      "date_display": "Fri, Jun 05 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-in-a-glass-cage"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: FUNNY GAMES",
+      "date_display": "Sat, Jun 06 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-funny-games"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: COMBAT SHOCK",
+      "date_display": "Sat, Jun 06 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-combat-shock"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "12 ANGRY MEN",
+      "date_display": "Sun, Jun 07 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/12-angry-men"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: DEATH BY HANGING",
+      "date_display": "Sun, Jun 07 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-death-by-hanging"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "12 ANGRY MEN",
+      "date_display": "Mon, Jun 08 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/12-angry-men"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: DANCER IN THE DARK",
+      "date_display": "Mon, Jun 08 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-dancer-in-the-dark"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: COME AND SEE",
+      "date_display": "Tue, Jun 09 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-come-and-see"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: ELEPHANT",
+      "date_display": "Tue, Jun 09 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-elephant"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: SAL\u00d2, OR THE 120 DAYS OF SODOM",
+      "date_display": "Wed, Jun 10 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-salo-or-the-120-days-of-sodom"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: FAT GIRL",
+      "date_display": "Wed, Jun 10 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-fat-girl"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: FUNNY GAMES",
+      "date_display": "Thu, Jun 11 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-funny-games"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: SAL\u00d2, OR THE 120 DAYS OF SODOM",
+      "date_display": "Thu, Jun 11 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-salo-or-the-120-days-of-sodom"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FURIOSA: A MAD MAX SAGA",
+      "date_display": "Fri, Jun 12 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/furiosa-a-mad-max-saga"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "VHS \u00dcBER ALLES PRESENTS\u2026",
+      "date_display": "Fri, Jun 12 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents-061226"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PATHS OF GLORY",
+      "date_display": "Sun, Jun 14 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/paths-of-glory"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PATHS OF GLORY",
+      "date_display": "Mon, Jun 15 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/paths-of-glory"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FURIOSA: A MAD MAX SAGA",
+      "date_display": "Thu, Jun 18 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/furiosa-a-mad-max-saga"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAD MAX: FURY ROAD",
+      "date_display": "Thu, Jun 18 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mad-max-fury-road"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE DEVIL QUEEN",
+      "date_display": "Fri, Jun 19 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-devil-queen"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE DEVIL QUEEN",
+      "date_display": "Sat, Jun 20 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-devil-queen"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WITNESS FOR THE PROSECUTION",
+      "date_display": "Sun, Jun 21 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/witness-for-the-prosecution"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAD MAX: FURY ROAD",
+      "date_display": "Sun, Jun 21 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/mad-max-fury-road"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WITNESS FOR THE PROSECUTION",
+      "date_display": "Mon, Jun 22 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/witness-for-the-prosecution"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE DEVIL QUEEN",
+      "date_display": "Mon, Jun 22 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-devil-queen"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ANATOMY OF A MURDER",
+      "date_display": "Sun, Jun 28 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/anatomy-of-a-murder"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "AN ELEPHANT SITTING STILL",
+      "date_display": "Sun, Jun 28 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/an-elephant-sitting-still"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ANATOMY OF A MURDER",
+      "date_display": "Mon, Jun 29 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/anatomy-of-a-murder"
     }
   ]
 }
