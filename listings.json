@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-05-12 17:58:55",
+  "updated_at": "2026-05-13 18:01:39",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE SEDUCTION OF MIMI",
-      "date_display": "Tue, May 12 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -21,6 +14,20 @@
       "title": "BURST CITY",
       "date_display": "Wed, May 13 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/burst-city"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MID/EVIL TIMES",
+      "date_display": "Thu, May 14 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mid-evil-times"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE SEDUCTION OF MIMI",
+      "date_display": "Thu, May 14 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
     },
     {
       "theater": "NWFF",
@@ -51,18 +58,11 @@
       "link": "https://nwfilmforum.org/films/erupcja/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MID/EVIL TIMES",
-      "date_display": "Thu, May 14 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/mid-evil-times"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE SEDUCTION OF MIMI",
-      "date_display": "Thu, May 14 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-seduction-of-mimi"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Portrait of a Lady On Fire",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/portrait-of-a-lady-on-fire/"
     },
     {
       "theater": "The Beacon",
@@ -347,6 +347,13 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "CARNIVAL IN THE NIGHT",
+      "date_display": "Wed, Jun 03 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/carnival-in-the-night"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "THE ROAD WARRIOR",
       "date_display": "Thu, Jun 04 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-road-warrior"
@@ -466,6 +473,13 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "THE FRIENDS OF EDDIE COYLE",
+      "date_display": "Fri, Jun 12 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-friends-of-eddie-coyle"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "FURIOSA: A MAD MAX SAGA",
       "date_display": "Fri, Jun 12 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/furiosa-a-mad-max-saga"
@@ -480,9 +494,23 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "THE FRIENDS OF EDDIE COYLE",
+      "date_display": "Sat, Jun 13 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-friends-of-eddie-coyle"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "PATHS OF GLORY",
       "date_display": "Sun, Jun 14 @ 02:00 PM",
       "link": "https://thebeacon.film/calendar/movie/paths-of-glory"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE FRIENDS OF EDDIE COYLE",
+      "date_display": "Sun, Jun 14 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-friends-of-eddie-coyle"
     },
     {
       "theater": "The Beacon",
@@ -511,6 +539,13 @@
       "title": "THE DEVIL QUEEN",
       "date_display": "Fri, Jun 19 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/the-devil-queen"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BEST OF SECS FEST",
+      "date_display": "Fri, Jun 19 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/best-of-secs-fest-25"
     },
     {
       "theater": "The Beacon",
