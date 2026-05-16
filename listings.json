@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-15 17:27:21",
+  "updated_at": "2026-05-16 16:58:34",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WTO/99",
-      "date_display": "Fri, May 15 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/wto-99"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "VHS \u00dcBER ALLES PRESENTS",
-      "date_display": "Fri, May 15 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/vhs-uber-alles-presents-b"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -23,11 +9,18 @@
       "link": "https://thebeacon.film/calendar/movie/wto-99"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "An Evening with Sky Hopinka",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/an-evening-with-sky-hopinka/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE GRAPES OF WRATH",
+      "date_display": "Sun, May 17 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-grapes-of-wrath"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ANA",
+      "date_display": "Sun, May 17 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/ana"
     },
     {
       "theater": "NWFF",
@@ -58,18 +51,18 @@
       "link": "https://nwfilmforum.org/films/the-cow/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE GRAPES OF WRATH",
-      "date_display": "Sun, May 17 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-grapes-of-wrath"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Altered States - 4K Restoration",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/altered-states-4k-restoration/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ANA",
-      "date_display": "Sun, May 17 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/ana"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "John Lilly and the Earth Coincidence Control Office",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/john-lilly-and-the-earth-coincidence-control-office/"
     },
     {
       "theater": "The Beacon",
@@ -508,6 +501,20 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "CHOPPER",
+      "date_display": "Tue, Jun 16 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/chopper"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CHOPPER",
+      "date_display": "Wed, Jun 17 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/chopper"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "LOVE LETTER",
       "date_display": "Wed, Jun 17 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/love-letter"
@@ -546,6 +553,13 @@
       "title": "THE DEVIL QUEEN",
       "date_display": "Sat, Jun 20 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/the-devil-queen"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BEASTMASTER",
+      "date_display": "Sat, Jun 20 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-beastmaster"
     },
     {
       "theater": "The Beacon",
