@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-20 18:18:34",
+  "updated_at": "2026-05-21 17:58:39",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ANA",
-      "date_display": "Wed, May 20 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/ana"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BATTLE ROYALE",
-      "date_display": "Wed, May 20 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/battle-royale"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,11 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/battle-royale"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Cow",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/the-cow/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BATTLE ROYALE",
+      "date_display": "Fri, May 22 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/battle-royale"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAD MAX",
+      "date_display": "Fri, May 22 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/mad-max"
     },
     {
       "theater": "NWFF",
@@ -58,18 +51,18 @@
       "link": "https://nwfilmforum.org/events/beyond-consciousness-a-john-lilly-double-feature/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BATTLE ROYALE",
-      "date_display": "Fri, May 22 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/battle-royale"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "The Travel Companion",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/the-travel-companion/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MAD MAX",
-      "date_display": "Fri, May 22 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/mad-max"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Blue Film",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/blue-film/"
     },
     {
       "theater": "The Beacon",
