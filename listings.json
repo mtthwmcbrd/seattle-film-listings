@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-23 16:58:49",
+  "updated_at": "2026-05-24 17:01:19",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ALLEGRO NON TROPPO",
-      "date_display": "Sat, May 23 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/allegro-non-troppo"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE PEACOCK KING",
-      "date_display": "Sat, May 23 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-peacock-king"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "ROSA DE AREIA",
       "date_display": "Sun, May 24 @ 05:00 PM",
       "link": "https://thebeacon.film/calendar/movie/rosa-de-areia"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WAGON MASTER",
+      "date_display": "Mon, May 25 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/wagon-master"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "FANTASIA",
+      "date_display": "Mon, May 25 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/fantasia"
     },
     {
       "theater": "NWFF",
@@ -79,18 +79,18 @@
       "link": "https://nwfilmforum.org/events/disabled-list-presents-live-comedy-may-2026/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WAGON MASTER",
-      "date_display": "Mon, May 25 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/wagon-master"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Late Spring",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/late-spring/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FANTASIA",
-      "date_display": "Mon, May 25 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/fantasia"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "With Hasan in Gaza",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/with-hasan-in-gaza/"
     },
     {
       "theater": "The Beacon",
