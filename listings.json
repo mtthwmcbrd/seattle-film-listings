@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-25 17:43:20",
+  "updated_at": "2026-05-26 18:26:08",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WAGON MASTER",
-      "date_display": "Mon, May 25 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/wagon-master"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FANTASIA",
-      "date_display": "Mon, May 25 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/fantasia"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,13 @@
       "title": "MAD MAX",
       "date_display": "Tue, May 26 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/mad-max"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "ROSA DE AREIA",
+      "date_display": "Wed, May 27 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/rosa-de-areia"
     },
     {
       "theater": "NWFF",
@@ -77,13 +70,6 @@
       "title": "A Chip Odyssey",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/a-chip-odyssey/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "ROSA DE AREIA",
-      "date_display": "Wed, May 27 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/rosa-de-areia"
     },
     {
       "theater": "The Beacon",
