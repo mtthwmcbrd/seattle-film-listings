@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-28 18:37:05",
+  "updated_at": "2026-05-29 18:33:10",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "FANTASIA",
-      "date_display": "Thu, May 28 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/fantasia"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "?????? CINEMA",
-      "date_display": "Thu, May 28 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/blindfold"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -37,18 +23,18 @@
       "link": "https://thebeacon.film/calendar/movie/black-mamba"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society Presents Locals Only: May 2026",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-may-2026/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LET CUBA LIVE FUNDRAISER SCREENING: CUBA AFTER CASTRO",
+      "date_display": "Sat, May 30 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/let-cuba-live-fundraiser-screening-cuba-after-castro"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Blue Film",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/blue-film/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WATARI, THE NINJA BOY",
+      "date_display": "Sat, May 30 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/watari-the-ninja-boy"
     },
     {
       "theater": "NWFF",
@@ -93,18 +79,11 @@
       "link": "https://nwfilmforum.org/films/take-one-theatrical-cut/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LET CUBA LIVE FUNDRAISER SCREENING: CUBA AFTER CASTRO",
-      "date_display": "Sat, May 30 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/let-cuba-live-fundraiser-screening-cuba-after-castro"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WATARI, THE NINJA BOY",
-      "date_display": "Sat, May 30 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/watari-the-ninja-boy"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Truth To Fiction: MASC",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/truth-fiction-masc/"
     },
     {
       "theater": "The Beacon",
