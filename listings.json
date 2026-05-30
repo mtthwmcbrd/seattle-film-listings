@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-05-29 18:33:10",
+  "updated_at": "2026-05-30 17:04:54",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MAD MAX",
-      "date_display": "Fri, May 29 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/mad-max"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE ROAD WARRIOR",
-      "date_display": "Fri, May 29 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-road-warrior"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLACK MAMBA",
-      "date_display": "Fri, May 29 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/black-mamba"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -37,11 +16,25 @@
       "link": "https://thebeacon.film/calendar/movie/watari-the-ninja-boy"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Disabled List Presents: Live Comedy (May 2026)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/disabled-list-presents-live-comedy-may-2026/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE MAN WHO SHOT LIBERTY VALANCE",
+      "date_display": "Sun, May 31 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "STALKER",
+      "date_display": "Sun, May 31 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/stalker"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "STALKER",
+      "date_display": "Sun, May 31 @ 08:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/stalker"
     },
     {
       "theater": "NWFF",
@@ -84,27 +77,6 @@
       "title": "Truth To Fiction: MASC",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/truth-fiction-masc/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE MAN WHO SHOT LIBERTY VALANCE",
-      "date_display": "Sun, May 31 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "STALKER",
-      "date_display": "Sun, May 31 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/stalker"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "STALKER",
-      "date_display": "Sun, May 31 @ 08:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/stalker"
     },
     {
       "theater": "The Beacon",
@@ -441,6 +413,20 @@
       "title": "ANATOMY OF A MURDER",
       "date_display": "Mon, Jun 29 @ 04:30 PM",
       "link": "https://thebeacon.film/calendar/movie/anatomy-of-a-murder"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "SYMPATHY FOR MR. VENGEANCE",
+      "date_display": "Fri, Jul 03 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/sympathy-for-mr-vengeance"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "SYMPATHY FOR MR. VENGEANCE",
+      "date_display": "Tue, Jul 07 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/sympathy-for-mr-vengeance"
     }
   ]
 }
