@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-05-30 17:04:54",
+  "updated_at": "2026-05-31 17:05:49",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LET CUBA LIVE FUNDRAISER SCREENING: CUBA AFTER CASTRO",
-      "date_display": "Sat, May 30 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/let-cuba-live-fundraiser-screening-cuba-after-castro"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WATARI, THE NINJA BOY",
-      "date_display": "Sat, May 30 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/watari-the-ninja-boy"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -37,11 +23,25 @@
       "link": "https://thebeacon.film/calendar/movie/stalker"
     },
     {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE MAN WHO SHOT LIBERTY VALANCE",
+      "date_display": "Mon, Jun 01 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE ROAD WARRIOR",
+      "date_display": "Mon, Jun 01 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-road-warrior"
+    },
+    {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Late Spring",
+      "title": "A Chip Odyssey",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/late-spring/"
+      "link": "https://nwfilmforum.org/films/a-chip-odyssey/"
     },
     {
       "theater": "NWFF",
@@ -53,9 +53,9 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "A Chip Odyssey",
+      "title": "Late Spring",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/a-chip-odyssey/"
+      "link": "https://nwfilmforum.org/films/late-spring/"
     },
     {
       "theater": "NWFF",
@@ -79,18 +79,11 @@
       "link": "https://nwfilmforum.org/films/truth-fiction-masc/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE MAN WHO SHOT LIBERTY VALANCE",
-      "date_display": "Mon, Jun 01 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE ROAD WARRIOR",
-      "date_display": "Mon, Jun 01 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-road-warrior"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "NORTHWEST NOIR: NWFF's 2026 Annual Gala",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/northwest-noir-nwffs-2026-annual-gala/"
     },
     {
       "theater": "The Beacon",
