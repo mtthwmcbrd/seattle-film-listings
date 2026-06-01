@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-05-31 17:05:49",
+  "updated_at": "2026-06-01 20:16:45",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE MAN WHO SHOT LIBERTY VALANCE",
-      "date_display": "Sun, May 31 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "STALKER",
-      "date_display": "Sun, May 31 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/stalker"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "STALKER",
-      "date_display": "Sun, May 31 @ 08:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/stalker"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -37,25 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/the-road-warrior"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "A Chip Odyssey",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/a-chip-odyssey/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE MAN WHO SHOT LIBERTY VALANCE",
+      "date_display": "Tue, Jun 02 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "With Hasan in Gaza",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/with-hasan-in-gaza/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Late Spring",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/late-spring/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HOW GREEN WAS MY VALLEY",
+      "date_display": "Tue, Jun 02 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
     },
     {
       "theater": "NWFF",
@@ -86,18 +58,11 @@
       "link": "https://nwfilmforum.org/events/northwest-noir-nwffs-2026-annual-gala/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE MAN WHO SHOT LIBERTY VALANCE",
-      "date_display": "Tue, Jun 02 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-man-who-shot-liberty-valance"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HOW GREEN WAS MY VALLEY",
-      "date_display": "Tue, Jun 02 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/how-green-was-my-valley"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Critical What?!",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/critical-what/"
     },
     {
       "theater": "The Beacon",
