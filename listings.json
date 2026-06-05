@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-06-04 18:15:23",
+  "updated_at": "2026-06-05 17:55:12",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE ROAD WARRIOR",
-      "date_display": "Thu, Jun 04 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-road-warrior"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MAD MAX: BEYOND THUNDERDOME",
-      "date_display": "Thu, Jun 04 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/mad-max-beyond-thunderdome"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -37,18 +23,11 @@
       "link": "https://thebeacon.film/calendar/movie/bleak-week-in-a-glass-cage"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Truth To Fiction: MASC",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/truth-fiction-masc/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Take One - Theatrical Cut",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/take-one-theatrical-cut/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: FUNNY GAMES",
+      "date_display": "Sat, Jun 06 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-funny-games"
     },
     {
       "theater": "NWFF",
@@ -56,6 +35,13 @@
       "title": "She Don't Fade: The Short Films of Cheryl Dunye",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/she-dont-fade-the-short-films-of-cheryl-dunye/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Take One - Theatrical Cut",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/take-one-theatrical-cut/"
     },
     {
       "theater": "NWFF",
@@ -72,11 +58,18 @@
       "link": "https://nwfilmforum.org/films/critical-what/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLEAK WEEK: FUNNY GAMES",
-      "date_display": "Sat, Jun 06 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/bleak-week-funny-games"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Blue Film",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/blue-film/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Kamikaze Hearts",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/kamikaze-hearts/"
     },
     {
       "theater": "The Beacon",
