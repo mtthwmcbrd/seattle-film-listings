@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-06-06 17:14:55",
+  "updated_at": "2026-06-07 17:16:08",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLEAK WEEK: FUNNY GAMES",
-      "date_display": "Sat, Jun 06 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/bleak-week-funny-games"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLEAK WEEK: COMBAT SHOCK",
-      "date_display": "Sat, Jun 06 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/bleak-week-combat-shock"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,11 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/bleak-week-death-by-hanging"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "NORTHWEST NOIR: NWFF's 2026 Annual Gala",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/northwest-noir-nwffs-2026-annual-gala/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "12 ANGRY MEN",
+      "date_display": "Mon, Jun 08 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/12-angry-men"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: DANCER IN THE DARK",
+      "date_display": "Mon, Jun 08 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-dancer-in-the-dark"
     },
     {
       "theater": "NWFF",
@@ -77,20 +70,6 @@
       "title": "Onda Nova",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/onda-nova/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "12 ANGRY MEN",
-      "date_display": "Mon, Jun 08 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/12-angry-men"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLEAK WEEK: DANCER IN THE DARK",
-      "date_display": "Mon, Jun 08 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bleak-week-dancer-in-the-dark"
     },
     {
       "theater": "The Beacon",
