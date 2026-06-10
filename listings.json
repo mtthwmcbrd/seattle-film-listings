@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-06-09 18:05:38",
+  "updated_at": "2026-06-10 18:30:01",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLEAK WEEK: COME AND SEE",
-      "date_display": "Tue, Jun 09 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bleak-week-come-and-see"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLEAK WEEK: ELEPHANT",
-      "date_display": "Tue, Jun 09 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bleak-week-elephant"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "BLEAK WEEK: FAT GIRL",
       "date_display": "Wed, Jun 10 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/bleak-week-fat-girl"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: FUNNY GAMES",
+      "date_display": "Thu, Jun 11 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-funny-games"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "BLEAK WEEK: SAL\u00d2, OR THE 120 DAYS OF SODOM",
+      "date_display": "Thu, Jun 11 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/bleak-week-salo-or-the-120-days-of-sodom"
     },
     {
       "theater": "NWFF",
@@ -65,18 +65,11 @@
       "link": "https://nwfilmforum.org/films/moving-history-the-queercrow-archive-vol-4/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLEAK WEEK: FUNNY GAMES",
-      "date_display": "Thu, Jun 11 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bleak-week-funny-games"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLEAK WEEK: SAL\u00d2, OR THE 120 DAYS OF SODOM",
-      "date_display": "Thu, Jun 11 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/bleak-week-salo-or-the-120-days-of-sodom"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Bound",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/bound/"
     },
     {
       "theater": "The Beacon",
