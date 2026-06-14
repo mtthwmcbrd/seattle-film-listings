@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-06-13 17:22:20",
+  "updated_at": "2026-06-14 17:20:39",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BLEAK WEEK: COME AND SEE",
-      "date_display": "Sat, Jun 13 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/bleak-week-come-and-see"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE FRIENDS OF EDDIE COYLE",
-      "date_display": "Sat, Jun 13 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-friends-of-eddie-coyle"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,6 +16,20 @@
       "link": "https://thebeacon.film/calendar/movie/the-friends-of-eddie-coyle"
     },
     {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "PATHS OF GLORY",
+      "date_display": "Mon, Jun 15 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/paths-of-glory"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LOVE LETTER",
+      "date_display": "Mon, Jun 15 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/love-letter"
+    },
+    {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "Onda Nova",
@@ -39,16 +39,16 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Kamikaze Hearts",
+      "title": "Moving History \u2013 The Queercrow Archive vol. 4",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/kamikaze-hearts/"
+      "link": "https://nwfilmforum.org/films/moving-history-the-queercrow-archive-vol-4/"
     },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Moving History \u2013 The Queercrow Archive vol. 4",
+      "title": "Kamikaze Hearts",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/moving-history-the-queercrow-archive-vol-4/"
+      "link": "https://nwfilmforum.org/films/kamikaze-hearts/"
     },
     {
       "theater": "NWFF",
@@ -72,18 +72,18 @@
       "link": "https://nwfilmforum.org/films/gangsterism/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PATHS OF GLORY",
-      "date_display": "Mon, Jun 15 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/paths-of-glory"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Cyanotype Filmmaking Following the Sun\u2019s Excursion with Interbay Cinema Society [In-Person]",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/education/workshops/cyanotype-workshop-suns-excrusion-interbay-cinema-society/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LOVE LETTER",
-      "date_display": "Mon, Jun 15 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/love-letter"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Ask Any Buddy",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/ask-any-buddy/"
     },
     {
       "theater": "The Beacon",
