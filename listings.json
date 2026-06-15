@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-06-14 17:20:39",
+  "updated_at": "2026-06-15 19:47:40",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PATHS OF GLORY",
-      "date_display": "Sun, Jun 14 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/paths-of-glory"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE FRIENDS OF EDDIE COYLE",
-      "date_display": "Sun, Jun 14 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-friends-of-eddie-coyle"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,25 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/love-letter"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Onda Nova",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/onda-nova/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LOVE LETTER",
+      "date_display": "Tue, Jun 16 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/love-letter"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Moving History \u2013 The Queercrow Archive vol. 4",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/moving-history-the-queercrow-archive-vol-4/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Kamikaze Hearts",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/kamikaze-hearts/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CHOPPER",
+      "date_display": "Tue, Jun 16 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/chopper"
     },
     {
       "theater": "NWFF",
@@ -84,20 +63,6 @@
       "title": "Ask Any Buddy",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/ask-any-buddy/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LOVE LETTER",
-      "date_display": "Tue, Jun 16 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/love-letter"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CHOPPER",
-      "date_display": "Tue, Jun 16 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/chopper"
     },
     {
       "theater": "The Beacon",
