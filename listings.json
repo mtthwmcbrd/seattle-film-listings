@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-06-15 19:47:40",
+  "updated_at": "2026-06-16 19:36:13",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PATHS OF GLORY",
-      "date_display": "Mon, Jun 15 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/paths-of-glory"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LOVE LETTER",
-      "date_display": "Mon, Jun 15 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/love-letter"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -28,6 +14,20 @@
       "title": "CHOPPER",
       "date_display": "Tue, Jun 16 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/chopper"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CHOPPER",
+      "date_display": "Wed, Jun 17 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/chopper"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LOVE LETTER",
+      "date_display": "Wed, Jun 17 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/love-letter"
     },
     {
       "theater": "NWFF",
@@ -63,20 +63,6 @@
       "title": "Ask Any Buddy",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/ask-any-buddy/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CHOPPER",
-      "date_display": "Wed, Jun 17 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/chopper"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "LOVE LETTER",
-      "date_display": "Wed, Jun 17 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/love-letter"
     },
     {
       "theater": "The Beacon",
