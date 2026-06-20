@@ -1,26 +1,33 @@
 {
-  "updated_at": "2026-06-19 17:57:44",
+  "updated_at": "2026-06-20 17:26:16",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE DEVIL QUEEN",
-      "date_display": "Fri, Jun 19 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-devil-queen"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "BEST OF SECS FEST",
-      "date_display": "Fri, Jun 19 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/best-of-secs-fest-25"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "THE DEVIL QUEEN",
       "date_display": "Sat, Jun 20 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/the-devil-queen"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BEASTMASTER",
+      "date_display": "Sat, Jun 20 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-beastmaster"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WITNESS FOR THE PROSECUTION",
+      "date_display": "Sun, Jun 21 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/witness-for-the-prosecution"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MAD MAX: FURY ROAD",
+      "date_display": "Sun, Jun 21 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/mad-max-fury-road"
     },
     {
       "theater": "NWFF",
@@ -58,25 +65,11 @@
       "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-june-2026/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BEASTMASTER",
-      "date_display": "Sat, Jun 20 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-beastmaster"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WITNESS FOR THE PROSECUTION",
-      "date_display": "Sun, Jun 21 @ 02:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/witness-for-the-prosecution"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MAD MAX: FURY ROAD",
-      "date_display": "Sun, Jun 21 @ 05:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/mad-max-fury-road"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "NWFF Summer Break 2026",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/nwff-summer-break-2026/"
     },
     {
       "theater": "The Beacon",
