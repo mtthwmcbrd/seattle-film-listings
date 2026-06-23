@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-06-22 19:27:28",
+  "updated_at": "2026-06-23 17:55:25",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "WITNESS FOR THE PROSECUTION",
-      "date_display": "Mon, Jun 22 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/witness-for-the-prosecution"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE DEVIL QUEEN",
-      "date_display": "Mon, Jun 22 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-devil-queen"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
