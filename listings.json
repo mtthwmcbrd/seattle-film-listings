@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-06-24 17:54:06",
+  "updated_at": "2026-06-25 18:09:55",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Bottom",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/bottom/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Ask Any Buddy",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/ask-any-buddy/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
