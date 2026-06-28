@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27 17:10:08",
+  "updated_at": "2026-06-28 17:11:47",
   "movies": [
     {
       "theater": "The Beacon",
@@ -16,13 +16,6 @@
       "link": "https://thebeacon.film/calendar/movie/an-elephant-sitting-still"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "NWFF Summer Break 2026",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/nwff-summer-break-2026/"
-    },
-    {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "ANATOMY OF A MURDER",
@@ -35,6 +28,13 @@
       "title": "THE BATTLE OF ALGIERS",
       "date_display": "Mon, Jun 29 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/the-battle-of-algiers"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "NWFF Summer Break 2026",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/nwff-summer-break-2026/"
     },
     {
       "theater": "The Beacon",
