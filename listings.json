@@ -1,26 +1,33 @@
 {
-  "updated_at": "2026-07-02 17:47:48",
+  "updated_at": "2026-07-03 17:25:45",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BATTLE OF ALGIERS",
-      "date_display": "Thu, Jul 02 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-battle-of-algiers"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BATTLE OF ALGIERS",
-      "date_display": "Thu, Jul 02 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-battle-of-algiers"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
       "title": "SYMPATHY FOR MR. VENGEANCE",
       "date_display": "Fri, Jul 03 @ 07:00 PM",
       "link": "https://thebeacon.film/calendar/movie/sympathy-for-mr-vengeance"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE RETURN OF THE LIVING DEAD",
+      "date_display": "Fri, Jul 03 @ 10:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-return-of-the-living-dead"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CAPE FEAR",
+      "date_display": "Sat, Jul 04 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/cape-fear"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE BIG GUNDOWN",
+      "date_display": "Sat, Jul 04 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-big-gundown"
     },
     {
       "theater": "NWFF",
@@ -51,25 +58,18 @@
       "link": "https://nwfilmforum.org/films/free-forum-beau-travail/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE RETURN OF THE LIVING DEAD",
-      "date_display": "Fri, Jul 03 @ 10:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-return-of-the-living-dead"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "FREE FORUM 2026: Cure",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/free-forum-cure/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "CAPE FEAR",
-      "date_display": "Sat, Jul 04 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/cape-fear"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE BIG GUNDOWN",
-      "date_display": "Sat, Jul 04 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-big-gundown"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "FREE FORUM 2026: Babe: Pig In The City",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/free-forum-babe-pig-in-the-city/"
     },
     {
       "theater": "The Beacon",
