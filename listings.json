@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-07-06 18:10:44",
+  "updated_at": "2026-07-07 17:58:54",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "PHANTOM LADY",
-      "date_display": "Mon, Jul 06 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/phantom-lady"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE GOOD, THE BAD AND THE UGLY",
-      "date_display": "Mon, Jul 06 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-good-the-bad-and-the-ugly"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,11 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/sympathy-for-mr-vengeance"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "NWFF Summer Break 2026",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/nwff-summer-break-2026/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE GOOD, THE BAD AND THE UGLY",
+      "date_display": "Wed, Jul 08 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-good-the-bad-and-the-ugly"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HONEYCOMB",
+      "date_display": "Wed, Jul 08 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/honeycomb"
     },
     {
       "theater": "NWFF",
@@ -140,20 +133,6 @@
       "title": "FREE FORUM 2026: Blue Velvet",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/free-forum-blue-velvet/"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE GOOD, THE BAD AND THE UGLY",
-      "date_display": "Wed, Jul 08 @ 04:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-good-the-bad-and-the-ugly"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HONEYCOMB",
-      "date_display": "Wed, Jul 08 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/honeycomb"
     },
     {
       "theater": "The Beacon",
@@ -473,9 +452,44 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "THE GREAT DICTATOR",
+      "date_display": "Sun, Aug 02 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-great-dictator"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WHITE NIGHTS",
+      "date_display": "Sun, Aug 02 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/white-nights"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE GREAT DICTATOR",
+      "date_display": "Mon, Aug 03 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-great-dictator"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WHITE NIGHTS",
+      "date_display": "Tue, Aug 04 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/white-nights"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "EXORCIST II: THE HERETIC",
       "date_display": "Tue, Aug 04 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/exorcist-ii-the-heretic"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE GREAT DICTATOR",
+      "date_display": "Wed, Aug 05 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-great-dictator"
     },
     {
       "theater": "The Beacon",
@@ -487,6 +501,27 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "WHITE NIGHTS",
+      "date_display": "Thu, Aug 06 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/white-nights"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HELL\u2019S HIGHWAY: THE TRUE STORY OF HIGHWAY SAFETY FILMS",
+      "date_display": "Fri, Aug 07 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/hells-highway-the-true-story-of-highway-safety-films"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WELCOME II THE TERRORDOME",
+      "date_display": "Fri, Aug 07 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/welcome-ii-the-terrordome"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "WHAT HAVE YOU DONE TO SOLANGE?",
       "date_display": "Fri, Aug 07 @ 10:00 PM",
       "link": "https://thebeacon.film/calendar/movie/what-have-you-done-to-solange"
@@ -494,9 +529,65 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "WELCOME II THE TERRORDOME",
+      "date_display": "Sat, Aug 08 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/welcome-ii-the-terrordome"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "HELL\u2019S HIGHWAY: THE TRUE STORY OF HIGHWAY SAFETY FILMS",
+      "date_display": "Sat, Aug 08 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/hells-highway-the-true-story-of-highway-safety-films"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MONSIEUR VERDOUX",
+      "date_display": "Sun, Aug 09 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/monsieur-verdoux"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THIS DOESN\u2019T SOUND LIKE IT HAS ANYTHING TO DO WITH WHAT OUR STORE IS DOING: FILMS BY FRANK HEATH",
+      "date_display": "Sun, Aug 09 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/this-doesnt-sound-like-it-has-anything-to-do-with-what-our-store-is-doing-films-by-frank-heath"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MONSIEUR VERDOUX",
+      "date_display": "Mon, Aug 10 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/monsieur-verdoux"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WELCOME II THE TERRORDOME",
+      "date_display": "Mon, Aug 10 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/welcome-ii-the-terrordome"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "WELCOME II THE TERRORDOME",
+      "date_display": "Tue, Aug 11 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/welcome-ii-the-terrordome"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "CINEMA PARADISO",
       "date_display": "Tue, Aug 11 @ 07:30 PM",
       "link": "https://thebeacon.film/calendar/movie/cinema-paradiso"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MONSIEUR VERDOUX",
+      "date_display": "Wed, Aug 12 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/monsieur-verdoux"
     },
     {
       "theater": "The Beacon",
@@ -515,9 +606,212 @@
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
+      "title": "HELL\u2019S HIGHWAY: THE TRUE STORY OF HIGHWAY SAFETY FILMS",
+      "date_display": "Thu, Aug 13 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/hells-highway-the-true-story-of-highway-safety-films"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
       "title": "URGH! A MUSIC WAR W/ THE PROFESSORS OF URGH",
       "date_display": "Fri, Aug 14 @ 06:30 PM",
       "link": "https://thebeacon.film/calendar/movie/urgh-a-music-war"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "KNOCKABOUT",
+      "date_display": "Fri, Aug 14 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/knockabout"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CHILDREN OF THE NIGHT: THE THIRD-ANNUAL BEACON ALL-NIGHTER",
+      "date_display": "Sat, Aug 15 @ 06:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/children-of-the-night-the-third-annual-beacon-all-nighter"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "KNOCKABOUT",
+      "date_display": "Mon, Aug 17 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/knockabout"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MIKEY AND NICKY",
+      "date_display": "Mon, Aug 17 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mikey-and-nicky"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MIKEY AND NICKY",
+      "date_display": "Tue, Aug 18 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mikey-and-nicky"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TAKE CARE OF MY CAT",
+      "date_display": "Tue, Aug 18 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/take-care-of-my-cat"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TAKE CARE OF MY CAT",
+      "date_display": "Wed, Aug 19 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/take-care-of-my-cat"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MIKEY AND NICKY",
+      "date_display": "Wed, Aug 19 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mikey-and-nicky"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MIKEY AND NICKY",
+      "date_display": "Thu, Aug 20 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mikey-and-nicky"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TAKE CARE OF MY CAT",
+      "date_display": "Thu, Aug 20 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/take-care-of-my-cat"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "TAKE CARE OF MY CAT",
+      "date_display": "Fri, Aug 21 @ 04:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/take-care-of-my-cat"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MYSTERIOUS SKIN",
+      "date_display": "Fri, Aug 21 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/mysterious-skin"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "SECS FEST PRESENTS NIGHTS IN BLACK LEATHER",
+      "date_display": "Fri, Aug 21 @ 10:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/secs-fest-presents-nights-in-black-leather"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MYSTERIOUS SKIN",
+      "date_display": "Sat, Aug 22 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/mysterious-skin"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LIMELIGHT",
+      "date_display": "Sun, Aug 23 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/limelight"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "GANDAHAR",
+      "date_display": "Sun, Aug 23 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/gandahar"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "LIMELIGHT",
+      "date_display": "Mon, Aug 24 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/limelight"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "GANDAHAR",
+      "date_display": "Mon, Aug 24 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/gandahar"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "GANDAHAR",
+      "date_display": "Tue, Aug 25 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/gandahar"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MYSTERIOUS SKIN",
+      "date_display": "Tue, Aug 25 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mysterious-skin"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "GANDAHAR",
+      "date_display": "Wed, Aug 26 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/gandahar"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CROCODILE DOSE",
+      "date_display": "Wed, Aug 26 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/crocodile-dose"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "MYSTERIOUS SKIN",
+      "date_display": "Thu, Aug 27 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/mysterious-skin"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "?????? CINEMA",
+      "date_display": "Thu, Aug 27 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/blindfold"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "CROCODILE DOSE",
+      "date_display": "Fri, Aug 28 @ 07:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/crocodile-dose"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "A KING IN NEW YORK",
+      "date_display": "Sun, Aug 30 @ 02:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/a-king-in-new-york"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "COLOSSAL YOUTH",
+      "date_display": "Sun, Aug 30 @ 05:00 PM",
+      "link": "https://thebeacon.film/calendar/movie/colossal-youth"
+    },
+    {
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "A KING IN NEW YORK",
+      "date_display": "Mon, Aug 31 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/a-king-in-new-york"
     }
   ]
 }
