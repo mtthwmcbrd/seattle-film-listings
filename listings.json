@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-07-11 16:58:10",
+  "updated_at": "2026-07-12 16:58:13",
   "movies": [
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "MACHO DANCER",
-      "date_display": "Sat, Jul 11 @ 07:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/macho-dancer"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "HONEYCOMB",
-      "date_display": "Sat, Jul 11 @ 10:00 PM",
-      "link": "https://thebeacon.film/calendar/movie/honeycomb"
-    },
     {
       "theater": "The Beacon",
       "location": "4405 Rainier Ave S",
@@ -30,32 +16,18 @@
       "link": "https://thebeacon.film/calendar/movie/no-picnic"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "FREE FORUM 2026: Yi Yi",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/free-forum-yi-yi/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "THE KILLERS",
+      "date_display": "Mon, Jul 13 @ 04:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/the-killers"
     },
     {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "FREE FORUM 2026: Soundtrack to a Coup d'Etat",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/free-forum-soundtrack-to-a-coup-detat/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "FREE FORUM 2026: Memoria",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/free-forum-memoria/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "FREE FORUM 2026: Thief",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/free-forum-thief/"
+      "theater": "The Beacon",
+      "location": "4405 Rainier Ave S",
+      "title": "NO PICNIC",
+      "date_display": "Mon, Jul 13 @ 07:30 PM",
+      "link": "https://thebeacon.film/calendar/movie/no-picnic"
     },
     {
       "theater": "NWFF",
@@ -135,18 +107,11 @@
       "link": "https://nwfilmforum.org/films/interbay-cinema-society-presents-what-grows-uninvited/"
     },
     {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "THE KILLERS",
-      "date_display": "Mon, Jul 13 @ 04:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/the-killers"
-    },
-    {
-      "theater": "The Beacon",
-      "location": "4405 Rainier Ave S",
-      "title": "NO PICNIC",
-      "date_display": "Mon, Jul 13 @ 07:30 PM",
-      "link": "https://thebeacon.film/calendar/movie/no-picnic"
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Staff Selects - Microcosmos",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/staff-selects-microcosmos/"
     },
     {
       "theater": "The Beacon",
