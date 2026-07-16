@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-07-15 17:17:21",
+  "updated_at": "2026-07-16 17:15:17",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "ASCO: Without Permission",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/asco-without-permission/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "WTF with STUFF - Transexual Menace",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/wtf-with-stuff-transexual-menace/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -56,6 +42,13 @@
       "title": "Animation Domination - The Land Before Time",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/animation-domination-the-land-before-time/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SqueakyFest Seattle",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/squeakyfest-seattle/"
     }
   ]
 }
