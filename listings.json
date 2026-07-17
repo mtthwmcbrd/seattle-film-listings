@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-07-16 17:15:17",
+  "updated_at": "2026-07-17 17:11:21",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "SFCS at 10: RRR",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/sfcs-10-rrr/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society In Focus: Zia Mohajerjasbi",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/seattle-film-society-in-focus-zia-mohajerjasbi/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
