@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 17:19:25",
+  "updated_at": "2026-07-22 17:18:54",
   "movies": [
     {
       "theater": "NWFF",
@@ -35,6 +35,13 @@
       "title": "Animation Domination - Persepolis",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/animation-domination-persepolis/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Love Lies Bleeding",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/love-lies-bleeding/"
     }
   ]
 }
