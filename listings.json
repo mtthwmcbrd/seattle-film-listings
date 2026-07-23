@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-07-22 17:18:54",
+  "updated_at": "2026-07-23 17:22:40",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "SqueakyFest Seattle",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/squeakyfest-seattle/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -42,6 +35,13 @@
       "title": "Love Lies Bleeding",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/love-lies-bleeding/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Beacon of Flesh",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/beacon-of-flesh/"
     }
   ]
 }
