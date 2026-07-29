@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-07-28 17:27:03",
+  "updated_at": "2026-07-29 17:14:24",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Love Lies Bleeding",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/love-lies-bleeding/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -42,6 +35,13 @@
       "title": "Animation Domination - The Last Unicorn",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/animation-domination-the-last-unicorn/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Work-in-Progress Screening: Like Father Like Daughter",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/education/workshops/work-progress-screening-like-father-like-daughter/"
     }
   ]
 }
