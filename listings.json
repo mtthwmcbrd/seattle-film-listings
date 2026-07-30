@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-07-29 17:14:24",
+  "updated_at": "2026-07-30 17:26:31",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Beacon of Flesh",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/beacon-of-flesh/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -42,6 +35,13 @@
       "title": "Work-in-Progress Screening: Like Father Like Daughter",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/education/workshops/work-progress-screening-like-father-like-daughter/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "The Flamingo",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/the-flamingo/"
     }
   ]
 }
