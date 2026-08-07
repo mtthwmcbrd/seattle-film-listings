@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-08-05 17:36:19",
+  "updated_at": "2026-08-07 16:53:56",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Flamingo",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/the-flamingo/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Truth To Fiction: Sherman's March (4K Restoration)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/truth-to-fiction-shermans-march-4k-restoration/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "Indie v. Industry: A Fireside Chat with Joey & Goldie",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/education/workshops/indie-v-industry-fireside-chat-joey-goldie/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Remake",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/remake/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Cabaret with Charlie's Queer Books",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/cabaret-charlies-queer-books/"
     }
   ]
 }
