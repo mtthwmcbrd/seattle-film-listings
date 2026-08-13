@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 16:55:49",
+  "updated_at": "2026-08-13 16:55:24",
   "movies": [
     {
       "theater": "NWFF",
@@ -21,6 +21,20 @@
       "title": "Animation Domination - The Wolf House",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/animation-domination-the-wolf-house/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "WTF with STUFF - Se\u00f1orita",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/wtf-with-stuff-senorita/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Members Only Mystery Preview - August 2026",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/members-mystery-preview-august-2026/"
     }
   ]
 }
