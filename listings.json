@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 16:55:24",
+  "updated_at": "2026-08-14 16:51:49",
   "movies": [
     {
       "theater": "NWFF",
@@ -35,6 +35,13 @@
       "title": "Members Only Mystery Preview - August 2026",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/members-mystery-preview-august-2026/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SFCS at 10: First Cow",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/sfcs-10-first-cow/"
     }
   ]
 }
