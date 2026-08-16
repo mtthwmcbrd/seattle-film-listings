@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-15 16:22:57",
+  "updated_at": "2026-08-16 16:23:46",
   "movies": [
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Cabaret with Charlie's Queer Books",
+      "title": "Animation Domination - The Wolf House",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/cabaret-charlies-queer-books/"
+      "link": "https://nwfilmforum.org/films/animation-domination-the-wolf-house/"
     },
     {
       "theater": "NWFF",
@@ -18,9 +18,9 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Animation Domination - The Wolf House",
+      "title": "Cabaret with Charlie's Queer Books",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/animation-domination-the-wolf-house/"
+      "link": "https://nwfilmforum.org/films/cabaret-charlies-queer-books/"
     },
     {
       "theater": "NWFF",
