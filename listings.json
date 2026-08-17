@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-08-16 16:23:46",
+  "updated_at": "2026-08-17 16:26:41",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Animation Domination - The Wolf House",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/animation-domination-the-wolf-house/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Remake",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/remake/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Cabaret with Charlie's Queer Books",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/cabaret-charlies-queer-books/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -56,6 +35,20 @@
       "title": "Three Bewildered People In The Night",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/three-bewildered-people-in-the-night/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Two Angels In The Night: A Gregg Araki Double Feature",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/two-angels-in-the-night-a-gregg-araki-double-feature/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Mysterious Skin (4K Restoration)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/mysterious-skin-4k-restoration/"
     }
   ]
 }
