@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-08-19 16:30:37",
+  "updated_at": "2026-08-20 16:34:12",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "WTF with STUFF - Se\u00f1orita",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/wtf-with-stuff-senorita/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Members Only Mystery Preview - August 2026",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/members-mystery-preview-august-2026/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -56,6 +42,13 @@
       "title": "Bottoms",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/bottoms/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Welcome to The Dollhouse",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/welcome-to-the-dollhouse/"
     }
   ]
 }
