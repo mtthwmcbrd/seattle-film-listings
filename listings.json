@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-08-25 16:36:20",
+  "updated_at": "2026-08-26 16:47:18",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Bottoms",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/bottoms/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
