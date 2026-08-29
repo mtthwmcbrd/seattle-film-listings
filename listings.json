@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-08-28 00:45:34",
+  "updated_at": "2026-08-29 00:26:01",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society Presents Locals Only: August 2026",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/seattle-film-society-presents-locals-august-2026/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Welcome to The Dollhouse",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/welcome-to-the-dollhouse/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -42,6 +28,20 @@
       "title": "Sleepbomb Presents: The Cabinet of Dr. Caligari",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/sleepbomb-presents-the-cabinet-of-dr-caligari/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Truth To Fiction: Baby Doe",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/truth-to-fiction-baby-doe/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "The Best of Betty Boop!",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/the-best-of-betty-boop/"
     }
   ]
 }
