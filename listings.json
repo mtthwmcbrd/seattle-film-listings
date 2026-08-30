@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29 19:13:59",
+  "updated_at": "2026-08-30 19:03:51",
   "movies": [
     {
       "theater": "NWFF",
@@ -42,6 +42,27 @@
       "title": "The Best of Betty Boop!",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-best-of-betty-boop/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Pazuzu's Wings: An Exorcist II Double Feature",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/pazuzus-wings-exorcist-ii-double-feature/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Boorman and The Devil",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/boorman-the-devil/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Exorcist II: The Heretic",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/exorcist-ii-heretic/"
     }
   ]
 }
