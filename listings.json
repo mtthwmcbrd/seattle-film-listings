@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-08-30 19:03:51",
+  "updated_at": "2026-08-31 21:19:14",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Two Angels In The Night: A Gregg Araki Double Feature",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/two-angels-in-the-night-a-gregg-araki-double-feature/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Mysterious Skin (4K Restoration)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/mysterious-skin-4k-restoration/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Three Bewildered People In The Night",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/three-bewildered-people-in-the-night/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
