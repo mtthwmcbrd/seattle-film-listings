@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31 21:19:14",
+  "updated_at": "2026-09-01 19:13:32",
   "movies": [
     {
       "theater": "NWFF",
@@ -25,13 +25,6 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Pazuzu's Wings: An Exorcist II Double Feature",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/pazuzus-wings-exorcist-ii-double-feature/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
       "title": "Boorman and The Devil",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/boorman-the-devil/"
@@ -42,6 +35,13 @@
       "title": "Exorcist II: The Heretic",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/exorcist-ii-heretic/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Pazuzu's Wings: An Exorcist II Double Feature",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/pazuzus-wings-exorcist-ii-double-feature/"
     }
   ]
 }
