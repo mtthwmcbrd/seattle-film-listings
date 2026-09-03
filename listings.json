@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-09-02 19:14:11",
+  "updated_at": "2026-09-03 19:08:01",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Sleepbomb Presents: The Cabinet of Dr. Caligari",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/sleepbomb-presents-the-cabinet-of-dr-caligari/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -42,6 +35,20 @@
       "title": "Pazuzu's Wings: An Exorcist II Double Feature",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/events/pazuzus-wings-exorcist-ii-double-feature/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society's Film Discussion Group",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "The Best Little Whorehouse in Texas",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/the-best-little-whorehouse-in-texas/"
     }
   ]
 }
