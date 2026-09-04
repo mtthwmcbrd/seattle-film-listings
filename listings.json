@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-09-03 19:08:01",
+  "updated_at": "2026-09-04 18:50:27",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Truth To Fiction: Baby Doe",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/truth-to-fiction-baby-doe/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Best of Betty Boop!",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/the-best-of-betty-boop/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -49,6 +35,13 @@
       "title": "The Best Little Whorehouse in Texas",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-best-little-whorehouse-in-texas/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "The Best of Betty Boop!",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/the-best-of-betty-boop/"
     }
   ]
 }
