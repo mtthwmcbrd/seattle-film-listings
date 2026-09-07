@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-09-06 18:03:22",
+  "updated_at": "2026-09-07 19:36:59",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Pazuzu's Wings: An Exorcist II Double Feature",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/pazuzus-wings-exorcist-ii-double-feature/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Boorman and The Devil",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/boorman-the-devil/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Exorcist II: The Heretic",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/exorcist-ii-heretic/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -56,6 +35,13 @@
       "title": "Once Upon a Time In Seattle",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/once-upon-time-seattle/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SFCS at 10: The History of The Seattle Mariners",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/sfcs-10-mariners/"
     }
   ]
 }
