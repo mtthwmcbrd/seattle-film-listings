@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-09 19:06:11",
+  "updated_at": "2026-09-10 18:58:16",
   "movies": [
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "Seattle Film Society's Film Discussion Group",
+      "title": "The Best of Betty Boop!",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
+      "link": "https://nwfilmforum.org/films/the-best-of-betty-boop/"
     },
     {
       "theater": "NWFF",
@@ -14,13 +14,6 @@
       "title": "The Best Little Whorehouse in Texas",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-best-little-whorehouse-in-texas/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Best of Betty Boop!",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/the-best-of-betty-boop/"
     },
     {
       "theater": "NWFF",
@@ -42,6 +35,27 @@
       "title": "SFCS at 10: The History of The Seattle Mariners",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/sfcs-10-mariners/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "WTF with STUFF - Neptune Frost",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/wtf-with-stuff-neptune-frost/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society's Film Discussion Group",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Barbara Forever",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/barbara-forever/"
     }
   ]
 }
