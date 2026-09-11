@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-09-10 18:58:16",
+  "updated_at": "2026-09-11 19:00:02",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Best of Betty Boop!",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/the-best-of-betty-boop/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "The Best Little Whorehouse in Texas",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/the-best-little-whorehouse-in-texas/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
