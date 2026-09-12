@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11 19:00:02",
+  "updated_at": "2026-09-12 18:08:58",
   "movies": [
     {
       "theater": "NWFF",
@@ -42,6 +42,13 @@
       "title": "Barbara Forever",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/barbara-forever/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 Opening Night: Again Again",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/local-sightings-2026-closing-night-again-again/"
     }
   ]
 }
