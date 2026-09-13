@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 18:08:58",
+  "updated_at": "2026-09-13 18:33:45",
   "movies": [
     {
       "theater": "NWFF",
@@ -7,13 +7,6 @@
       "title": "The End of Summer",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-end-of-summer/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Once Upon a Time In Seattle",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/once-upon-time-seattle/"
     },
     {
       "theater": "NWFF",
@@ -49,6 +42,34 @@
       "title": "Local Sightings 2026 Opening Night: Again Again",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/events/local-sightings-2026-closing-night-again-again/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Sugarfly",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-sugarfly/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 How to Start Writing Your Movie and Actually FINISH Writing It! with Mia Moore",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/education/workshops/local-sightings-2026-writing-with-mia/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 The Life We Leave",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-feature-lifeweleave/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Like a Local (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-like-a-local/"
     }
   ]
 }
