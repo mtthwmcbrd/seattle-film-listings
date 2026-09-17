@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-09-16 19:23:12",
+  "updated_at": "2026-09-17 19:34:24",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "WTF with STUFF - Neptune Frost",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/wtf-with-stuff-neptune-frost/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society's Film Discussion Group",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -91,6 +77,27 @@
       "title": "Local Sightings 2026 \u2013 Ways of Seeing (Shorts)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/local-sightings-2026-ways-of-seeing/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Creature Feature (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-creature-feature/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society's Film Discussion Group",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Origin Story (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-origin-story/"
     }
   ]
 }
