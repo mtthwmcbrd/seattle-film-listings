@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-09-17 19:34:24",
+  "updated_at": "2026-09-18 18:54:11",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Barbara Forever",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/barbara-forever/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -98,6 +91,20 @@
       "title": "Local Sightings 2026 \u2013 Origin Story (Shorts)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/local-sightings-2026-origin-story/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Life in The Sound",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-life-in-the-sound/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Lenses (Experimental Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-lenses-experimental-shorts/"
     }
   ]
 }
