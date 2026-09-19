@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-09-18 18:54:11",
+  "updated_at": "2026-09-19 18:26:24",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 Opening Night: Again Again",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/local-sightings-2026-closing-night-again-again/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -105,6 +98,34 @@
       "title": "Local Sightings 2026 \u2013 Lenses (Experimental Shorts)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/local-sightings-2026-lenses-experimental-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 The Great Outdoors (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-the-great-outdoors/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Life Lines (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-life-lines-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Assets & Liabilities",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-assets-liabilities/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Queer As In (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-queer-as-in/"
     }
   ]
 }
