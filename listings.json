@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-09-19 18:26:24",
+  "updated_at": "2026-09-20 18:30:22",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Sugarfly",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-sugarfly/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 How to Start Writing Your Movie and Actually FINISH Writing It! with Mia Moore",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/education/workshops/local-sightings-2026-writing-with-mia/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 The Life We Leave",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-feature-lifeweleave/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Like a Local (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-like-a-local/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -126,6 +98,34 @@
       "title": "Local Sightings 2026 \u2013 Queer As In (Shorts)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/local-sightings-2026-queer-as-in/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Dad Genes",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-dad-genes/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Our Land (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-our-land-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Beau Ideal",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-beau-ideal/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 The Female Gaze (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-female-gaze/"
     }
   ]
 }
