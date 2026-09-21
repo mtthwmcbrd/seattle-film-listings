@@ -1,41 +1,6 @@
 {
-  "updated_at": "2026-09-20 18:30:22",
+  "updated_at": "2026-09-21 20:16:26",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Cyanotype Filmmaking Following the Sun\u2019s Excursion with Interbay Cinema Society [In-Person]",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/education/workshops/cyanotype-workshop-suns-excrusion-interbay-cinema-society/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Into the Unknown: My Cancer Story",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-unknown-cancer-story/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 DIY Movie Making for Anyone & Everyone with Zach Weintraub",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/education/workshops/local-sightings-2026-diy-movie-making-zach/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Through My Board",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-board/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Ways of Seeing (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-ways-of-seeing/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -126,6 +91,13 @@
       "title": "Local Sightings 2026 \u2013 The Female Gaze (Shorts)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/local-sightings-2026-female-gaze/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 Closing Night: The Joyless Economy",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/local-sightings-2026-closing-night-the-joyless-economy/"
     }
   ]
 }
