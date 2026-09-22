@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21 20:16:26",
+  "updated_at": "2026-09-22 19:35:04",
   "movies": [
     {
       "theater": "NWFF",
@@ -91,6 +91,20 @@
       "title": "Local Sightings 2026 \u2013 The Female Gaze (Shorts)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/local-sightings-2026-female-gaze/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 Like a Local (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-like-a-local/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Local Sightings 2026 \u2013 The Life We Leave",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/local-sightings-2026-feature-lifeweleave/"
     },
     {
       "theater": "NWFF",
