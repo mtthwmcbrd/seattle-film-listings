@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-09-23 19:28:30",
+  "updated_at": "2026-09-24 19:48:55",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Creature Feature (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-creature-feature/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society's Film Discussion Group",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Origin Story (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-origin-story/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -119,6 +98,20 @@
       "title": "The Incredibly True Adventure of Two Girls in Love",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-incredibly-true-adventure-of-two-girls-in-love/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Equinox Flower",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/equinox-flower/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society's Film Discussion Group",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
     }
   ]
 }
