@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-09-24 19:48:55",
+  "updated_at": "2026-09-25 19:51:15",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Life in The Sound",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-life-in-the-sound/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Lenses (Experimental Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-lenses-experimental-shorts/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -112,6 +98,13 @@
       "title": "Seattle Film Society's Film Discussion Group",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Truth To Fiction: The History of Concrete",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/truth-to-fiction-the-history-of-concrete/"
     }
   ]
 }
