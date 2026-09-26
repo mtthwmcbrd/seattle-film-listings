@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-09-25 19:51:15",
+  "updated_at": "2026-09-26 19:03:19",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 The Great Outdoors (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-the-great-outdoors/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Life Lines (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-life-lines-shorts/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Assets & Liabilities",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-assets-liabilities/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Local Sightings 2026 \u2013 Queer As In (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/local-sightings-2026-queer-as-in/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -105,6 +77,27 @@
       "title": "Truth To Fiction: The History of Concrete",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/truth-to-fiction-the-history-of-concrete/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "The History of Concrete",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/the-history-of-concrete/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Chronovisor",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/chronovisor/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "TRAUMA BOND: Cannibal Holocaust (4K Restoration)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/trauma-bond-cannibal-holocaust-4k-restoration/"
     }
   ]
 }
