@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-09-30 20:35:19",
+  "updated_at": "2026-10-01 20:49:45",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Equinox Flower",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/equinox-flower/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society's Film Discussion Group",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "Truth To Fiction: The History of Concrete",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/truth-to-fiction-the-history-of-concrete/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Equinox Flower",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/equinox-flower/"
     },
     {
       "theater": "NWFF",
@@ -42,6 +35,13 @@
       "title": "TRAUMA BOND: Cannibal Holocaust (4K Restoration)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/trauma-bond-cannibal-holocaust-4k-restoration/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "True Stories",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/true-stories/"
     }
   ]
 }
