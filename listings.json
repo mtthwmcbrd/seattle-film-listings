@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 20:22:49",
+  "updated_at": "2026-10-03 19:01:26",
   "movies": [
     {
       "theater": "NWFF",
@@ -18,16 +18,23 @@
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "TRAUMA BOND: Cannibal Holocaust (4K Restoration)",
+      "title": "True Stories",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/trauma-bond-cannibal-holocaust-4k-restoration/"
+      "link": "https://nwfilmforum.org/films/true-stories/"
     },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
-      "title": "True Stories",
+      "title": "TRAUMA BOND: Come and See",
       "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/true-stories/"
+      "link": "https://nwfilmforum.org/films/trauma-bond-come-and-see/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "An Autumn Afternoon",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/an-autumn-afternoon/"
     }
   ]
 }
