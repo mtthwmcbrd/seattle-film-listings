@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03 19:01:26",
+  "updated_at": "2026-10-04 19:14:14",
   "movies": [
     {
       "theater": "NWFF",
@@ -35,6 +35,13 @@
       "title": "An Autumn Afternoon",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/an-autumn-afternoon/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Screamplay (4K Restoration)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/screamplay-4k-restoration/"
     }
   ]
 }
