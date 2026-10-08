@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 21:01:53",
+  "updated_at": "2026-10-08 21:03:23",
   "movies": [
     {
       "theater": "NWFF",
@@ -35,6 +35,27 @@
       "title": "The History of Concrete",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-history-of-concrete/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "SFCS at 10: Green Room",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/sfcs-10-green-room/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society's Film Discussion Group",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Chronovisor",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/chronovisor/"
     }
   ]
 }
