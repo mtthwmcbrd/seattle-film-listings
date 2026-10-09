@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-10-08 21:03:23",
+  "updated_at": "2026-10-09 20:34:21",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "True Stories",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/true-stories/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -56,6 +49,20 @@
       "title": "Chronovisor",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/chronovisor/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: Understanding Myself as an Amphibian + Objectionable Fruit",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-understanding-myself-as-an-amphibian-objectionable-fruit/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society In Focus: Tyler Michael James",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/seattle-film-society-in-focus-tyler-michael-james/"
     }
   ]
 }
