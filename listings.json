@@ -1,13 +1,6 @@
 {
-  "updated_at": "2026-10-09 20:34:21",
+  "updated_at": "2026-10-10 19:49:12",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "TRAUMA BOND: Come and See",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/trauma-bond-come-and-see/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -63,6 +56,27 @@
       "title": "Seattle Film Society In Focus: Tyler Michael James",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/seattle-film-society-in-focus-tyler-michael-james/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: Scare Package (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-scare-package-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: Trans Panic!",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-trans-panic/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "TRAUMA BOND: Irreversible",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/trauma-bond-irreversible/"
     }
   ]
 }
