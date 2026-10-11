@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10 19:49:12",
+  "updated_at": "2026-10-11 19:56:31",
   "movies": [
     {
       "theater": "NWFF",
@@ -77,6 +77,34 @@
       "title": "TRAUMA BOND: Irreversible",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/trauma-bond-irreversible/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: Entanglements (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-entanglements-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: Jucks + If I'm Here It Is By Mystery",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-jucks-mystery/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: Drawn to Life (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-drawn-to-life-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: Flesh & Fluids (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-flesh-fluids-shorts/"
     }
   ]
 }
