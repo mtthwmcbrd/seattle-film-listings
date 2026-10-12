@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-10-11 19:56:31",
+  "updated_at": "2026-10-12 22:44:28",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "An Autumn Afternoon",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/an-autumn-afternoon/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Screamplay (4K Restoration)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/screamplay-4k-restoration/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "The History of Concrete",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-history-of-concrete/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "An Autumn Afternoon",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/an-autumn-afternoon/"
     },
     {
       "theater": "NWFF",
@@ -105,6 +98,34 @@
       "title": "STUFF 2026: Flesh & Fluids (Shorts)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/stuff-2026-flesh-fluids-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: Mutable Archive (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-mutable-archive-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: Trans-It (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-trans-it-shorts/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: Castration Movie Chapter iii. Junior Ghosts\u2014Premorphic Drift; a fragmentary passage",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-castration-movie-chapter-iii-junior-ghosts-premorphic-drift-a-fragmentary-passage/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "STUFF 2026: We Live!!! (Shorts)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/stuff-2026-live-shorts/"
     }
   ]
 }
