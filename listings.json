@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-10-14 20:00:07",
+  "updated_at": "2026-10-15 19:42:52",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "SFCS at 10: Green Room",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/sfcs-10-green-room/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society's Film Discussion Group",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Chronovisor",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/chronovisor/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -126,6 +105,27 @@
       "title": "A. Rimbaud",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/a-rimbaud/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "WTF with STUFF - Holy Trinity",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/wtf-with-stuff-holy-trinity/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society's Film Discussion Group",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Earshot Jazz Presents: The Case of The Three Sided Dream",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/the-case-of-the-three-sided-dream/"
     }
   ]
 }
