@@ -1,27 +1,6 @@
 {
-  "updated_at": "2026-10-16 19:21:08",
+  "updated_at": "2026-10-17 18:12:01",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "STUFF 2026: Scare Package (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/stuff-2026-scare-package-shorts/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "STUFF 2026: Trans Panic!",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/stuff-2026-trans-panic/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "TRAUMA BOND: Irreversible",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/trauma-bond-irreversible/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -112,6 +91,27 @@
       "title": "Earshot Jazz Presents: The Case of The Three Sided Dream",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/the-case-of-the-three-sided-dream/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Begotten (4K Restoration)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/begotten-4k-restoration/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Staff Selects - The Daytrippers",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/staff-selects-the-daytrippers/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "TRAUMA BOND: A Serbian Film (2026 Extended Cut)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/trauma-bond-a-serbian-film-2026-extended-cut/"
     }
   ]
 }
