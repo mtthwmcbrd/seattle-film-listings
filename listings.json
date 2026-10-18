@@ -1,34 +1,6 @@
 {
-  "updated_at": "2026-10-17 18:12:01",
+  "updated_at": "2026-10-18 18:28:13",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "STUFF 2026: Entanglements (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/stuff-2026-entanglements-shorts/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "STUFF 2026: Jucks + If I'm Here It Is By Mystery",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/stuff-2026-jucks-mystery/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "STUFF 2026: Drawn to Life (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/stuff-2026-drawn-to-life-shorts/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "STUFF 2026: Flesh & Fluids (Shorts)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/stuff-2026-flesh-fluids-shorts/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -112,6 +84,13 @@
       "title": "TRAUMA BOND: A Serbian Film (2026 Extended Cut)",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/trauma-bond-a-serbian-film-2026-extended-cut/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "MOURNING SICKNESS VOL. 5: Elvira: Mistress of the Dark",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/mourning-sickness-vol-5-elvira-mistress-of-the-dark/"
     }
   ]
 }
