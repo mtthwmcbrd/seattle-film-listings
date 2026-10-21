@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-10-20 19:50:29",
+  "updated_at": "2026-10-21 19:55:57",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "A. Rimbaud",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/a-rimbaud/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Who Moves America",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/who-moves-america/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -63,6 +49,13 @@
       "title": "MOURNING SICKNESS VOL. 5: Elvira: Mistress of the Dark",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/mourning-sickness-vol-5-elvira-mistress-of-the-dark/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Jennifer's Body",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/jennifers-body/"
     }
   ]
 }
