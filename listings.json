@@ -1,20 +1,6 @@
 {
-  "updated_at": "2026-10-21 19:55:57",
+  "updated_at": "2026-10-22 19:45:56",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "WTF with STUFF - Holy Trinity",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/wtf-with-stuff-holy-trinity/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Seattle Film Society's Film Discussion Group",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
@@ -56,6 +42,13 @@
       "title": "Jennifer's Body",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/jennifers-body/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Seattle Film Society's Film Discussion Group",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/events/seattle-film-societys-film-discussion-group/"
     }
   ]
 }
