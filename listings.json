@@ -1,26 +1,19 @@
 {
-  "updated_at": "2026-10-26 20:54:11",
+  "updated_at": "2026-10-27 20:27:10",
   "movies": [
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Begotten (4K Restoration)",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/begotten-4k-restoration/"
-    },
-    {
-      "theater": "NWFF",
-      "location": "1515 12th Ave",
-      "title": "Staff Selects - The Daytrippers",
-      "date_display": "Check Website",
-      "link": "https://nwfilmforum.org/films/staff-selects-the-daytrippers/"
-    },
     {
       "theater": "NWFF",
       "location": "1515 12th Ave",
       "title": "Jennifer's Body",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/jennifers-body/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Begotten (4K Restoration)",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/begotten-4k-restoration/"
     },
     {
       "theater": "NWFF",
@@ -56,6 +49,13 @@
       "title": "Once Upon a Time In Seattle",
       "date_display": "Check Website",
       "link": "https://nwfilmforum.org/films/once-upon-time-seattle/"
+    },
+    {
+      "theater": "NWFF",
+      "location": "1515 12th Ave",
+      "title": "Palestine Cinema Days 2026: Foragers",
+      "date_display": "Check Website",
+      "link": "https://nwfilmforum.org/films/palestine-cinema-days-2026-foragers/"
     }
   ]
 }
